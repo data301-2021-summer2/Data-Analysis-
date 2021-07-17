@@ -1,0 +1,898 @@
+Year,Month,State,Location,Food,Species,Status,Illnesses,Hospitalizations,Fatalities
+2015,January,California,Restaurant,,,,5,0,0
+2015,January,California,Fast Food Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,January,California,Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,January,California,,Breads,Unknown,Confirmed,44,0,0
+2015,January,Colorado,Restaurant,,,,2,0,0
+2015,January,Colorado,,"Muffin, Unspecified",,,10,0,0
+2015,January,Colorado,Restaurant,,Clostridium perfringens,Suspected,3,0,0
+2015,January,Connecticut,Restaurant,Mimosa,Norovirus genogroup II,Confirmed,18,0,0
+2015,January,Connecticut,Private Home/Residence,"Crab, Raw",Vibrio parahaemolyticus,Confirmed,2,0,0
+2015,January,Florida,Catering Service; Grocery Store,"Beef, Stew",,,9,0,0
+2015,January,Florida,Fast Food Restaurant,,Norovirus genogroup II,Suspected,4,0,0
+2015,January,Florida,Grocery Store,Cake,Norovirus,Suspected,5,0,0
+2015,January,Florida,Restaurant,Mushroom And Swiss Hamburger Sandwich,,,4,0,0
+2015,January,Florida,Restaurant,,Norovirus genogroup II,Confirmed,6,0,0
+2015,January,Florida,Restaurant,"Tortilla Chips; Salsa, Unspecified; Enchiladas",,,3,0,0
+2015,January,Florida,Restaurant,Ice,,,4,0,0
+2015,January,Florida,Private Home/Residence,"Fish, Snapper",Ciguatoxin,Confirmed,2,0,0
+2015,January,Hawaii,,Walu Fish,Unknown,Suspected,2,0,0
+2015,January,Illinois,Fast Food Restaurant,,Norovirus genogroup II,Confirmed,2,0,0
+2015,January,Illinois,,Apple Juice,Unknown,Suspected,6,0,0
+2015,January,Illinois,School/College/University,,,,7,0,0
+2015,January,Indiana,Unknown,,,,10,0,0
+2015,January,Iowa,Catering Service,,Norovirus genogroup II,Confirmed,11,2,0
+2015,January,Kansas,,,Norovirus genogroup II,Confirmed,61,7,1
+2015,January,Kentucky,,,"Escherichia coli, Shiga toxin-producing",Confirmed,2,2,0
+2015,January,Maryland,Restaurant,,,,3,0,0
+2015,January,Maryland,Banquet Facility,,,,46,0,0
+2015,January,Michigan,,,Salmonella enterica,Confirmed,5,2,0
+2015,January,Michigan,Restaurant,"Salad, Other; Salad",,,8,0,0
+2015,January,Minnesota,Restaurant,,Norovirus genogroup II,Confirmed,7,0,0
+2015,January,Minnesota,Restaurant Buffet,"Chicken; Banana, Unspecified",Norovirus genogroup II,Confirmed,4,0,0
+2015,January,Minnesota,,,Norovirus,Confirmed,10,0,0
+2015,January,Minnesota,Restaurant,"French Fries; Spinach Artichoke Dip; Quesadilla, Chicken",Unknown,Suspected,7,0,0
+2015,January,New York,Fast Food Restaurant,,Hepatitis A,Confirmed,3,1,0
+2015,January,North Dakota,Restaurant,,,,9,0,0
+2015,January,Ohio,Restaurant,,Norovirus genogroup II,Confirmed,4,0,0
+2015,January,Ohio,Restaurant,,Norovirus genogroup II,Confirmed,15,1,0
+2015,January,Ohio,Restaurant,,Norovirus,Suspected,3,0,0
+2015,January,Ohio,Restaurant,Alfredo Sauce,Staphylococcus unknown,Confirmed,5,0,0
+2015,January,Ohio,Restaurant,,Norovirus genogroup II,Confirmed,21,0,0
+2015,January,Ohio,Restaurant,,Norovirus,Suspected,4,0,0
+2015,January,Ohio,Restaurant,,Norovirus genogroup II,Confirmed,28,0,0
+2015,January,Oklahoma,Private Home/Residence,,Salmonella enterica,Confirmed,36,12,0
+2015,January,Oregon,Private Home/Residence,Sour Cream,Listeria monocytogenes,Confirmed,2,0,0
+2015,January,Puerto Rico,Private Home/Residence,"Fish, Hogfish",Ciguatoxin,Suspected,4,0,0
+2015,January,Rhode Island,Restaurant,,Staphylococcus aureus,Suspected,2,0,0
+2015,January,South Carolina,Catering Service,,Norovirus genogroup II,Suspected,77,0,0
+2015,January,South Carolina,Restaurant,Tuna Steak,Scombroid toxin,Confirmed,2,0,0
+2015,January,Texas,,Ginger,,,2,0,0
+2015,January,Texas,Restaurant,,Norovirus genogroup II,Confirmed,48,0,0
+2015,January,Texas,Catering Service,,,,10,0,0
+2015,January,Texas,Restaurant,"Chicken, Roasted",Salmonella unknown,Confirmed,6,0,0
+2015,January,Virginia,Restaurant; Private Home/Residence,,,,20,0,0
+2015,January,Virginia,Restaurant,"Fried Rice, Unspecified",Norovirus genogroup II,Confirmed,9,1,0
+2015,January,Virginia,Banquet Facility,,,,20,0,0
+2015,January,Virginia,Nursing Home/Assisted Living Facility,,Norovirus genogroup II,Confirmed,53,8,0
+2015,January,Virginia,School/College/University,,Norovirus genogroup II,Confirmed,94,0,0
+2015,January,Washington,Restaurant,"Beef, Brisket",Bacillus cereus,Suspected,2,0,0
+2015,January,Wisconsin,Banquet Facility,Shredded Chicken,Clostridium perfringens,Suspected,58,0,0
+2015,February,Arizona,Restaurant,,Salmonella enterica,Confirmed,2,1,0
+2015,February,California,Fast Food Restaurant,"Ground Beef, Cheeseburger",Norovirus unknown,Confirmed,2,0,0
+2015,February,California,Restaurant,,,,8,0,0
+2015,February,California,Restaurant,,,,2,0,0
+2015,February,California,Restaurant,,Staphylococcus aureus,Suspected,4,0,0
+2015,February,California,Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,February,California,Fast Food Restaurant,Rice,Bacterium,Suspected,5,0,0
+2015,February,California,Restaurant,,Norovirus unknown,Suspected,5,0,0
+2015,February,California,,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni,Confirmed,8,2,0
+2015,February,California,Restaurant,"Oysters, Raw",Norovirus unknown; Salmonella enterica,Confirmed; Suspected,21,0,0
+2015,February,California,Restaurant; Banquet Facility,"Cake; Cheese; Eggs, Quiche; Petit Fours; Truffles; Coffee; Beverages; Water; Breads",Norovirus unknown,Suspected,10,0,0
+2015,February,Colorado,Private Home/Residence,"Fish, Tuna",Scombroid toxin,Confirmed,4,0,0
+2015,February,Connecticut,Catering Service,Salad,Norovirus genogroup II,Confirmed,20,0,0
+2015,February,Connecticut,Banquet Facility,,,,60,0,0
+2015,February,Florida,Restaurant,,,,2,0,0
+2015,February,Idaho,Restaurant,"Spring Rolls, Unspecified",Salmonella enterica,Confirmed,6,0,0
+2015,February,Illinois,Fast Food Restaurant,,,,11,0,0
+2015,February,Illinois,Restaurant,,Norovirus,Suspected,4,0,0
+2015,February,Illinois,Catering Service,,Norovirus genogroup II,Confirmed,7,0,0
+2015,February,Illinois,,,Clostridium botulinum,Confirmed,2,2,0
+2015,February,Indiana,Restaurant,,,,5,0,0
+2015,February,Iowa,Fast Food Restaurant,,Norovirus unknown,Suspected,8,,0
+2015,February,Iowa,Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,February,Iowa,Restaurant,,,,5,0,0
+2015,February,Iowa,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,February,Kansas,Restaurant,,,,3,0,0
+2015,February,Kansas,Unknown,,Salmonella enterica,Confirmed,2,0,0
+2015,February,Kansas,Restaurant,,,,2,0,0
+2015,February,Kansas,Restaurant,,Norovirus genogroup II,Suspected,2,0,0
+2015,February,Massachusetts,,Beets,,,40,0,0
+2015,February,Michigan,Restaurant,,,,4,1,0
+2015,February,Michigan,Restaurant,,,,13,0,0
+2015,February,Minnesota,Banquet Facility,,Norovirus genogroup II,Confirmed,30,0,0
+2015,February,Minnesota,Fast Food Restaurant,,Norovirus genogroup II,Confirmed,18,0,0
+2015,February,Minnesota,Restaurant,,Norovirus genogroup II,Suspected,4,1,0
+2015,February,Montana,Restaurant,,,,4,0,0
+2015,February,Montana,Restaurant,Garden Salad,Salmonella enterica,Confirmed,39,1,0
+2015,February,Nevada,Restaurant,Spices,Salmonella enterica,Confirmed,7,2,0
+2015,February,New Jersey,Banquet Facility,,,,47,0,0
+2015,February,New York,Restaurant,,Norovirus genogroup II,Suspected,6,0,0
+2015,February,New York,Restaurant,Pizza,,,4,0,0
+2015,February,New York,Restaurant,Beef,,,3,0,0
+2015,February,North Dakota,Restaurant,,,,4,0,0
+2015,February,Ohio,Private Home/Residence,Chipped Beef And Onion Cheese Ball,Norovirus,Suspected,15,0,0
+2015,February,Ohio,Restaurant,,Norovirus,Suspected,3,0,0
+2015,February,Ohio,Fast Food Restaurant,,,,2,0,0
+2015,February,Ohio,Catering Service,,Norovirus genogroup II,Confirmed,28,1,0
+2015,February,Ohio,Restaurant,,Norovirus,Suspected,3,0,0
+2015,February,Ohio,Restaurant,,Norovirus genogroup II,Suspected,2,0,0
+2015,February,Ohio,Restaurant; Private Home/Residence,"Cantaloupe; Pineapple, Unspecified; Grapes",Norovirus genogroup II,Confirmed,35,0,0
+2015,February,Ohio,Catering Service,Rendang; Sate Ayam,Bacillus unknown; Clostridium perfringens,Suspected; Suspected,38,0,0
+2015,February,Oregon,Restaurant,Salsa,Norovirus genogroup II,Confirmed,10,0,0
+2015,February,Oregon,Restaurant,Guacamole,Norovirus genogroup II,Confirmed,26,0,0
+2015,February,Oregon,Restaurant,,Norovirus genogroup II,Confirmed,30,0,0
+2015,February,Oregon,,,Norovirus genogroup II,Confirmed,10,0,0
+2015,February,Pennsylvania,Restaurant,,Norovirus,Confirmed,87,0,0
+2015,February,Puerto Rico,,,,,15,,
+2015,February,South Carolina,Restaurant,,Norovirus genogroup II,Suspected,11,0,0
+2015,February,Tennessee,Restaurant,,Norovirus genogroup II,Confirmed,8,0,0
+2015,February,Texas,Fast Food Restaurant,,,,2,0,0
+2015,February,Texas,Catering Service,,,,11,0,0
+2015,February,Virginia,Restaurant,,Norovirus genogroup II,Confirmed,13,1,0
+2015,February,Virginia,Private Home/Residence,"Peas, Green",Norovirus genogroup II,Confirmed,21,1,0
+2015,February,Virginia,Restaurant,,Norovirus genogroup II,Suspected,5,0,0
+2015,February,Washington,Fast Food Restaurant,Chicken Roll,Bacillus cereus,Suspected,3,0,0
+2015,February,Washington,Catering Service,,Salmonella enterica,Confirmed,8,1,0
+2015,February,Wisconsin,Fast Food Restaurant,,Norovirus genogroup II,Confirmed,100,1,0
+2015,February,Wisconsin,Banquet Facility,,Norovirus genogroup II,Confirmed,8,0,0
+2015,February,Wisconsin,Restaurant,,,,4,0,0
+2015,March,Alabama,Restaurant,,Campylobacter jejuni,Confirmed,4,2,0
+2015,March,Arizona,Private Home/Residence; Banquet Facility,,Salmonella enterica,Confirmed,14,5,0
+2015,March,Arizona,Banquet Facility,Bruschetta,Salmonella enterica,Confirmed,38,1,0
+2015,March,Arkansas,Restaurant,,Norovirus,Suspected,17,0,0
+2015,March,California,Restaurant,,Norovirus unknown,Confirmed,8,0,0
+2015,March,California,Restaurant,,Bacillus cereus; Clostridium perfringens,Suspected; Suspected,2,0,0
+2015,March,California,Restaurant,"Salad, Unspecified",Norovirus unknown,Suspected,5,1,0
+2015,March,California,Private Home/Residence; Catering Service,,Norovirus unknown,Suspected,25,0,0
+2015,March,California,Restaurant,,Salmonella enterica,Confirmed,23,1,0
+2015,March,California,Banquet Facility,,,,12,0,0
+2015,March,California,Restaurant,,Campylobacter jejuni,Suspected,3,0,0
+2015,March,California,Restaurant,,Salmonella enterica,Confirmed,6,0,0
+2015,March,California,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,March,California,Fast Food Restaurant,,,,13,0,0
+2015,March,Colorado,Restaurant,"Oysters, Raw",Norovirus,Suspected,2,0,0
+2015,March,Colorado,Restaurant,,Norovirus,Suspected,5,0,0
+2015,March,Colorado,Private Home/Residence,Lasagna,Salmonella enterica,Confirmed,4,0,0
+2015,March,Connecticut,Restaurant,,Norovirus genogroup II,Confirmed,21,0,0
+2015,March,Florida,Restaurant,,Norovirus,Suspected,6,0,0
+2015,March,Florida,Restaurant,,Norovirus,Suspected,4,0,0
+2015,March,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin,Confirmed,2,0,0
+2015,March,Georgia,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,March,Georgia,Prison/Jail,Hot Dog; Pork And Beans,Clostridium perfringens,Confirmed,76,0,0
+2015,March,Idaho,Banquet Facility,"Turkey, Ground",Salmonella enterica,Confirmed,28,,0
+2015,March,Idaho,Farm/Dairy,"Cottage Cheese, Unpasteurized",Campylobacter,Confirmed,4,0,0
+2015,March,Illinois,Restaurant,,Norovirus; Norovirus genogroup II,Suspected; Confirmed,15,1,0
+2015,March,Illinois,Restaurant,,Norovirus,Suspected,5,0,0
+2015,March,Illinois,Banquet Facility,,Norovirus genogroup II,Confirmed,42,1,0
+2015,March,Illinois,Private Home/Residence; Catering Service,,Salmonella enterica,Suspected,8,0,0
+2015,March,Illinois,Restaurant,,"Salmonella enterica; Escherichia coli, Shiga toxin-producing; Norovirus genogroup II; Shigella",Suspected; Suspected; Confirmed; Suspected,7,0,0
+2015,March,Indiana,Restaurant,,Norovirus genogroup II,Confirmed,2,0,0
+2015,March,Iowa,Private Home/Residence,"Salmon, Unspecified",Histamine,Suspected,2,0,0
+2015,March,Iowa,Restaurant,,Norovirus,Suspected,5,0,0
+2015,March,Iowa,Unknown,,Norovirus unknown,Suspected,20,0,0
+2015,March,Iowa,Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,March,Iowa,Restaurant,,Norovirus genogroup II; Norovirus genogroup I,Confirmed; Confirmed,59,0,0
+2015,March,Kansas,Catering Service,"Enchilada, Cheese; Salsa",Bacillus cereus,Confirmed,22,0,0
+2015,March,Kansas,School/College/University,Popcorn,Norovirus genogroup I,Suspected,38,1,0
+2015,March,Kansas,Restaurant,,Norovirus genogroup II,Confirmed,2,0,0
+2015,March,Kentucky,,,,,19,0,0
+2015,March,Kentucky,Nursing Home/Assisted Living Facility,,Norovirus,Suspected,43,0,0
+2015,March,Massachusetts,Restaurant,Appetizers,Norovirus genogroup II,Confirmed,5,0,0
+2015,March,Michigan,Fast Food Restaurant,,,,2,0,0
+2015,March,Michigan,Restaurant,Chicken; Salad; Eggs,Salmonella enterica,Confirmed,6,3,0
+2015,March,Michigan,Restaurant,,Salmonella enterica,Confirmed,3,1,0
+2015,March,Minnesota,Restaurant,"Mostaccioli, Unspecified",Norovirus genogroup II,Suspected,16,0,0
+2015,March,Minnesota,Restaurant,"Soda, Unspecified; Ice",Norovirus genogroup II,Confirmed,6,0,0
+2015,March,Minnesota,Fast Food Restaurant,Coleslaw,Salmonella enterica,Confirmed,9,0,0
+2015,March,Minnesota,Fast Food Restaurant,Sour Cream,Norovirus genogroup II,Confirmed,5,0,0
+2015,March,Minnesota,Fast Food Restaurant,,Salmonella enterica,Confirmed,7,0,0
+2015,March,Minnesota,Restaurant,,,,2,0,0
+2015,March,Minnesota,,,Norovirus genogroup I,Confirmed,7,0,0
+2015,March,Multistate,Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,6,0,0
+2015,March,Multistate,Fast Food Restaurant; Restaurant; Private Home/Residence; Grocery Store,"Romaine Lettuce, Unspecified","Escherichia coli, Shiga toxin-producing",Confirmed,16,10,0
+2015,March,Multistate,Unknown,Latin Style Soft Cheese,Salmonella enterica,Confirmed,25,3,0
+2015,March,Multistate,Restaurant; Grocery Store; Office/Indoor Workplace,"Tuna, Raw",Salmonella enterica; Salmonella enterica,Confirmed; Confirmed,69,12,0
+2015,March,Multistate,Restaurant,Lettuce,Salmonella enterica,Confirmed,11,2,0
+2015,March,New Jersey,Nursing Home/Assisted Living Facility,,,,106,0,0
+2015,March,New York,Banquet Facility,Chips; Rolls; Pastries,Norovirus genogroup II,Confirmed,86,0,0
+2015,March,New York,Grocery Store,"Fish, Mahi Mahi",Scombroid toxin,Confirmed,2,0,0
+2015,March,New York,Restaurant,"Oysters, Raw",,,3,0,0
+2015,March,New York,Restaurant,Tuna Burger,Scombroid toxin,Confirmed,2,0,0
+2015,March,New York,Restaurant,Mushroom Burger,,,6,0,0
+2015,March,Ohio,Restaurant,,Norovirus,Suspected,6,1,0
+2015,March,Ohio,Restaurant,,Norovirus genogroup II,Suspected,2,0,0
+2015,March,Ohio,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,March,Ohio,Restaurant,,,,2,0,0
+2015,March,Ohio,Restaurant,Chicken,Norovirus genogroup I,Confirmed,7,0,0
+2015,March,Ohio,Restaurant,,Norovirus genogroup I,Confirmed,2,0,0
+2015,March,Ohio,,,Norovirus,Suspected,8,0,0
+2015,March,Ohio,Unknown,,,,2,0,0
+2015,March,Ohio,Private Home/Residence; Catering Service,,Norovirus genogroup II,Suspected,12,0,0
+2015,March,Ohio,Restaurant,,Norovirus genogroup II,Suspected,23,0,0
+2015,March,Oregon,,,Norovirus genogroup II,Confirmed,6,0,0
+2015,March,Pennsylvania,Banquet Facility,,,,18,0,0
+2015,March,South Carolina,School/College/University,Turkey,,,10,0,0
+2015,March,Tennessee,Restaurant; Restaurant,,,,5,0,0
+2015,March,Tennessee,Private Home/Residence; Banquet Facility; Catering Service,,Salmonella enterica,Confirmed,24,1,0
+2015,March,Texas,Private Home/Residence; Catering Service,,,,100,0,0
+2015,March,Texas,Restaurant,"Quesadilla, Beef/Steak; Chips And Salsa",,,3,0,0
+2015,March,Texas,Restaurant,,,,5,0,0
+2015,March,Texas,Restaurant,,,,3,0,0
+2015,March,Texas,Catering Service,"Chicken, Grilled; Rice, Yellow; Beans, Unspecified",,,26,0,0
+2015,March,Texas,Restaurant,,,,4,0,0
+2015,March,Texas,,Raw Milk,"Escherichia coli, Shiga toxin-producing",Suspected,4,0,0
+2015,March,Utah,Catering Service; Fair/Festival; Grocery Store,,Salmonella enterica,Confirmed,8,1,0
+2015,March,Utah,Restaurant,,,,4,1,0
+2015,March,Utah,Prison/Jail,,Streptococcus group A,Suspected,40,0,0
+2015,March,Virginia,Restaurant; Banquet Facility,,Norovirus genogroup II,Suspected,25,0,0
+2015,March,Virginia,Fast Food Restaurant,,,,9,0,0
+2015,March,Virginia,Banquet Facility,,Norovirus genogroup II,Confirmed,26,0,0
+2015,March,Washington,Private Home/Residence; Grocery Store,,Staphylococcus unknown,Suspected,5,0,0
+2015,March,Washington,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,March,Washington,Nursing Home/Assisted Living Facility,,Norovirus unknown,Suspected,13,1,0
+2015,March,Washington,Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,March,Washington,Restaurant,,Norovirus unknown,Suspected,11,0,0
+2015,March,Washington,Restaurant,Chicken Liver Pate,Campylobacter jejuni,Suspected,2,0,0
+2015,March,Wisconsin,Fast Food Restaurant,,Clostridium perfringens,Suspected,5,0,0
+2015,March,Wisconsin,Restaurant,"Oysters, Raw",Norovirus genogroup I,Confirmed,6,0,0
+2015,March,Wisconsin,Restaurant,,,,6,0,0
+2015,March,Wisconsin,Fast Food Restaurant,Sushi,Salmonella enterica,Confirmed,4,1,0
+2015,March,Wisconsin,,,Norovirus genogroup II,Confirmed,10,0,0
+2015,April,Arkansas,Restaurant,,Salmonella enterica,Confirmed,8,4,0
+2015,April,California,Restaurant,"Spring Rolls, Unspecified",Norovirus unknown,Confirmed,7,0,0
+2015,April,California,Restaurant,,Norovirus unknown,Suspected,5,0,0
+2015,April,California,Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,April,California,Restaurant,"Ground Beef, Hamburger",Norovirus unknown,Suspected,3,0,0
+2015,April,California,Catering Service,,,,7,0,0
+2015,April,California,Banquet Facility,Guacamole,Norovirus unknown,Suspected,23,0,0
+2015,April,California,Restaurant,,Norovirus unknown,Suspected,9,0,0
+2015,April,California,Banquet Facility,,Norovirus unknown,Confirmed,28,0,0
+2015,April,California,Catering Service,,Norovirus unknown,Suspected,2,0,0
+2015,April,Colorado,Restaurant,,Norovirus unknown,Confirmed,3,0,0
+2015,April,Connecticut,Restaurant; Private Home/Residence; Grocery Store,,Norovirus genogroup II,Confirmed,8,0,0
+2015,April,Connecticut,Restaurant,"Salad, Unspecified; Sandwich, Unspecified",Salmonella enterica,Confirmed,14,4,0
+2015,April,Florida,Restaurant,"Tomato, Basil And Mozzarella Salad",,,2,0,0
+2015,April,Florida,Prison/Jail,,Norovirus genogroup II,Confirmed,188,0,0
+2015,April,Florida,Grocery Store,,,,8,0,0
+2015,April,Georgia,School/College/University,,Norovirus unknown,Suspected,155,0,0
+2015,April,Georgia,Restaurant,"Rice, Fried Rice",Clostridium perfringens,Suspected,4,0,0
+2015,April,Georgia,Restaurant,"Nachos, Unspecified",Norovirus genogroup II,Confirmed,8,0,0
+2015,April,Georgia,Restaurant,"Bacon, Egg, And Cheese Biscuit",Norovirus genogroup I,Confirmed,4,0,0
+2015,April,Hawaii,Fast Food Restaurant,Fish Taco,Salmonella enterica,Confirmed,3,0,0
+2015,April,Illinois,School/College/University,,Salmonella enterica,Confirmed,3,0,0
+2015,April,Illinois,Restaurant,,Norovirus genogroup I,Confirmed,38,1,0
+2015,April,Illinois,Restaurant,,Norovirus,Suspected,5,0,0
+2015,April,Illinois,Restaurant,,Norovirus genogroup I,Confirmed,20,0,0
+2015,April,Illinois,Unknown,,Salmonella enterica,Confirmed,5,2,0
+2015,April,Illinois,Restaurant,,Norovirus genogroup II; Norovirus genogroup II,Confirmed; Confirmed; Suspected; Suspected,22,0,0
+2015,April,Iowa,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,April,Iowa,Private Home/Residence,Turkey,Salmonella enterica,Confirmed,9,0,0
+2015,April,Iowa,Catering Service,,Norovirus genogroup I,Confirmed,23,0,0
+2015,April,Kansas,Restaurant,,,,2,0,0
+2015,April,Kansas,Restaurant,,,,3,0,0
+2015,April,Kansas,Restaurant,,,,5,0,0
+2015,April,Kansas,,,Norovirus genogroup II,Confirmed,10,0,0
+2015,April,Kansas,,,Salmonella enterica,Confirmed,3,0,0
+2015,April,Kansas,Private Home/Residence,,Salmonella enterica,Confirmed,4,0,0
+2015,April,Maryland,Fast Food Restaurant,"Chicken, Buffalo Wings",,,2,0,0
+2015,April,Michigan,Banquet Facility,,Norovirus genogroup II,Confirmed,29,1,0
+2015,April,Michigan,Fast Food Restaurant,,,,3,0,0
+2015,April,Michigan,Restaurant,,,,2,0,0
+2015,April,Michigan,Restaurant,"Chicken, Shawarma",Salmonella enterica,Confirmed,5,3,0
+2015,April,Michigan,Banquet Facility,Salad,,,26,0,0
+2015,April,Michigan,Restaurant,,Norovirus,Suspected,5,0,0
+2015,April,Minnesota,Office/Indoor Workplace,,Norovirus,Confirmed,12,0,0
+2015,April,Minnesota,Banquet Facility,"Cake, Carrot",Norovirus genogroup II,Confirmed,22,0,0
+2015,April,Minnesota,Grocery Store,,Norovirus genogroup I,Confirmed,7,0,0
+2015,April,Minnesota,Restaurant,House Salad,Salmonella enterica,Confirmed,8,4,0
+2015,April,Missouri,Restaurant; Private Home/Residence; Grocery Store,Eggs,Salmonella enterica; Salmonella enterica,Confirmed; Confirmed,46,13,0
+2015,April,Montana,Catering Service,,Norovirus genogroup II,Confirmed,29,0,0
+2015,April,Multistate,,Prepackaged Leafy Greens,"Escherichia coli, Shiga toxin-producing",Confirmed,7,5,0
+2015,April,Multistate,Restaurant; Private Home/Residence; Banquet Facility; Catering Service; Grocery Store,Pork,Salmonella enterica; Salmonella enterica,Confirmed; Confirmed,192,30,0
+2015,April,Multistate,Private Home/Residence,Stuffed Chicken,Salmonella enterica,Confirmed,15,4,0
+2015,April,New Hampshire,Restaurant,,,,13,0,0
+2015,April,New Jersey,Banquet Facility,,,,6,0,0
+2015,April,New York,Restaurant,"Beans, Black",,,5,0,0
+2015,April,New York,Restaurant,,Norovirus genogroup II,Confirmed,29,1,0
+2015,April,New York,Restaurant,Chicken And Waffles,Salmonella enterica,Confirmed,7,1,0
+2015,April,North Carolina,Banquet Facility,,Salmonella unknown,Confirmed,10,0,0
+2015,April,North Carolina,,,Salmonella enterica,Confirmed,6,0,0
+2015,April,Ohio,Restaurant,,Norovirus genogroup II,Confirmed,20,0,0
+2015,April,Ohio,,Hummus,,,2,0,0
+2015,April,Ohio,Restaurant,,Norovirus genogroup II,Confirmed,4,0,0
+2015,April,Ohio,Private Home/Residence,Home Made Potato Salad,Clostridium botulinum,Confirmed,29,28,2
+2015,April,Ohio,Restaurant,,Campylobacter jejuni,Suspected,5,0,0
+2015,April,Oregon,Restaurant,,Norovirus genogroup II,Confirmed,12,0,0
+2015,April,Oregon,,,,,8,0,0
+2015,April,Pennsylvania,Restaurant,,Norovirus,Suspected,9,0,0
+2015,April,South Carolina,Restaurant,Tuna Steak,Scombroid toxin,Confirmed,2,0,0
+2015,April,Tennessee,Unknown,,Salmonella enterica,Confirmed,3,1,0
+2015,April,Texas,Restaurant,Ice Water,,,4,0,0
+2015,April,Texas,Restaurant,,,,5,0,0
+2015,April,Texas,,Raw Milk,Campylobacter unknown,Suspected,3,1,0
+2015,April,Texas,Restaurant,,,,2,0,0
+2015,April,Texas,Fair/Festival,,Norovirus genogroup II,Confirmed,35,1,0
+2015,April,Utah,,"Milk, Whole Milk Unpasteurized",Salmonella enterica,Confirmed,4,0,0
+2015,April,Virginia,Restaurant,,Norovirus genogroup II,Confirmed,7,0,0
+2015,April,Virginia,Restaurant; Catering Service,,Campylobacter jejuni,Confirmed,19,1,0
+2015,April,Washington,Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,April,Wisconsin,Fast Food Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,2,0,0
+2015,May,Alabama,Restaurant,,Salmonella enterica,Confirmed,8,0,0
+2015,May,Alaska,Private Home/Residence,"Seal, Flipper",Clostridium botulinum,Confirmed,3,3,0
+2015,May,Arizona,,,,,7,0,0
+2015,May,Arizona,Nursing Home/Assisted Living Facility,,,,6,0,0
+2015,May,California,Fast Food Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,May,California,Restaurant,,Norovirus unknown,Confirmed,18,0,0
+2015,May,California,Restaurant,"Sandwich, Gyro",,,3,0,0
+2015,May,California,Restaurant,,,,2,0,0
+2015,May,California,Restaurant,,Norovirus unknown,Suspected,5,0,0
+2015,May,California,Restaurant,,,,6,1,0
+2015,May,California,Banquet Facility,"Carne Asada; Cilantro, Unspecified",Norovirus unknown,Suspected,21,0,0
+2015,May,California,,"Goat Milk, Unpasteurized",Campylobacter jejuni,Confirmed,5,1,0
+2015,May,California,Restaurant,,Salmonella enterica,Confirmed,4,1,0
+2015,May,California,Catering Service; Camp,,Norovirus unknown,Suspected,10,0,0
+2015,May,Colorado,Restaurant,,Shigella sonnei,Suspected,5,0,0
+2015,May,Connecticut,Restaurant,Arepas,Norovirus genogroup I,Suspected,8,0,0
+2015,May,Connecticut,,,,,10,1,0
+2015,May,Florida,Restaurant,,Norovirus genogroup I,Confirmed,4,0,0
+2015,May,Florida,Catering Service,Fettucine Alfredo,Salmonella enterica,Confirmed,14,0,0
+2015,May,Hawaii,Restaurant,Fried Corn Tortilla,,,2,0,0
+2015,May,Illinois,Unknown,,Norovirus,Suspected,10,0,0
+2015,May,Illinois,Restaurant,,,,5,0,0
+2015,May,Illinois,Restaurant,"Bruschetta; Bruschetta; Chicken, Marsala","Shigella; Escherichia coli, Shiga toxin-producing; Norovirus; Salmonella enterica",Suspected; Suspected; Suspected; Suspected,20,0,0
+2015,May,Illinois,Fast Food Restaurant; Restaurant,,Norovirus genogroup II,Confirmed,17,0,0
+2015,May,Illinois,Restaurant,"Sandwich, Fajita","Shigella; Salmonella enterica; Escherichia coli, Shiga toxin-producing; Norovirus",Suspected; Suspected; Suspected; Suspected; Suspected,10,0,0
+2015,May,Kansas,Restaurant,"Tomatoes, Raw; Ground Beef",Salmonella enterica,Confirmed,10,1,0
+2015,May,Kansas,,,Salmonella enterica,Suspected,7,0,0
+2015,May,Kentucky,Catering Service,,Salmonella enterica,Confirmed,6,4,0
+2015,May,Louisiana,,,Clostridium perfringens,Confirmed,8,0,0
+2015,May,Maryland,,Strawberry Sauce,Norovirus genogroup I,Confirmed,123,0,0
+2015,May,Maryland,Restaurant; Unknown,,Salmonella enterica; Salmonella enterica,Confirmed; Suspected,8,4,0
+2015,May,Maryland,Restaurant,,,,2,0,0
+2015,May,Maryland,Private Home/Residence,Chicken Salad,,,28,0,0
+2015,May,Massachusetts,Farm/Dairy,Raw Milk,Campylobacter unknown,Suspected,2,1,0
+2015,May,Michigan,Grocery Store,,Norovirus genogroup II,Confirmed,14,0,0
+2015,May,Michigan,Restaurant,,Norovirus genogroup II,Confirmed,6,0,0
+2015,May,Michigan,Restaurant,,,,4,0,0
+2015,May,Minnesota,Grocery Store,,Chemical or toxin,Suspected,5,0,0
+2015,May,Minnesota,Restaurant,Ice,Norovirus genogroup II,Confirmed,12,0,0
+2015,May,Minnesota,Restaurant,Chicken Vindaloo,Clostridium perfringens,Confirmed,6,0,0
+2015,May,Minnesota,Office/Indoor Workplace,,Clostridium perfringens,Suspected,4,0,0
+2015,May,Minnesota,Camp,,Norovirus genogroup II,Confirmed,21,0,0
+2015,May,Minnesota,Private Home/Residence,,Shigella sonnei,Confirmed,8,2,0
+2015,May,Minnesota,Restaurant,,Norovirus,Suspected,10,2,0
+2015,May,Minnesota,Private Home/Residence,,Campylobacter jejuni,Confirmed,13,1,0
+2015,May,Minnesota,Private Home/Residence,Stuffed Chicken,Salmonella enterica,Confirmed,5,2,0
+2015,May,Minnesota,Restaurant,"Chicken, Liver Mousse",Campylobacter jejuni; Campylobacter coli,Confirmed; Suspected,9,0,0
+2015,May,Missouri,,,Salmonella enterica,Suspected,6,0,0
+2015,May,Multistate,Fast Food Restaurant; Grocery Store,Tomatoes,Salmonella enterica,Confirmed,19,4,0
+2015,May,Multistate,Restaurant; Grocery Store,Tuna Sushi,Salmonella enterica,Confirmed,5,2,0
+2015,May,Multistate,Restaurant; Restaurant,"Cilantro, Unspecified",Cyclospora cayatenensis,Confirmed,90,3,0
+2015,May,Nevada,Banquet Facility,,Norovirus unknown,Suspected,151,1,0
+2015,May,New Jersey,Banquet Facility,,,,74,0,0
+2015,May,New Jersey,Banquet Facility,,,,100,0,0
+2015,May,New York,Catering Service,,Campylobacter,Confirmed,21,1,0
+2015,May,New York,Restaurant,Tuna Burger,Scombroid toxin,Confirmed,2,0,0
+2015,May,New York,Restaurant,Chicken Samosa,,,3,0,0
+2015,May,New York,Restaurant,Provolone; Pepper Steak,,,14,0,0
+2015,May,New York,Restaurant,"Clams, Razor",,,27,0,0
+2015,May,New York,,Tuna Burger,Scombroid toxin,Confirmed,2,0,0
+2015,May,New York,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus,Confirmed,3,0,0
+2015,May,North Carolina,Banquet Facility,,,,19,0,0
+2015,May,North Dakota,School/College/University,"Chicken, Teriyaki",,,8,0,0
+2015,May,Ohio,Fast Food Restaurant,,,,2,0,0
+2015,May,Ohio,Restaurant,,,,2,0,0
+2015,May,Ohio,Banquet Facility,Salad,Norovirus genogroup II,Confirmed,48,1,0
+2015,May,Ohio,Banquet Facility,"Salad, Unspecified",Norovirus genogroup II,Confirmed,4,0,0
+2015,May,Ohio,Fast Food Restaurant,,Norovirus genogroup II,Confirmed,5,0,0
+2015,May,Ohio,Restaurant; Restaurant Buffet,,Norovirus unknown,Suspected,2,0,0
+2015,May,Ohio,Fast Food Restaurant,"Omelette; Eggs, Scrambled",,,2,0,0
+2015,May,Ohio,,"Apple Juice, Pasteurized",,,2,0,0
+2015,May,Oregon,Restaurant,French Fries,Norovirus genogroup II,Confirmed,12,0,0
+2015,May,Oregon,Restaurant,,Norovirus genogroup II,Confirmed,2,0,0
+2015,May,Rhode Island,Restaurant,Ham,Staphylococcus aureus,Suspected,3,0,0
+2015,May,South Carolina,Restaurant,,,,3,0,0
+2015,May,South Carolina,Restaurant,,Bacillus cereus,Suspected,5,0,0
+2015,May,Tennessee,Catering Service,Pork Tenderloin,Norovirus genogroup II; Norovirus,Confirmed; Confirmed,36,0,0
+2015,May,Tennessee,Restaurant,,Salmonella enterica,Confirmed,4,0,0
+2015,May,Texas,Restaurant,,,,4,0,0
+2015,May,Utah,,Ham And Rice With Cream Of Mushroom Soup,Staphylococcus aureus,Confirmed,58,0,0
+2015,May,Utah,,"Sausage, Unspecified",,,7,0,0
+2015,May,Utah,Fast Food Restaurant,,Hepatitis A,Confirmed,2,1,0
+2015,May,Virginia,Restaurant; Catering Service,Salad,Norovirus genogroup II; Norovirus genogroup II,Confirmed; Confirmed,15,1,0
+2015,May,Washington,Nursing Home/Assisted Living Facility,,Norovirus unknown,Suspected,29,2,0
+2015,May,Washington,Restaurant,"Lettuce; Tomato (See Fruit); Tortilla, Unspecified",Norovirus unknown,Suspected,8,0,0
+2015,May,Washington,School/College/University,,Norovirus genogroup II,Confirmed,37,0,0
+2015,May,Washington,Private Home/Residence; Grocery Store,,Bacterium,Suspected,6,0,0
+2015,May,Wisconsin,Restaurant,,Norovirus genogroup II; Norovirus genogroup I,Confirmed; Suspected,23,0,0
+2015,May,Wisconsin,Grocery Store,"Pork, Carnitas",Salmonella enterica,Confirmed,73,7,0
+2015,May,Wisconsin,Catering Service,Fruit Salad,Norovirus genogroup II,Confirmed,24,0,0
+2015,June,Alabama,Child Daycare,"Chicken, Other",Staphylococcus aureus,Confirmed,86,30,0
+2015,June,Arizona,Restaurant; Catering Service,,Salmonella enterica,Confirmed,6,2,0
+2015,June,Arizona,Restaurant,,Salmonella enterica,Confirmed,4,1,0
+2015,June,California,Private Home/Residence,,Norovirus unknown,Suspected,19,0,0
+2015,June,California,Restaurant,,Norovirus unknown,Suspected,5,0,0
+2015,June,California,Banquet Facility,,,,6,0,0
+2015,June,California,Restaurant,,Salmonella enterica,Confirmed,11,4,0
+2015,June,Colorado,Unknown,Cake,,,15,0,0
+2015,June,Colorado,Restaurant,Omelette; Crepes,Norovirus,Suspected,2,0,0
+2015,June,Colorado,Camp,,"Escherichia coli, Shiga toxin-producing",Suspected,6,0,0
+2015,June,Colorado,Banquet Facility; Unknown,Pork; Green Onion/Scallion,"Escherichia coli, Shiga toxin-producing",Suspected,16,5,0
+2015,June,Connecticut,Private Home/Residence; Catering Service; Grocery Store,,Norovirus genogroup II,Confirmed,14,0,0
+2015,June,Florida,Fast Food Restaurant,,,,3,0,0
+2015,June,Florida,Restaurant,,,,4,0,0
+2015,June,Florida,Restaurant,Coleslaw,Staphylococcus,Suspected,3,0,0
+2015,June,Florida,Restaurant; Private Home/Residence; Grocery Store,,Norovirus genogroup I,Confirmed,18,0,0
+2015,June,Florida,,"Oysters, Raw",Vibrio parahaemolyticus,Suspected,2,0,0
+2015,June,Florida,Restaurant,,Norovirus genogroup I,Confirmed,5,0,0
+2015,June,Florida,Restaurant,,Norovirus genogroup II,Suspected,16,2,0
+2015,June,Florida,Restaurant,"Pork, Bbq",Staphylococcus aureus,Suspected,11,0,0
+2015,June,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin,Confirmed,2,0,0
+2015,June,Hawaii,Fast Food Restaurant; Restaurant,,,,18,,
+2015,June,Idaho,Grocery Store,,Salmonella enterica,Confirmed,275,15,0
+2015,June,Illinois,Restaurant,,Norovirus genogroup I,Confirmed,24,1,0
+2015,June,Illinois,Private Home/Residence,,Unknown,Suspected,8,1,0
+2015,June,Illinois,Grocery Store,Mole Sauce,Salmonella enterica; Norovirus; Salmonella enterica,Confirmed; Suspected; Confirmed,10,6,0
+2015,June,Illinois,Catering Service,,,,4,1,0
+2015,June,Illinois,Restaurant,,Norovirus,Suspected,4,0,0
+2015,June,Illinois,Restaurant,,Norovirus,Suspected,10,1,0
+2015,June,Illinois,Catering Service; Grocery Store,,Hepatitis A,Confirmed,8,3,0
+2015,June,Kansas,Restaurant,,Norovirus genogroup I,Suspected,10,0,0
+2015,June,Kansas,Restaurant,,,,2,0,0
+2015,June,Kansas,,,Campylobacter jejuni,Confirmed,3,1,0
+2015,June,Maryland,Prison/Jail,Burritos,Clostridium perfringens,Confirmed,30,0,0
+2015,June,Maryland,Restaurant,"Chicken, Liver Mousse",Campylobacter jejuni,Confirmed,7,1,0
+2015,June,Maryland,Private Home/Residence,"Fish, Baracuda",Ciguatoxin,Confirmed,4,0,0
+2015,June,Michigan,Restaurant,Salsa,Norovirus genogroup II,Confirmed,11,0,0
+2015,June,Michigan,,"Milk, Unpasteurized",Campylobacter unknown,Suspected,6,1,0
+2015,June,Minnesota,Restaurant,Beef/Bean Mixture,Clostridium perfringens,Suspected,3,0,0
+2015,June,Minnesota,Restaurant,,Norovirus genogroup I,Suspected,17,0,0
+2015,June,Minnesota,Private Home/Residence; Banquet Facility,"Soup, Other",Clostridium perfringens,Confirmed,14,0,0
+2015,June,Minnesota,Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,2,1,0
+2015,June,Minnesota,Private Home/Residence,Pork,Salmonella enterica,Confirmed,10,0,0
+2015,June,Missouri,Camp,Country Fried Steak; Mashed Potatoes,Campylobacter jejuni,Confirmed,28,0,0
+2015,June,Multistate,Restaurant,"Oysters, Raw",Salmonella enterica,Confirmed,15,2,0
+2015,June,Multistate,Restaurant; Fair/Festival,"Oysters, Raw; Clams, Raw",Vibrio parahaemolyticus,Confirmed,42,1,0
+2015,June,Multistate,,"Lettuce, Prepackaged",Listeria monocytogenes,Confirmed,19,19,1
+2015,June,New Jersey,Catering Service,,,,5,0,0
+2015,June,New York,Restaurant,,,,9,0,0
+2015,June,New York,Restaurant,Brownie With Whipped Cream,Norovirus genogroup II,Suspected,4,0,0
+2015,June,New York,Restaurant,,,,3,0,0
+2015,June,New York,Grocery Store,,Giardia intestinalis; Cryptosporidium parvum,Confirmed; Confirmed,20,1,0
+2015,June,New York,Private Home/Residence,,"Escherichia coli, Shiga toxin-producing",Confirmed,2,1,0
+2015,June,North Carolina,Restaurant,"Pork, Bbq",Salmonella enterica,Confirmed,283,27,1
+2015,June,Ohio,Restaurant,,Norovirus,Suspected,4,0,0
+2015,June,Ohio,,Fudge Bar,Chemical or toxin,Confirmed,2,0,0
+2015,June,Ohio,Restaurant,,,,2,0,0
+2015,June,Ohio,Unknown,"Sandwich, Meatball",Norovirus,Suspected,2,0,0
+2015,June,Ohio,Restaurant,,,,2,1,0
+2015,June,Ohio,Private Home/Residence,Beef,Clostridium perfringens,Confirmed,57,0,1
+2015,June,Oregon,Restaurant,,Norovirus genogroup II,Confirmed,9,0,0
+2015,June,Oregon,Catering Service; Fair/Festival,Thai Food,Salmonella enterica,Confirmed,53,28,0
+2015,June,Oregon,Restaurant; Private Home/Residence,Pork,Salmonella enterica,Confirmed,3,0,0
+2015,June,South Carolina,Restaurant,,Staphylococcus aureus,Suspected,4,0,0
+2015,June,South Carolina,Restaurant,Lobster Salad,Salmonella enterica,Confirmed,7,1,0
+2015,June,South Dakota,Restaurant,,Salmonella enterica,Confirmed,13,1,0
+2015,June,Tennessee,Catering Service,,,,4,,
+2015,June,Tennessee,,Raw Milk,Cryptosporidium,Confirmed,2,0,0
+2015,June,Tennessee,Restaurant,,Bacillus cereus,Suspected,4,0,0
+2015,June,Tennessee,Restaurant,"Sushi, Raw",Salmonella enterica,Confirmed,3,0,0
+2015,June,Texas,Catering Service,,Salmonella enterica,Suspected,5,0,0
+2015,June,Utah,,,,,6,0,0
+2015,June,Utah,Fast Food Restaurant,,Norovirus genogroup II,Confirmed,110,1,0
+2015,June,Utah,,Carne Asada Steak,,,6,0,0
+2015,June,Utah,,,Salmonella enterica,Confirmed,3,2,0
+2015,June,Utah,,,Salmonella enterica,Confirmed,3,0,1
+2015,June,Virginia,School/College/University,,"Escherichia coli, Shiga toxin-producing",Suspected,8,0,0
+2015,June,Washington,Private Home/Residence,"Turkey Tails (Butts); Chicken, Bbq",Salmonella enterica,Confirmed,13,7,0
+2015,June,Washington,Restaurant,Hollandaise Sauce; Eggs Benedict,Salmonella enterica,Confirmed,22,1,0
+2015,June,Washington,Banquet Facility,"Salmon, Smoked; Cheese",Norovirus genogroup I,Confirmed,11,0,0
+2015,June,Washington,Private Home/Residence; Grocery Store; Religious Facility,,Salmonella enterica,Confirmed,27,0,0
+2015,June,Wisconsin,Restaurant,,Norovirus genogroup II,Confirmed,4,0,0
+2015,June,Wisconsin,Catering Service,Pulled Pork,Clostridium perfringens,Suspected,32,0,0
+2015,July,Arizona,Unknown,,Salmonella enterica; Salmonella enterica,Confirmed; Suspected,73,6,0
+2015,July,California,Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,July,California,Fair/Festival,,,,3,0,0
+2015,July,California,Fast Food Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,July,California,Fast Food Restaurant; Restaurant,,Norovirus unknown,Suspected,3,0,0
+2015,July,California,Restaurant,,,,4,0,0
+2015,July,California,Catering Service,Carne Asada,Norovirus unknown,Suspected,10,0,0
+2015,July,California,Restaurant; Banquet Facility,Ice,Norovirus unknown,Confirmed,50,1,0
+2015,July,California,Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,July,California,Restaurant; Banquet Facility,,,,4,0,0
+2015,July,California,Restaurant,,Norovirus unknown,Suspected,8,0,0
+2015,July,Colorado,Private Home/Residence,Cheesecake; Cake,Salmonella enterica,Confirmed,14,0,0
+2015,July,Connecticut,Camp,,,,13,0,0
+2015,July,Connecticut,Nursing Home/Assisted Living Facility,Chicken Tenders,Salmonella enterica,Confirmed,3,1,0
+2015,July,Florida,Restaurant,,,,2,0,0
+2015,July,Florida,Restaurant,"Fish, Amberjack; Fish, Hogfish",Ciguatoxin,Confirmed,4,0,0
+2015,July,Florida,Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,July,Florida,Restaurant,"Salad, Unspecified",Norovirus genogroup II,Confirmed,12,1,0
+2015,July,Florida,Restaurant,Salad Bar Items,Norovirus unknown,Suspected,12,0,0
+2015,July,Georgia,Private Home/Residence; Catering Service; Grocery Store,,Salmonella enterica,Confirmed,2,2,0
+2015,July,Hawaii,Restaurant,"Fish, Ahi",Scombroid toxin,Confirmed,2,0,0
+2015,July,Hawaii,Grocery Store,"Chicken, Rotisserie",Salmonella enterica,Confirmed,3,0,0
+2015,July,Hawaii,Restaurant,"Eel, Raw",,,2,0,0
+2015,July,Illinois,Grocery Store,Guacamole,Norovirus,Suspected,4,0,0
+2015,July,Illinois,Prison/Jail,,Norovirus,Confirmed; Suspected,178,0,0
+2015,July,Illinois,Unknown,,Salmonella enterica,Confirmed,6,0,0
+2015,July,Illinois,Restaurant,,Norovirus,Suspected,4,0,0
+2015,July,Illinois,Catering Service,Chicken Breast,"Shigella; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Salmonella enterica; Salmonella enterica",Suspected; Suspected; Confirmed; Suspected; Suspected; Confirmed,10,1,0
+2015,July,Iowa,,"Ice Cream, Homemade",Salmonella enterica,Confirmed,6,0,0
+2015,July,Kansas,Restaurant,,Salmonella enterica,Confirmed,5,2,0
+2015,July,Kansas,Restaurant,,,,5,0,0
+2015,July,Maryland,Restaurant,Sushi,Norovirus genogroup II,Confirmed,4,0,0
+2015,July,Maryland,Restaurant,"Crab, Unspecified","Escherichia coli, Shiga toxin-producing",Confirmed,9,6,0
+2015,July,Michigan,Restaurant,,,,5,0,0
+2015,July,Michigan,Camp,Turkey,Clostridium perfringens,Suspected,32,0,0
+2015,July,Michigan,,,"Escherichia coli, Shiga toxin-producing",Confirmed,3,3,0
+2015,July,Minnesota,Fast Food Restaurant,,Norovirus genogroup I,Confirmed,3,0,0
+2015,July,Minnesota,Private Home/Residence,,Norovirus genogroup I,Suspected,5,0,0
+2015,July,Minnesota,Private Home/Residence,,Campylobacter jejuni,Confirmed,3,0,0
+2015,July,Minnesota,Private Home/Residence,,Campylobacter,Suspected,2,0,0
+2015,July,Multistate,Restaurant,,Salmonella enterica,Confirmed,37,16,0
+2015,July,Multistate,,Sprouted Nut Butter,Salmonella enterica,Confirmed,13,0,0
+2015,July,Multistate,,Cucumber,Salmonella enterica,Confirmed,907,204,6
+2015,July,Nevada,Prison/Jail,,"Escherichia coli, Shiga toxin-producing",Suspected,3,3,0
+2015,July,New Jersey,,,,,39,0,0
+2015,July,New York,Restaurant,Meat; Rice,Clostridium perfringens,Confirmed,72,0,0
+2015,July,New York,Fast Food Restaurant,,Salmonella enterica,Confirmed,7,4,0
+2015,July,New York,Catering Service,Macaroni And Cheese,Staphylococcus aureus,Confirmed,45,0,0
+2015,July,New York,Restaurant,Chicken Livers,Campylobacter jejuni,Suspected,2,0,0
+2015,July,Ohio,,"Ice Cream, Homemade",Salmonella enterica,Confirmed,9,2,0
+2015,July,Ohio,Restaurant,Pasta,Chemical or toxin,Confirmed,2,0,0
+2015,July,Ohio,Restaurant; Private Home/Residence,,Salmonella enterica,Suspected,2,0,0
+2015,July,Ohio,Fast Food Restaurant,,,,2,0,0
+2015,July,Oregon,,,Yersinia,Confirmed,2,0,0
+2015,July,Pennsylvania,Private Home/Residence,"Fish, Puffer Unspecified",Puffer fish tetrodotoxin,Confirmed,5,2,0
+2015,July,South Carolina,Restaurant,,Norovirus genogroup II,Confirmed,67,0,0
+2015,July,South Carolina,Religious Facility,Chicken,Staphylococcus aureus,Confirmed,16,1,0
+2015,July,South Carolina,Catering Service,,Salmonella enterica,Confirmed,17,9,0
+2015,July,Tennessee,Catering Service,,Salmonella,Suspected,30,0,0
+2015,July,Texas,Restaurant,,Shigella sonnei,Confirmed,19,0,0
+2015,July,Utah,Private Home/Residence,Beet Soup,Clostridium botulinum,Confirmed,2,2,0
+2015,July,Virginia,Restaurant,,Campylobacter,Suspected,3,0,0
+2015,July,Washington,Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,5,3,0
+2015,July,Washington,Restaurant,,Salmonella enterica,Confirmed,3,0,0
+2015,July,Washington,,"Oysters, Raw",Vibrio parahaemolyticus,Suspected,3,0,0
+2015,July,West Virginia,,,Salmonella enterica; Salmonella enterica,Confirmed; Confirmed,4,0,0
+2015,July,Wisconsin,Hospital,,,,11,0,0
+2015,August,Arizona,,,Salmonella enterica,Confirmed,2,0,0
+2015,August,Arizona,,Frog Legs,Salmonella enterica,Confirmed,5,1,0
+2015,August,California,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,August,California,Restaurant,,Norovirus unknown,Confirmed,19,0,0
+2015,August,California,Restaurant,,,,2,0,0
+2015,August,California,Private Home/Residence; Catering Service,,,,3,0,0
+2015,August,California,Restaurant,,,,3,0,0
+2015,August,California,Private Home/Residence,Pork,Staphylococcus aureus,Suspected,6,0,0
+2015,August,California,Restaurant,Fajitas; Ice,,,26,0,0
+2015,August,California,Office/Indoor Workplace,Shrimp Coconut; Vegetables,Norovirus unknown,Suspected,26,0,0
+2015,August,California,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,August,California,Restaurant,,Norovirus unknown,Confirmed,5,0,0
+2015,August,California,Banquet Facility,,Norovirus unknown,Confirmed,33,0,0
+2015,August,California,Catering Service,"Sushi, Unspecified",Bacterium,Suspected,9,0,0
+2015,August,Colorado,Restaurant,,,,6,0,0
+2015,August,Colorado,Fast Food Restaurant; Restaurant,,Salmonella enterica,Confirmed,2,0,0
+2015,August,Colorado,Fast Food Restaurant,,Salmonella enterica,Confirmed,9,0,0
+2015,August,Colorado,Catering Service,,Norovirus,Suspected,7,1,0
+2015,August,Connecticut,Restaurant Buffet,,Salmonella enterica,Confirmed,3,1,0
+2015,August,Delaware,Catering Service,,,,18,,
+2015,August,Florida,Restaurant,"Ethnic Style, Buffet",Bacillus cereus,Suspected,6,0,0
+2015,August,Florida,Catering Service,,,,16,0,0
+2015,August,Florida,Banquet Facility,,Norovirus genogroup II,Confirmed,27,0,0
+2015,August,Florida,Private Home/Residence,Barracuda,Ciguatoxin,Confirmed,2,0,0
+2015,August,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin,Confirmed,3,0,0
+2015,August,Florida,Ship/Boat,Barracuda,Ciguatoxin,Confirmed,3,0,0
+2015,August,Florida,Private Home/Residence,Barracuda,Ciguatoxin,Confirmed,3,3,0
+2015,August,Florida,Private Home/Residence,"Fish, Grouper",Ciguatoxin,Confirmed,2,0,0
+2015,August,Hawaii,Fast Food Restaurant,Chicken Katsu Plate; Korean Chicken,Salmonella enterica,Confirmed,3,0,0
+2015,August,Illinois,Catering Service,Roast Beef With Mushroom Burgundy Sauce,Salmonella enterica,Confirmed,46,1,0
+2015,August,Kansas,Restaurant,,,,2,0,0
+2015,August,Kansas,Private Home/Residence,,Campylobacter unknown,Confirmed,14,1,0
+2015,August,Kansas,Grocery Store,Chocolate Mousse,,,3,0,0
+2015,August,Kansas,Fast Food Restaurant,,,,2,0,0
+2015,August,Kansas,Restaurant Buffet,,,,3,0,0
+2015,August,Kansas,Restaurant,,,,2,0,0
+2015,August,Louisiana,,Bean Dishes,Clostridium perfringens,Confirmed,9,0,0
+2015,August,Maryland,Restaurant,Fettucine Alfredo,Sapovirus unknown,Suspected,3,0,0
+2015,August,Maryland,Restaurant,Chicken Livers,Campylobacter jejuni,Confirmed,2,0,0
+2015,August,Maryland,Private Home/Residence,Barracuda,Ciguatoxin,Confirmed,2,0,0
+2015,August,Michigan,Private Home/Residence; Banquet Facility,,,,3,0,0
+2015,August,Minnesota,Restaurant,Guacamole,Salmonella enterica,Confirmed,9,0,0
+2015,August,Minnesota,Restaurant; Private Home/Residence,Raw Oysters,Vibrio parahaemolyticus,Confirmed,2,0,0
+2015,August,Multistate,Fast Food Restaurant,Salsa,Salmonella enterica,Confirmed,119,17,0
+2015,August,Multistate,Restaurant,Truffle Olive Puree,Salmonella enterica,Confirmed,81,2,0
+2015,August,Multistate,Restaurant; Grocery Store,Tuna Sushi,Salmonella enterica,Confirmed,8,0,0
+2015,August,Nevada,Camp,Ice,Salmonella enterica,Suspected,4,1,0
+2015,August,New York,Restaurant; Private Home/Residence,,,,29,0,0
+2015,August,North Carolina,Restaurant,,Norovirus,Suspected,18,0,0
+2015,August,North Dakota,Banquet Facility,,Norovirus genogroup II,Suspected,31,0,0
+2015,August,Ohio,Restaurant,,,,2,0,0
+2015,August,Ohio,Fast Food Restaurant,,Staphylococcus,Suspected,2,0,0
+2015,August,Ohio,Fast Food Restaurant,,Shigella sonnei,Suspected,3,1,0
+2015,August,Ohio,Restaurant,,,,2,0,0
+2015,August,Ohio,Restaurant,"Pastry, Custard-Filled",Salmonella enterica,Confirmed,9,1,0
+2015,August,Oregon,Private Home/Residence; Catering Service,,Norovirus genogroup II,Confirmed,14,0,0
+2015,August,Oregon,,,,,2,0,0
+2015,August,Rhode Island,Private Home/Residence,"Pork, Roasted",Salmonella enterica; Salmonella enterica,Confirmed; Confirmed,20,0,0
+2015,August,South Carolina,,"Pork, Bbq",Clostridium perfringens,Suspected,45,0,0
+2015,August,Tennessee,Religious Facility,,Norovirus genogroup II,Confirmed,8,1,0
+2015,August,Tennessee,Private Home/Residence; Catering Service,Guacamole; Corn Salsa; Tacos,"Escherichia coli, Enteroaggregative; Escherichia coli, Enteropathogenic",Suspected; Suspected,90,0,0
+2015,August,Tennessee,Restaurant,,,,10,0,0
+2015,August,Texas,,Shrimp Cocktail,Salmonella unknown,Confirmed,10,0,0
+2015,August,Texas,Restaurant,"Chicken, Rotisserie",Salmonella enterica,Confirmed,10,0,0
+2015,August,Utah,Restaurant,,Clostridium perfringens,Suspected,8,0,0
+2015,August,Utah,Restaurant,,Salmonella enterica,Confirmed,2,0,0
+2015,August,Utah,,,,,20,,0
+2015,August,Virginia,Restaurant; Restaurant Buffet,,Salmonella enterica,Confirmed,7,1,0
+2015,August,Washington,Catering Service; Fair/Festival,,"Escherichia coli, Shiga toxin-producing",Confirmed,13,5,0
+2015,August,Washington,Grocery Store,"Kale, Unspecified; Pineapple Juice,Unpasteurized","Escherichia coli, Shiga toxin-producing",Confirmed,2,0,0
+2015,August,Washington,Fast Food Restaurant,"Rice, Brown; Salsa; Chicken",Norovirus genogroup II,Confirmed,22,0,0
+2015,August,Washington,,Frozen Yogurt,,,5,0,0
+2015,August,Washington,Fast Food Restaurant,Chicken And Rice,Clostridium perfringens,Suspected,3,0,0
+2015,August,Washington DC,Office/Indoor Workplace,"Fish, Amberjack",Ciguatoxin,Suspected,6,,
+2015,August,West Virginia,Private Home/Residence,Ham,Staphylococcus aureus,Confirmed,31,0,0
+2015,August,Wyoming,Private Home/Residence,,Campylobacter jejuni,Confirmed,6,0,0
+2015,September,Alabama,Restaurant,,Salmonella enterica,Confirmed,9,2,0
+2015,September,Arizona,Restaurant,,Salmonella enterica,Confirmed,3,0,0
+2015,September,Arizona,Prison/Jail,,,,22,0,0
+2015,September,Arizona,Prison/Jail,Tossed Salad,Salmonella enterica,Confirmed,252,0,0
+2015,September,California,Restaurant,,,,2,0,0
+2015,September,California,Restaurant,,Norovirus unknown,Suspected,6,0,0
+2015,September,Colorado,Private Home/Residence,"Rice, Spanish; Chili Colorado; Chili Verde",Clostridium perfringens,Suspected,20,0,0
+2015,September,Colorado,Fast Food Restaurant,,Salmonella enterica,Confirmed,3,2,0
+2015,September,Florida,Private Home/Residence,"Fish, Kingfish",Ciguatoxin,Confirmed,2,1,0
+2015,September,Florida,Restaurant,,Ciguatoxin,Confirmed,2,0,0
+2015,September,Florida,,Flavored Drink,Chemical or toxin,Confirmed,7,0,0
+2015,September,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin,Confirmed,6,0,0
+2015,September,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin,Confirmed,5,0,0
+2015,September,Florida,Private Home/Residence,"Fish, Jack",Ciguatoxin,Confirmed,3,0,0
+2015,September,Florida,Catering Service,"Pork, Roasted; Rice, Spanish",,,15,0,0
+2015,September,Hawaii,Restaurant,"Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II,Confirmed; Confirmed,10,0,0
+2015,September,Idaho,Farm/Dairy,"Milk, Unpasteurized","Campylobacter jejuni; Escherichia coli, Shiga toxin-producing",Confirmed; Confirmed,15,3,0
+2015,September,Illinois,Catering Service,,Staphylococcus aureus; Clostridium perfringens,Suspected; Suspected,7,0,0
+2015,September,Illinois,Catering Service,Pulled Pork,Clostridium perfringens,Confirmed,22,0,0
+2015,September,Illinois,Restaurant,,Norovirus genogroup II,Confirmed,9,0,0
+2015,September,Illinois,Grocery Store,,Salmonella enterica; Salmonella enterica,Suspected; Confirmed,7,3,0
+2015,September,Kansas,Restaurant,,,,2,0,0
+2015,September,Kansas,Grocery Store,,Salmonella enterica,Confirmed,2,1,0
+2015,September,Kansas,Restaurant,,,,16,0,0
+2015,September,Kentucky,School/College/University,,,,3,0,0
+2015,September,Maryland,Private Home/Residence,"Fish, Baracuda",Ciguatoxin,Confirmed,4,0,0
+2015,September,Massachusetts,Fast Food Restaurant,,Salmonella enterica,Confirmed,12,0,0
+2015,September,Massachusetts,Private Home/Residence,"Ground Beef, Hamburger","Escherichia coli, Shiga toxin-producing",Confirmed,3,2,0
+2015,September,Michigan,Restaurant,,Norovirus,Suspected,30,0,0
+2015,September,Minnesota,Restaurant,"Goulash, Unspecified",Clostridium perfringens,Confirmed,8,0,0
+2015,September,Minnesota,Banquet Facility,"Ground Beef, Unspecified",Clostridium perfringens,Suspected,20,0,0
+2015,September,Minnesota,Restaurant,,Norovirus genogroup I,Suspected,5,0,0
+2015,September,Minnesota,Restaurant,,Norovirus genogroup I,Suspected,4,0,0
+2015,September,Minnesota,Fast Food Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,7,0,0
+2015,September,Multistate,,Sushi,Salmonella enterica,Confirmed,20,4,0
+2015,September,Nebraska,Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,6,2,0
+2015,September,Nevada,Fast Food Restaurant,Pizza,Norovirus genogroup II,Suspected,8,0,0
+2015,September,Nevada,Banquet Facility,"Chicken, Liver; Chicken, Unspecified; Fish, Codfish; Fish, Salmon",Campylobacter jejuni,Confirmed,3,0,0
+2015,September,New Jersey,Banquet Facility,,,,7,0,0
+2015,September,Ohio,Private Home/Residence,,,,41,0,0
+2015,September,Ohio,Office/Indoor Workplace,Vietnamese Sandwich (Chicken And Bbq Pork),Campylobacter,Suspected,10,0,0
+2015,September,Ohio,Fast Food Restaurant,,Unknown,Suspected,3,0,0
+2015,September,Ohio,Restaurant Buffet,"Fried Rice, Unspecified",Bacillus cereus,Confirmed,3,0,0
+2015,September,Ohio,Restaurant,,,,3,0,0
+2015,September,Pennsylvania,Restaurant,,Salmonella enterica,Confirmed,5,0,0
+2015,September,South Carolina,,"Yogurt, Unspecified",Clostridium perfringens,Suspected,12,0,0
+2015,September,Washington,Fast Food Restaurant; Restaurant,,,,2,0,0
+2015,September,Washington,Restaurant,,Salmonella enterica,Confirmed,2,0,0
+2015,September,Washington DC,Restaurant,,Salmonella enterica,Confirmed,160,9,0
+2015,September,Wisconsin,Religious Facility,,Salmonella enterica,Confirmed,10,0,0
+2015,September,Wisconsin,School/College/University,"Chicken, Grilled",Campylobacter jejuni,Confirmed,46,3,0
+2015,October,Arizona,Unknown,,Salmonella enterica,Confirmed,3,3,0
+2015,October,Arizona,Unknown,,Salmonella enterica,Confirmed,2,0,0
+2015,October,Arizona,Restaurant,,Salmonella enterica,Confirmed,3,1,0
+2015,October,Arkansas,Restaurant; Catering Service,,Salmonella enterica,Confirmed,14,0,0
+2015,October,California,Restaurant; Catering Service,,Campylobacter jejuni,Suspected,6,0,0
+2015,October,California,,"Apple Cider, Unspecified","Escherichia coli, Shiga toxin-producing",Confirmed,15,1,0
+2015,October,California,Fast Food Restaurant,,Campylobacter jejuni,Confirmed,3,0,0
+2015,October,California,Restaurant,,Shigella sonnei,Confirmed,188,49,0
+2015,October,Colorado,Restaurant,Green Chile,Clostridium perfringens,Confirmed,6,0,0
+2015,October,Colorado,Private Home/Residence,Chili White Chicken,Clostridium perfringens,Confirmed,19,0,0
+2015,October,Colorado,Catering Service,"Pizza, Pepperoni; Pizza, Cheese",Clostridium perfringens,Suspected,5,0,0
+2015,October,Colorado,Restaurant,,Norovirus,Confirmed,7,0,0
+2015,October,Connecticut,School/College/University,"Sandwich, Unspecified",Norovirus genogroup I,Confirmed,54,0,0
+2015,October,Connecticut,Hotel/Motel,,,,7,0,0
+2015,October,Florida,Restaurant,,Staphylococcus aureus,Suspected,4,0,0
+2015,October,Florida,Catering Service,,Norovirus unknown,Suspected,6,1,0
+2015,October,Florida,Private Home/Residence,Spaghetti W/Meat Sauce And Spaghetti W/Cheese,Salmonella enterica,Confirmed,18,4,0
+2015,October,Florida,Restaurant,"Chicken, Confit",Salmonella enterica,Confirmed,2,0,0
+2015,October,Florida,Catering Service,,,,11,0,0
+2015,October,Idaho,,"Bear, Unspecified",Trichinella,Confirmed,6,0,0
+2015,October,Illinois,Grocery Store,Pork,Salmonella enterica; Salmonella enterica,Confirmed; Suspected,17,6,0
+2015,October,Illinois,Restaurant,Salad,Norovirus,Suspected,6,0,0
+2015,October,Illinois,Restaurant Buffet,Pot Roast,Unknown,Suspected,6,1,0
+2015,October,Illinois,Farm/Dairy,,Cryptosporidium parvum,Confirmed,103,,
+2015,October,Illinois,Catering Service,,Staphylococcus aureus,Suspected,21,0,0
+2015,October,Iowa,Grocery Store,Ground Beef,Clostridium perfringens,Confirmed,57,0,0
+2015,October,Kentucky,,,,,35,1,0
+2015,October,Maryland,Fast Food Restaurant,,,,3,0,0
+2015,October,Maryland,Restaurant,Salad,Norovirus genogroup II,Confirmed,12,0,0
+2015,October,Michigan,Banquet Facility,"Cheese And Crackers; Fruit; Green Beans, Unspecified",Norovirus genogroup I,Confirmed,170,1,0
+2015,October,Michigan,,"Apple Cider, Unpasteurized","Escherichia coli, Shiga toxin-producing",Confirmed,2,0,0
+2015,October,Minnesota,Restaurant,,Norovirus genogroup II,Confirmed,9,0,0
+2015,October,Minnesota,Restaurant,,"Escherichia coli, Enteropathogenic",Confirmed,30,0,0
+2015,October,Minnesota,Fast Food Restaurant,,Norovirus genogroup I,Confirmed,26,0,0
+2015,October,Minnesota,Farm/Dairy,"Apple Cider, Unpasteurized","Escherichia coli, Shiga toxin-producing",Confirmed,2,1,0
+2015,October,Minnesota,Private Home/Residence,Beef,"Escherichia coli, Shiga toxin-producing",Confirmed,3,0,0
+2015,October,Missouri,,,"Escherichia coli, Enteropathogenic",Suspected,6,0,0
+2015,October,Multistate,,Pre-Packaged Salad,"Escherichia coli, Shiga toxin-producing",Confirmed,5,3,0
+2015,October,Multistate,Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,53,21,0
+2015,October,Multistate,Grocery Store,Chicken Salad,"Escherichia coli, Shiga toxin-producing",Confirmed,19,3,0
+2015,October,Multistate,Restaurant,,"Escherichia coli, Shiga toxin-producing",Confirmed,4,0,0
+2015,October,Nebraska,Banquet Facility,Chicken And Noodles,Clostridium perfringens,Confirmed,22,0,0
+2015,October,Nevada,,Chocolate Mousse,"Escherichia coli, Shiga toxin-producing",Confirmed,25,11,0
+2015,October,New Mexico,Restaurant; Catering Service,,Norovirus,Suspected,19,0,0
+2015,October,New York,Restaurant,,,,5,0,0
+2015,October,Ohio,Restaurant,,,,6,0,0
+2015,October,Ohio,Restaurant,Honey Mustard Carrot And Cauliflower Salad,Chemical or toxin,Confirmed,13,0,0
+2015,October,Ohio,Fast Food Restaurant,,Norovirus,Suspected,2,0,0
+2015,October,Ohio,Unknown,,Salmonella enterica,Confirmed,2,1,0
+2015,October,Oregon,Catering Service,,Salmonella enterica,Confirmed,21,0,0
+2015,October,Pennsylvania,Restaurant,"Gravy, Sausage",,,3,0,0
+2015,October,South Dakota,Banquet Facility,,,,18,0,0
+2015,October,Tennessee,Catering Service,,,,20,0,0
+2015,October,Texas,Private Home/Residence,,Salmonella enterica,Suspected,5,0,0
+2015,October,Texas,Restaurant Buffet,,Norovirus genogroup II,Confirmed,34,0,0
+2015,October,Texas,,Turkey; Stuffing/Dressing,Salmonella enterica,Confirmed,48,3,0
+2015,October,Utah,Restaurant,,Salmonella enterica,Confirmed,2,0,0
+2015,October,Utah,,Raw Milk,Salmonella enterica,Confirmed,2,0,0
+2015,October,Virginia,Catering Service; Fair/Festival,Pork,Clostridium perfringens,Confirmed,121,0,0
+2015,October,Virginia,Restaurant,"Chicken, Grilled; Chicken, Blackened",Salmonella enterica,Confirmed,10,1,0
+2015,October,Washington,Restaurant,,Norovirus unknown,Suspected,8,0,0
+2015,October,Wisconsin,Restaurant,"Fish, Amberjack",Ciguatoxin,Confirmed,7,2,0
+2015,October,Wyoming,Prison/Jail,Tortilla Chips,,,79,,0
+2015,November,Arizona,Restaurant,,,,3,0,0
+2015,November,Arizona,Catering Service,,Norovirus genogroup II,Suspected,12,0,0
+2015,November,California,Banquet Facility,,Norovirus unknown,Suspected,14,0,0
+2015,November,California,Restaurant,Salsa,Shigella sonnei,Confirmed,19,2,0
+2015,November,California,Restaurant,,,,5,0,0
+2015,November,California,Private Home/Residence; Catering Service,"Beef, Unspecified",Norovirus unknown,Confirmed,24,0,0
+2015,November,California,Restaurant,,,,2,0,0
+2015,November,California,Restaurant,,Norovirus unknown,Confirmed,3,0,0
+2015,November,California,Catering Service; Grocery Store,Rice,Norovirus unknown,Suspected,16,1,0
+2015,November,California,Restaurant,,Norovirus unknown,Suspected,8,0,0
+2015,November,California,Banquet Facility,,Norovirus unknown,Confirmed,60,0,0
+2015,November,Colorado,Restaurant,,Norovirus,Confirmed,18,0,0
+2015,November,Connecticut,Restaurant,,Norovirus genogroup II,Confirmed,3,0,0
+2015,November,Connecticut,Restaurant,Salad,Norovirus,Suspected,15,0,0
+2015,November,Florida,Restaurant,,,,5,0,0
+2015,November,Florida,Restaurant,,Norovirus genogroup II,Confirmed,29,0,0
+2015,November,Florida,Restaurant,,Norovirus genogroup I,Confirmed,10,0,0
+2015,November,Florida,Banquet Facility,Green Beans,,,8,0,0
+2015,November,Florida,Private Home/Residence,,Salmonella enterica,Confirmed,20,7,0
+2015,November,Florida,Prison/Jail,Thanksgiving Meal,Salmonella enterica,Confirmed,5,0,0
+2015,November,Georgia,Grocery Store,"Pork, Carnitas",Salmonella enterica,Confirmed,17,0,0
+2015,November,Georgia,Restaurant,Sushi,Norovirus unknown,Suspected,7,0,0
+2015,November,Hawaii,Restaurant,"Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II,Confirmed; Confirmed,3,0,0
+2015,November,Hawaii,Fast Food Restaurant,"Fish, Ahi",Scombroid toxin,Confirmed,5,0,0
+2015,November,Idaho,,"Cheese, Unspecified, Unpasteurized",Campylobacter,Confirmed,8,0,0
+2015,November,Illinois,Restaurant,,Norovirus,Suspected,3,0,0
+2015,November,Illinois,Private Home/Residence,Meat,Salmonella enterica,Confirmed,6,1,0
+2015,November,Illinois,Catering Service,Pulled Pork,Clostridium perfringens,Suspected,6,0,0
+2015,November,Illinois,Restaurant,,Norovirus,Suspected,9,,
+2015,November,Illinois,Restaurant,,Norovirus,Suspected,9,0,0
+2015,November,Kansas,Restaurant,,Norovirus genogroup II,Confirmed,25,1,0
+2015,November,Michigan,School/College/University,,,,50,0,0
+2015,November,Michigan,Grocery Store,Ribs,,,5,0,0
+2015,November,Minnesota,Restaurant,,Norovirus genogroup I,Confirmed,3,0,0
+2015,November,Minnesota,Fast Food Restaurant,,Norovirus genogroup I,Confirmed,15,0,0
+2015,November,Multistate,Restaurant,,"Escherichia coli, Shiga toxin-producing",Suspected,5,1,0
+2015,November,New Jersey,Banquet Facility,,,,57,0,0
+2015,November,New Jersey,Nursing Home/Assisted Living Facility,,,,17,0,0
+2015,November,New York,Restaurant,,,,4,0,0
+2015,November,New York,Restaurant,,Norovirus genogroup II,Confirmed,40,4,0
+2015,November,New York,Private Home/Residence,,,,8,0,0
+2015,November,North Carolina,Private Home/Residence,Turkey And Stuffing,Clostridium perfringens,Confirmed,44,0,0
+2015,November,Ohio,Restaurant Buffet,,Chemical or toxin,Suspected,4,0,0
+2015,November,Ohio,School/College/University,,Salmonella enterica,Confirmed,14,0,0
+2015,November,Ohio,Fair/Festival,Chicken Sandwich,Norovirus genogroup II,Suspected,3,0,0
+2015,November,Ohio,Fast Food Restaurant,,Norovirus,Suspected,5,0,0
+2015,November,Ohio,Private Home/Residence,"Turkey, Smoked; Stuffing/Dressing",Salmonella enterica,Confirmed,3,1,0
+2015,November,Oregon,Restaurant,Lettuce,Norovirus genogroup II,Confirmed,8,0,0
+2015,November,Oregon,Restaurant,Oyster Shooters,Norovirus genogroup I,Suspected,3,0,0
+2015,November,Oregon,Restaurant,Chicken Coconut Curry,Sapovirus,Confirmed,4,0,0
+2015,November,Tennessee,Restaurant,,Norovirus genogroup II,Confirmed,5,0,0
+2015,November,Tennessee,Restaurant,Hamburger,"Escherichia coli, Shiga toxin-producing",Confirmed,13,0,0
+2015,November,Texas,Catering Service,,,,29,0,0
+2015,November,Utah,Catering Service,"Eggs, Scrambled",Salmonella enterica,Confirmed,3,0,0
+2015,November,Washington,Restaurant,,Norovirus unknown,Suspected,10,0,0
+2015,November,Washington,Private Home/Residence,Turkey,Salmonella enterica,Confirmed,10,0,0
+2015,November,Wisconsin,Religious Facility,,Norovirus genogroup II,Confirmed,11,0,0
+2015,November,Wisconsin,,,Norovirus genogroup II,Confirmed,24,0,0
+2015,November,Wisconsin,Hospital,Broccoli Salad,,,4,0,0
+2015,December,Alabama,Restaurant Buffet,,,,8,0,0
+2015,December,Arizona,Restaurant,,Norovirus genogroup II,Confirmed,4,0,0
+2015,December,California,Banquet Facility,"Oysters, Raw",Norovirus unknown,Suspected,20,0,0
+2015,December,California,Restaurant,,,,2,0,0
+2015,December,California,Restaurant,,,,12,1,0
+2015,December,California,Fast Food Restaurant,,Norovirus unknown,Suspected,5,0,0
+2015,December,California,Restaurant,,Norovirus unknown,Suspected,5,0,0
+2015,December,California,Catering Service,Alcohol,Norovirus unknown,Suspected,16,0,0
+2015,December,California,Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,December,California,Restaurant,,Norovirus unknown,Suspected,2,0,0
+2015,December,California,Fast Food Restaurant,Pizza,,,2,0,0
+2015,December,California,Restaurant,,,,20,0,0
+2015,December,California,Child Daycare,,Salmonella enterica,Confirmed,8,0,0
+2015,December,California,School/College/University,,Norovirus unknown,Confirmed,93,0,0
+2015,December,California,Restaurant,,Norovirus unknown,Confirmed,11,0,0
+2015,December,California,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,December,Colorado,Restaurant,"Enchilada, Beef; Rice; Beans, Unspecified",Clostridium perfringens,Suspected,7,0,0
+2015,December,Colorado,Restaurant,,Norovirus,Confirmed,15,0,0
+2015,December,Colorado,Restaurant,"Ribs, Bbq; Tea",Bacillus cereus; Staphylococcus aureus,Suspected; Suspected,2,0,0
+2015,December,Colorado,Private Home/Residence,Pulled Pork,Clostridium perfringens,Suspected,36,0,0
+2015,December,Colorado,Restaurant,,Norovirus,Confirmed,11,0,0
+2015,December,Colorado,Restaurant,Chicken Liver Pate,Campylobacter,Confirmed,4,0,0
+2015,December,Colorado,Banquet Facility,,Bacterium,Suspected,8,0,0
+2015,December,Connecticut,Catering Service,Multiple Foods,Norovirus genogroup I,Confirmed,25,0,0
+2015,December,Connecticut,Restaurant,Ox Tongue & Tripe,Salmonella enterica,Confirmed,9,1,0
+2015,December,Connecticut,Restaurant,Cucumbers,Salmonella enterica,Confirmed,3,0,0
+2015,December,Florida,,"Oysters, Raw",Vibrio vulnificus,Suspected,2,1,1
+2015,December,Florida,Restaurant,,,,3,0,0
+2015,December,Florida,Restaurant,,,,2,0,0
+2015,December,Florida,Restaurant,,,,2,0,0
+2015,December,Florida,Restaurant,,Norovirus genogroup II,Suspected,5,0,0
+2015,December,Florida,Restaurant,,,,5,0,0
+2015,December,Florida,Restaurant,"Pizza, Mushrooms, Black Olives, Pepperoni",,,4,0,0
+2015,December,Florida,Catering Service,Multiple Foods,,,20,0,0
+2015,December,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin,Confirmed,5,0,0
+2015,December,Florida,Restaurant,,,,4,0,0
+2015,December,Georgia,Fast Food Restaurant,Ice Cream,Norovirus genogroup II,Confirmed,2,0,0
+2015,December,Hawaii,Restaurant,Lilikoi Chiffon Pie,Salmonella enterica,Suspected,24,0,0
+2015,December,Illinois,Restaurant,,Norovirus genogroup II,Confirmed,6,0,0
+2015,December,Illinois,Catering Service,,,,3,,
+2015,December,Iowa,Grocery Store,Turkey,Salmonella enterica,Confirmed,4,0,0
+2015,December,Iowa,Restaurant,,Salmonella enterica,Confirmed,7,0,0
+2015,December,Kansas,Restaurant,,Norovirus genogroup II,Confirmed,3,0,0
+2015,December,Kansas,Restaurant,,,,2,0,0
+2015,December,Kansas,Restaurant,,Norovirus genogroup II,Suspected,3,0,0
+2015,December,Kansas,Restaurant,,Norovirus genogroup II,Confirmed,6,0,0
+2015,December,Maryland,Catering Service,Turkey And Gravy,,,19,1,0
+2015,December,Maryland,Catering Service,,Norovirus genogroup II,Confirmed,45,0,0
+2015,December,Michigan,Private Home/Residence,Cake,Norovirus genogroup II,Confirmed,73,0,0
+2015,December,Michigan,Catering Service,,Norovirus,Suspected,39,0,0
+2015,December,Michigan,Restaurant; Banquet Facility,,Norovirus,Suspected,9,0,0
+2015,December,Michigan,Restaurant,,Norovirus,Suspected,10,0,0
+2015,December,Michigan,Fast Food Restaurant; Restaurant,,Norovirus genogroup II,Confirmed,23,1,0
+2015,December,Michigan,Restaurant,,,,2,0,0
+2015,December,Michigan,Catering Service,"Beef, Other",,,17,0,0
+2015,December,Minnesota,Restaurant,,Norovirus genogroup II,Confirmed,11,0,0
+2015,December,Minnesota,Restaurant,"Pizza; Pizza, Sausage; Cookies, Chocolate Chip",Norovirus genogroup II,Suspected,6,0,0
+2015,December,Minnesota,Fast Food Restaurant,,Norovirus genogroup I,Confirmed,9,0,0
+2015,December,Minnesota,Restaurant,,Norovirus genogroup II,Confirmed,8,0,0
+2015,December,Minnesota,Restaurant,,Norovirus,Suspected,4,0,0
+2015,December,Multistate,Restaurant,Pizza Dough Mix,"Escherichia coli, Shiga toxin-producing",Confirmed,13,9,0
+2015,December,Multistate,Private Home/Residence,Powder Meal Replacement,Salmonella enterica,Confirmed,35,6,0
+2015,December,Nebraska,Restaurant,,Norovirus,Suspected,13,1,0
+2015,December,Nevada,Private Home/Residence,,Salmonella enterica,Confirmed,16,2,0
+2015,December,New Hampshire,,Stuffed Mushroom,,,16,0,0
+2015,December,New York,Catering Service,Greek Salad,Norovirus genogroup II,Confirmed,12,0,0
+2015,December,New York,Grocery Store,"Sandwich, Ham; Sandwich, Tuna Salad",Norovirus genogroup I,Confirmed,13,0,0
+2015,December,New York,Restaurant,,,,4,0,0
+2015,December,New York,Restaurant,,,,13,0,0
+2015,December,North Carolina,Catering Service,,,,18,0,0
+2015,December,North Dakota,Catering Service,,Norovirus genogroup II,Confirmed,42,0,0
+2015,December,North Dakota,Prison/Jail,,Clostridium perfringens,Confirmed,115,0,0
+2015,December,Ohio,Private Home/Residence,Chicken Mole,Clostridium perfringens,Suspected,8,0,0
+2015,December,Ohio,Catering Service,,Norovirus genogroup II,Confirmed,8,0,0
+2015,December,Ohio,Hospital,Cupcakes,Norovirus genogroup II,Confirmed,170,0,0
+2015,December,Ohio,Restaurant,Macaroni And Cheese,Bacillus cereus; Staphylococcus aureus,Suspected; Suspected,2,0,0
+2015,December,Ohio,Restaurant,,Norovirus,Suspected,6,0,0
+2015,December,Ohio,Restaurant,,Clostridium perfringens,Suspected,2,0,0
+2015,December,Ohio,Restaurant,,Norovirus,Suspected,4,0,0
+2015,December,Ohio,Restaurant,Eggs Benedict,Salmonella enterica,Confirmed,3,2,0
+2015,December,Ohio,Farm/Dairy,"Milk, Unpasteurized",Campylobacter jejuni,Confirmed,2,2,0
+2015,December,Oregon,,Eggnog,Salmonella enterica,Confirmed,7,0,0
+2015,December,South Carolina,Restaurant,Zucchini,Bacillus cereus,Suspected,8,0,0
+2015,December,Texas,,,Shigella sonnei; Campylobacter jejuni,Suspected; Suspected,7,0,0
+2015,December,Utah,Private Home/Residence,,Salmonella enterica,Confirmed,3,0,0
+2015,December,Utah,Private Home/Residence,Meal Replacement Powder,Salmonella enterica,Confirmed,3,1,0
+2015,December,Virginia,Restaurant,,Norovirus genogroup II,Suspected,9,0,0
+2015,December,Washington,School/College/University,,Norovirus unknown,Suspected,2,0,0
+2015,December,Washington,Restaurant,Foie Gras,Campylobacter unknown,Suspected,2,0,0
+2015,December,Washington,Restaurant; Private Home/Residence,,Norovirus unknown,Suspected,10,0,0
+2015,December,Washington,Restaurant,,Norovirus unknown,Suspected,4,0,0
+2015,December,Wisconsin,Catering Service,"Cookies, Chocolate Chip",Norovirus genogroup II,Confirmed,10,0,0
+2015,December,Wisconsin,Banquet Facility,,Norovirus genogroup II,Confirmed,20,0,0
+2015,December,Wisconsin,Banquet Facility,"Gravy, Pork",Clostridium perfringens,Suspected,29,,
+2015,December,Wisconsin,Restaurant,,Norovirus genogroup II,Confirmed,4,0,0
+2015,December,Wisconsin,Private Home/Residence,Salsa,Norovirus genogroup II,Confirmed,16,0,0
+2015,December,Wisconsin,Nursing Home/Assisted Living Facility,,Norovirus genogroup II,Confirmed,43,3,0
+2015,December,Wisconsin,Fast Food Restaurant,,Norovirus genogroup II,Confirmed,5,0,0
+2015,December,Wyoming,,,,,3,0,0
