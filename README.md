@@ -1,4 +1,4 @@
-# Food Detectives 
+# Group 32 - Food Detectives 
 
 
 ## Milestones
@@ -33,4 +33,4 @@ working in health agencies across the US and reporting the data CDC.
 
 ## References
 
-{Add your stuff here}
+{Dataset acquired from: https://www.kaggle.com/cdc/foodborne-diseases}
