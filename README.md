@@ -1,6 +1,5 @@
-# Food Detectives - {Short snappy Title of your project}
+# Food Detectives 
 
-- Your title can change over time.
 
 ## Milestones
 
@@ -19,13 +18,17 @@ at a local chain or stalls or food trucks.
 
 ## Describe your dataset in about 150-200 words
 
-This dataset provides data on the occurence of food borne illnesses happening in different US states, day, month, 
-year (2015 only), and the type of contamination. The purposes of undertaking this project are an inter twinning 
-combination of fun, learning, personal interest/curiosity, and public awareness.
-
+The uploaded dataset is provided by the CDC (Center for Disease Control and Prevention) which, is the national public 
+health agency of the United States. It contains data on the occurrence of food-borne illnesses happening in different 
+US states, day, month, year, and the type of contamination, along with the fatality rate and other statistical measures. 
+Although the data was collected from the year 1998 up till 2015, I have only considered data entries from 2015. This measure 
+was exercised to reduce the overall number of data entries that would otherwise have been oversized for this particular study. 
+The purpose of the given data set is accountability and public awareness. By performing further analysis and tests, I would 
+like to inspect if any trends occur within the given data set or not. Finally, the data was collected primarily by humans 
+working in health agencies across the US and reporting the data CDC.
 ## Team Member
 
-- Aashish Chilwal: Third year electrical engineering student, who loves to code!
+- Aashish Chilwal: Many eat to live, I live to eat!
 
 
 ## References
