@@ -105,7 +105,7 @@
 8409,2004,6,Multistate,0,Roma Tomato,Vine-Stalk Eg. Tomato,0,Braenderup,1,137,25.0,0.0
 8414,2004,6,New York,0,"Chicken, Baked",Chicken,0,Hadar,1,42,14.0,0.0
 8489,2004,7,Minnesota,0,"Spaghetti, Unspecified",Beef,1,O157:H7,1,70,1.0,0.0
-8492,2004,7,Multistate,0,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Javiana; Typhimurium; Thompson; Muenchen; Unknown; Anatum,Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed,429,129.0,0.0
+8492,2004,7,Multistate,0,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Javiana; Typhimurium; Thompson; Muenchen; Unknown; Anatum,1,429,129.0,0.0
 8493,2004,7,Multistate,1,"Ground Beef, Hamburger",Ground Beef,1,O157:H7,1,5,1.0,0.0
 8498,2004,7,New York,0,"Shell Eggs, Scrambled Hard; French Toast, Unspecified",Egg; Egg,0,Enteritidis,1,13,0.0,0.0
 8510,2004,7,Oklahoma,1,"Ice Cream, Homemade",Egg,0,Typhimurium,1,13,2.0,0.0
@@ -128,8 +128,8 @@
 9278,2005,3,Virginia,0,"Eggs, Other",Egg,0,Enteritidis,1,27,1.0,0.0
 9374,2005,5,Arkansas,0,"Chicken, Grilled",Chicken,0,Enteritidis,1,8,0.0,0.0
 9405,2005,5,Georgia,1,"Beef, Stew",Beef,0,Agama,1,3,0.0,0.0
-9446,2005,5,New York,0,Potato Salad,Root (Eg. Potato),Salmonella enterica; Clostridium perfringens; Salmonella enterica,Infantis; ; London,Confirmed; Confirmed; Confirmed,35,0.0,0.0
-9491,2005,6,California,0,"Spread/Filling, Other",Egg,Salmonella enterica; Salmonella enterica; Salmonella enterica,Heidelberg; Saintpaul; Brandenburg,Confirmed; Confirmed; Confirmed,157,1.0,0.0
+9446,2005,5,New York,0,Potato Salad,Root (Eg. Potato),Salmonella enterica; Clostridium perfringens; Salmonella enterica,Infantis; ; London,1,35,0.0,0.0
+9491,2005,6,California,0,"Spread/Filling, Other",Egg,Salmonella enterica; Salmonella enterica; Salmonella enterica,Heidelberg; Saintpaul; Brandenburg,1,157,1.0,0.0
 9506,2005,6,Georgia,0,"Stuffing/Dressing; Gravy, Chicken; Chicken, Other",Chicken,0,Enteritidis,1,61,7.0,0.0
 9556,2005,6,Pennsylvania,0,"Sandwich, Chicken; Green Salad",Leafy Green; Vine-Stalk Eg. Tomato; Leafy Green; Vine-Stalk Eg. Tomato,0,Muenchen,1,9,3.0,0.0
 9560,2005,6,Virginia,0,"Sandwich, Beef",Ground Beef,0,Hartford,1,40,1.0,0.0
@@ -144,7 +144,7 @@
 9837,2005,10,New York,1,"Ground Beef, Hamburger",Ground Beef,1,O157:H7,1,3,0.0,0.0
 9854,2005,10,Pennsylvania,0,"Beef, Unspecified",Egg,0,Enteritidis,1,11,0.0,0.0
 9870,2005,11,California,1,"Turkey, Unspecified",Turkey,0,Group B,1,6,0.0,0.0
-9904,2005,11,Multistate,1,Stuffed Chicken,Chicken,Salmonella enterica; Salmonella enterica; Salmonella enterica,Enteritidis; Typhimurium; Kentucky,Confirmed; Confirmed; Confirmed,44,2.0,0.0
+9904,2005,11,Multistate,1,Stuffed Chicken,Chicken,Salmonella enterica; Salmonella enterica; Salmonella enterica,Enteritidis; Typhimurium; Kentucky,1,44,2.0,0.0
 9905,2005,11,Multistate,0,Roma Tomato,Vine-Stalk Eg. Tomato,0,Braenderup,1,84,8.0,0.0
 9949,2005,12,Georgia,0,Hollandaise Sauce,Butter; Egg,0,Heidelberg,1,34,7.0,0.0
 10070,2006,1,New York,0,"Ground Beef, Unspecified",Ground Beef,1,O157:H7,1,2,2.0,0.0
@@ -172,7 +172,7 @@
 11710,2007,5,New York,0,"Chicken Dishes, Unspecified",Chicken,0,Enteritidis,1,6,1.0,0.0
 11736,2007,5,Virginia,0,Crispy Pork,Pork,0,London; Typhimurium,1,28,0.0,0.0
 11803,2007,6,Multistate,0,"Tomato, Beefsteak",Vine-Stalk Eg. Tomato,0,Newport,1,65,11.0,0.0
-11869,2007,7,Colorado,0,"American Cheese, Pasteurized; Margarine",Cheese,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",O121; O26; O84,Confirmed; Confirmed; Confirmed,135,10.0,0.0
+11869,2007,7,Colorado,0,"American Cheese, Pasteurized; Margarine",Cheese,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",O121; O26; O84,1,135,10.0,0.0
 11920,2007,7,New York,1,"Tomato, Unspecified",Tomato,0,Newport,1,10,4.0,1.0
 11921,2007,7,New York,1,"Ground Beef, Unspecified",Ground Beef,1,O157:H7,1,3,2.0,0.0
 11922,2007,7,New York,1,Ground Beef,Ground Beef,1,O157:H7,1,2,2.0,0.0
@@ -198,7 +198,7 @@
 12984,2008,7,Virginia,0,Omelette,Cheese; Leafy Green,0,Heidelberg,1,17,2.0,0.0
 12985,2008,7,Virginia,1,"Ground Beef, Other",Ground Beef,1,O157:H7,1,59,9.0,0.0
 13043,2008,8,New York,0,Turkey,Turkey,0,Hadar,1,50,15.0,0.0
-13069,2008,8,Virginia,0,Hybrid Striped Bass,Fin Fish,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla,Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed,45,1.0,0.0
+13069,2008,8,Virginia,0,Hybrid Striped Bass,Fin Fish,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla,1,45,1.0,0.0
 13082,2008,9,California,0,Tri-Tip,Beef,1,O157:H7,1,27,5.0,0.0
 13087,2008,9,Colorado,0,"Alfalfa Sprouts; Iceberg Lettuce, Unspecified",Sprouts; Leafy Green,1,O157:NM (H-),1,21,2.0,0.0
 13116,2008,9,New York,1,"Ground Beef, Hamburger; Steak, Other; Sandwich, Beef",Beef; Beef; Beef,1,O157:H7,1,8,5.0,0.0
@@ -264,7 +264,7 @@
 15446,2011,9,Michigan,0,Pulled Pork,Pork,0,Derby,1,35,6.0,0.0
 15451,2011,9,Multistate,0,Hummus,Tahini,0,Bovismorbificans,1,23,0.0,0.0
 15469,2011,9,Ohio,1,"Ground Beef, Meatballs",Ground Beef,1,O157:H7,1,4,1.0,0.0
-15476,2011,9,South Carolina,0,"Pork, Bbq",Pork,Salmonella enterica; Staphylococcus aureus; Bacillus cereus,Typhimurium var Cope,Confirmed; Confirmed; Confirmed,68,1.0,0.0
+15476,2011,9,South Carolina,0,"Pork, Bbq",Pork,Salmonella enterica; Staphylococcus aureus; Bacillus cereus,Typhimurium var Cope,1,68,1.0,0.0
 15518,2011,10,Multistate,1,Ground Beef,Ground Beef,0,Typhimurium var Cope,1,20,8.0,0.0
 15641,2011,12,Michigan,0,"Pizza, Tostada; Sandwich, Submarine",Lettuce; Lettuce,1,O157:H7,1,22,4.0,0.0
 15662,2011,12,New York,0,Roast Beef; Lettuce,Roast Beef; Lettuce,0,Hartford,1,5,5.0,0.0
@@ -281,7 +281,7 @@
 15979,2012,4,Ohio,0,Mesclun Mix And Spinach,Lettuce; Mesclun Mix; Spinach,2,GI_7,1,29,0.0,0.0
 16010,2012,5,California,1,"Fajita, Chicken",Chicken,0,Enteritidis,1,38,1.0,0.0
 16064,2012,5,Wisconsin,1,"Beef, Laab Raw; Beef, Intestine Soup With Vegetables; Beef, Laab Cooked","Beef, Raw; Beef; Beef",Salmonella enterica; Campylobacter jejuni,Dublin,0,21,5.0,0.0
-16074,2012,6,California,1,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica; Salmonella enterica,Agona; Infantis; Derby,Suspected; Confirmed; Confirmed,23,2.0,0.0
+16074,2012,6,California,1,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica; Salmonella enterica,Agona; Infantis; Derby,0,23,2.0,0.0
 16142,2012,7,Colorado,1,Raw Milk,Milk,1,O111:NM,1,2,0.0,0.0
 16154,2012,7,Minnesota,0,Eggs,Egg,0,Enteritidis,1,2,0.0,0.0
 16161,2012,7,Multistate,1,Sprouts,Sprouts,0,Cubana,1,19,0.0,0.0
@@ -400,7 +400,7 @@
 18683,2015,6,Oregon,0,Pork,Pork,0,"I 4,[5],12:i:-",1,3,0.0,0.0
 18717,2015,7,Connecticut,1,Chicken Tenders,Chicken,0,Enteritidis,1,3,1.0,0.0
 18721,2015,7,Florida,0,"Salad, Unspecified",Salad,2,GII_4 Sydney (2012),1,12,1.0,0.0
-18731,2015,7,Illinois,0,Chicken Breast,Chicken,"Shigella; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Salmonella enterica; Salmonella enterica",O157:H7; Typhimurium; Enteritidis,Suspected; Suspected; Confirmed; Suspected; Suspected; Confirmed,10,1.0,0.0
+18731,2015,7,Illinois,0,Chicken Breast,Chicken,"Shigella; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Salmonella enterica; Salmonella enterica",O157:H7; Typhimurium; Enteritidis,0,10,1.0,0.0
 18736,2015,7,Maryland,0,"Crab, Unspecified",Crab,1,O157,1,9,6.0,0.0
 18799,2015,8,Hawaii,0,Chicken Katsu Plate; Korean Chicken,Chicken; Chicken,0,Muenchen,1,3,0.0,0.0
 18814,2015,8,Multistate,0,Salsa,Tomato,0,Newport,1,119,17.0,0.0
