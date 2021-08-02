@@ -1,421 +1,421 @@
 ,Year,Month,State,Location,Food,Ingredient,Species,Serotype/Genotype,Status,Illnesses,Hospitalizations,Fatalities
-638,1998,June,New York,Private Home/Residence,"Chicken, Unspecified",Chicken,Salmonella enterica,Typhimurium,Confirmed,4,3.0,0.0
-669,1998,July,Arizona,Restaurant,Chile Rellenos,Egg,Salmonella enterica,Enteritidis,Confirmed,58,11.0,0.0
-955,1998,September,Maryland,Restaurant,"Multiple Cheeses, Unspecified",Cheese,Norovirus genogroup II,Unknown,Confirmed,258,4.0,0.0
-1319,1999,January,California,Restaurant,Eggs Benedict,Egg,Salmonella enterica,Enteritidis,Confirmed,3,0.0,0.0
-1321,1999,January,California,Restaurant,"Chile Relleno, Unspecified; Rice, Yellow",Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,31,6.0,0.0
-1455,1999,February,Nebraska,Restaurant,Lettuce-Based Salads Unspecified,Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,65,8.0,0.0
-1471,1999,February,Pennsylvania,Catering Service,"Chicken, Baked",Chicken,Salmonella enterica,Hadar,Confirmed,104,5.0,0.0
-1624,1999,April,Maryland,Restaurant; Catering Service,"Chicken Salad; Ham, Unspecified",Chicken; Pork,Salmonella enterica,Enteritidis,Confirmed,65,3.0,0.0
-1788,1999,May,Missouri,Religious Facility,"Pie, Merengue",Cream Filling,Salmonella enterica,Enteritidis,Confirmed,39,2.0,0.0
-1826,1999,May,Virginia,Restaurant,"French Toast, Unspecified; Pork, Bacon; Ham, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,177,8.0,0.0
-1861,1999,June,Florida,Religious Facility,"Roast Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,17,7.0,0.0
-1953,1999,June,Utah,Catering Service,"Ice Cream, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,256,0.0,0.0
-2066,1999,July,Texas,Restaurant,"Chicken, Unspecified",Chicken,Salmonella enterica,Javiana,Confirmed,7,7.0,0.0
-2075,1999,July,Wisconsin,Nursing Home/Assisted Living Facility,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,4,0.0,0.0
-2076,1999,July,Wisconsin,Nursing Home/Assisted Living Facility,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,5,3.0,0.0
-2152,1999,August,Multistate,Restaurant; Grocery Store,"Romaine Lettuce, Unspecified",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,14,6.0,0.0
-2157,1999,August,Multistate,Restaurant,Alfalfa Sprouts,Sprouts,Salmonella enterica,Muenchen,Confirmed,157,16.0,0.0
-2229,1999,September,Georgia,Restaurant,"Burrito, Chicken; Taco, Chicken; Chicken, Nuggets/Fingers",Chicken; Chicken; Chicken,Salmonella enterica,Typhimurium,Confirmed,8,1.0,0.0
-2291,1999,September,West Virginia,Restaurant,"Chile Relleno, Unspecified",Beef,Salmonella enterica,Enteritidis,Confirmed,12,5.0,0.0
-2320,1999,October,Florida,Restaurant,"Chicken, Unspecified",Chicken,Salmonella enterica,Enteritidis,Suspected,6,0.0,0.0
-2372,1999,October,Multistate,Restaurant; Nursing Home/Assisted Living Facility,"Romaine Lettuce, Unspecified; Caesar Salad",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,45,0.0,0.0
-2384,1999,October,Ohio,Restaurant,"Salad, Unspecified",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,47,23.0,0.0
-2408,1999,November,California,Restaurant; Private Home/Residence,"Chicken, Unspecified",Chicken,Salmonella enterica,Enteritidis,Confirmed,7,0.0,0.0
-2481,1999,November,Multistate,Restaurant,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,14,4.0,0.0
-2506,1999,November,Utah,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,Confirmed,4,0.0,0.0
-2524,1999,December,California,Restaurant,"Chicken, Unspecified; Mung Bean Sprouts",Chicken,Salmonella enterica,Enteritidis,Confirmed,108,13.0,0.0
-2532,1999,December,California,Restaurant; Private Home/Residence,"Lasagna, Beef; Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,10,0.0,0.0
-2591,1999,December,Massachusetts,Restaurant,"Lasagna, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,15,1.0,0.0
-2643,1999,December,Utah,Private Home/Residence,"Ice Cream, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,3,0.0,0.0
-2697,2000,January,Maryland,Restaurant,Crab Cakes,Egg,Salmonella enterica,Enteritidis,Confirmed,5,0.0,0.0
-2968,2000,March,Michigan,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,11,0.0,0.0
-2973,2000,March,Minnesota,School/College/University,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Suspected,18,2.0,0.0
-3039,2000,April,Florida,Private Home/Residence; Religious Facility,"Chicken, Bbq",Chicken,Salmonella enterica,Group C1,Confirmed,17,3.0,0.0
-3089,2000,April,Michigan,Restaurant; Private Home/Residence,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,4,3.0,0.0
-3140,2000,April,Virginia,Private Home/Residence,Macaroni And Cheese,Egg,Salmonella enterica,Enteritidis,Confirmed,106,14.0,0.0
-3153,2000,May,Arkansas,Restaurant,"Chicken, Unspecified",Chicken,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,36,14.0,0.0
-3155,2000,May,California,Restaurant,"Carne Asada; Pork, Other",Beef; Pork,Salmonella enterica,Heidelberg,Confirmed,17,6.0,0.0
-3224,2000,May,Maine,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,2,1.0,0.0
-3244,2000,May,Michigan,Restaurant,"Salad, Unspecified; Salad Dressing, Unspecified",Leafy Green; Sauces/ Dressings,Salmonella enterica,Braenderup,Suspected,75,2.0,0.0
-3269,2000,May,Pennsylvania,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,Confirmed,9,0.0,0.0
-3288,2000,June,Arkansas,Restaurant,Pico De Gallo,Root (Eg. Potato),Salmonella enterica,Newport,Confirmed,96,6.0,0.0
-3335,2000,June,Georgia,Restaurant,"Shell Eggs, Scrambled Hard",Egg,Salmonella enterica,Enteritidis,Confirmed,26,0.0,0.0
-3352,2000,June,Maine,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,2,0.0,0.0
-3355,2000,June,Maryland,Restaurant,Crab Cakes,Egg,Salmonella enterica,Enteritidis,Confirmed,18,2.0,0.0
-3373,2000,June,Minnesota,Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Typhimurium,Suspected,12,1.0,0.0
-3463,2000,July,Minnesota,Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Heidelberg,Confirmed,14,0.0,0.0
-3468,2000,July,Multistate,Camp,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,15,0.0,0.0
-3497,2000,July,Washington,Restaurant,"Chile Relleno, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-3507,2000,August,Alabama,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Mbandaka,Confirmed,50,5.0,0.0
-3593,2000,August,Ohio,Restaurant,"Shell Egg, Other",Egg,Salmonella enterica,Enteritidis,Confirmed,41,11.0,0.0
-3594,2000,August,Oklahoma,Restaurant,"Chicken, Fried",Chicken,Salmonella enterica,Newport,Confirmed,8,0.0,0.0
-3597,2000,August,Pennsylvania,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,Confirmed,5,2.0,0.0
-3642,2000,September,Florida,Private Home/Residence,"Potato, Mashed",Root (Eg. Potato),Salmonella enterica,Javiana,Suspected,4,2.0,1.0
-3689,2000,September,Pennsylvania,Restaurant,"Fish, Stuffed Flounder",Egg,Salmonella enterica,Enteritidis,Confirmed,6,0.0,0.0
-3716,2000,October,California,Grocery Store,"Grapes, Red","Fruit, Unspecified","Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,14,8.0,0.0
-3888,2000,November,Multistate,Private Home/Residence; Grocery Store,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,50,30.0,0.0
-3908,2000,November,Tennessee,Restaurant,"Gravy, Chicken; Stuffing, Unspecified",Egg; Chicken,Salmonella enterica,Typhimurium,Confirmed,26,19.0,0.0
-3935,2000,December,California,Restaurant,"Chile Relleno, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,4,0.0,0.0
-4020,2000,December,Ohio,Restaurant,"Tomato, Unspecified",Vine-Stalk Eg. Tomato,Norovirus genogroup II,Unknown,Confirmed,31,0.0,0.0
-4100,2001,January,Hawaii,School/College/University,Mung Bean Sprouts,Sprouts,Salmonella enterica,Enteritidis,Confirmed,22,3.0,0.0
-4310,2001,March,Multistate,Private Home/Residence,"Mango, Unspecified","Fruit, Unspecified",Salmonella enterica,Saintpaul,Confirmed,26,1.0,0.0
-4420,2001,April,Maryland,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-4421,2001,April,Maryland,Private Home/Residence,"Chicken, Fried",Chicken,Salmonella enterica,Newport,Confirmed,9,1.0,0.0
-4439,2001,April,Multistate,Restaurant,"Multiple Cheeses, Unpasteurized",Milk,Salmonella enterica,Newport,Confirmed,27,12.0,0.0
-4447,2001,April,Ohio,Private Home/Residence,"Ham, Other",Pork,Norovirus genogroup II,Unknown,Confirmed,16,0.0,0.0
-4485,2001,May,California,Restaurant; Private Home/Residence,"Cilantro, Unspecified",Spices,Salmonella enterica,Newport,Confirmed,8,3.0,0.0
-4548,2001,May,Iowa,Private Home/Residence,Speciality Salads Unspecified,Chicken,Salmonella enterica,Typhimurium,Confirmed,21,3.0,0.0
-4567,2001,May,Minnesota,Restaurant,Eggs Benedict,Egg,Salmonella enterica,Enteritidis,Confirmed,54,2.0,0.0
-4675,2001,June,Idaho,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,Confirmed,12,4.0,0.0
-4706,2001,June,Minnesota,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,16,4.0,0.0
-5470,2002,February,Michigan,Restaurant,"Cake, Cassata; Cannelloni",Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,196,24.0,0.0
-5552,2002,March,Iowa,School/College/University,"Sandwich, Chicken",Bread,Norovirus genogroup I,GI_1,Confirmed,116,0.0,0.0
-5602,2002,April,California,Fair/Festival,"Beef, Bbq",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,26,5.0,0.0
-5604,2002,April,California,Restaurant,"Beef, Unspecified",Beef,Salmonella enterica,Newport,Confirmed,21,2.0,0.0
-5675,2002,April,Maryland,Restaurant,Caesar Salad,Leafy Green,Salmonella enterica,Unknown,Suspected,2,1.0,0.0
-5711,2002,April,Pennsylvania,Restaurant,"Ground Beef, Meatballs; Lasagna, Mixed Meat",Beef,Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-5844,2002,June,California,Private Home/Residence,"Taco, Beef",Beef,Salmonella enterica,Heidelberg,Confirmed,17,0.0,0.0
-5938,2002,June,Pennsylvania,Restaurant,"Chicken, Unspecified; Ham, Unspecified",Chicken; Pork,Salmonella enterica,Enteritidis,Confirmed,15,0.0,0.0
-6060,2002,July,Pennsylvania,Restaurant; Catering Service; Fair/Festival,Crab Cakes,Egg; Stuffing,Salmonella enterica,Enteritidis,Confirmed,8,1.0,0.0
-6139,2002,August,Kansas,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Typhimurium,Confirmed,10,1.0,0.0
-6280,2002,October,Arkansas,Camp,"Beans, Baked",Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,Confirmed,7,4.0,0.0
-6467,2002,November,Multistate,Restaurant,"Iceberg Lettuce, Unspecified",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,16,5.0,0.0
-6483,2002,November,Ohio,Restaurant,"Stuffing, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,34,6.0,0.0
-6487,2002,November,Ohio,Restaurant,"Other Milk, Unpasteurized",Milk,Salmonella enterica,Typhimurium,Confirmed,107,6.0,0.0
-6620,2002,December,Washington,Restaurant; Private Home/Residence,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,40,2.0,0.0
-6806,2003,March,California,Restaurant,"Eggs, Other; Omelette; Eggs Benedict",Egg,Salmonella enterica,Enteritidis,Confirmed,7,0.0,0.0
-6887,2003,March,Pennsylvania,Private Home/Residence,"Shell Eggs, Fried Soft",Egg,Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-7033,2003,May,Minnesota,Restaurant,"Shell Egg, Other",Egg,Salmonella enterica,Enteritidis,Confirmed,4,1.0,0.0
-7154,2003,June,Ohio,Restaurant,"Pie, Merengue",Egg,Salmonella enterica,Enteritidis,Confirmed,17,7.0,0.0
-7218,2003,July,Georgia,Grocery Store,"Carnitas, Unspecified",Pork,Salmonella enterica,Uganda,Confirmed,11,1.0,0.0
-7244,2003,July,North Carolina,Private Home/Residence,"Tortilla, Unspecified",Egg,Salmonella enterica,Heidelberg,Confirmed,13,0.0,0.0
-7254,2003,July,Pennsylvania,Restaurant,"Pie, Merengue",Egg,Salmonella enterica,Enteritidis,Confirmed,9,0.0,0.0
-7291,2003,August,California,Grocery Store,"Queso Fresco, Unpasteurized",Cheese,Salmonella enterica,Typhimurium,Confirmed,50,7.0,0.0
-7323,2003,August,Maryland,Religious Facility,Crab Cakes,Egg,Salmonella enterica,Enteritidis,Confirmed,104,12.0,0.0
-7357,2003,August,Texas,Restaurant,"Oysters, Raw","Oysters, Raw",Salmonella enterica,Typhi,Confirmed,6,4.0,0.0
-7413,2003,September,Maryland,Restaurant,"Pie, Coconut Cream",Egg,Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-7419,2003,September,Minnesota,Private Home/Residence,"Candy, Toffee; Cake, Unspecified; Cake, Brownie",Egg; Egg; Egg,Salmonella enterica,Saintpaul,Confirmed,5,0.0,0.0
-7509,2003,October,Minnesota,Restaurant,"French Toast, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,30,10.0,0.0
-7837,2004,February,California,Restaurant,"Sandwich, Turkey",Turkey,Salmonella enterica,Heidelberg,Confirmed,78,2.0,0.0
-7839,2004,February,California,Restaurant,"Chicken, Bbq",Chicken,Salmonella enterica,Unknown,Suspected,25,0.0,0.0
-7983,2004,March,California,Grocery Store,"Salad, Unspecified",Chicken; Root (Eg. Potato),Salmonella enterica,Infantis,Confirmed,12,1.0,0.0
-8051,2004,March,New Hampshire,Private Home/Residence,Raw Cake/Cookie Dough,Egg,Salmonella enterica,Group B,Confirmed,3,0.0,0.0
-8151,2004,April,Iowa,Restaurant,"Chicken, Grilled",Chicken,Salmonella enterica,Typhimurium var Cope,Confirmed,20,2.0,0.0
-8409,2004,June,Multistate,Restaurant; Private Home/Residence,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica,Braenderup,Confirmed,137,25.0,0.0
-8414,2004,June,New York,Restaurant; Catering Service,"Chicken, Baked",Chicken,Salmonella enterica,Hadar,Confirmed,42,14.0,0.0
-8489,2004,July,Minnesota,Religious Facility,"Spaghetti, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,70,1.0,0.0
-8492,2004,July,Multistate,Restaurant,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Javiana; Typhimurium; Thompson; Muenchen; Unknown; Anatum,Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed,429,129.0,0.0
-8493,2004,July,Multistate,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,5,1.0,0.0
-8498,2004,July,New York,Restaurant; Catering Service,"Shell Eggs, Scrambled Hard; French Toast, Unspecified",Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,13,0.0,0.0
-8510,2004,July,Oklahoma,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Typhimurium,Confirmed,13,2.0,0.0
-8573,2004,August,Minnesota,Private Home/Residence,Egg Baked/Casserole,Egg,Salmonella enterica,Heidelberg,Confirmed,5,1.0,0.0
-8598,2004,August,Vermont,Restaurant,"Chicken, Curry",Chicken,Salmonella enterica,Group D1,Confirmed,2,1.0,0.0
-8662,2004,September,New York,Fair/Festival,"Roast Beef, Other",Beef,Salmonella enterica,Anatum,Confirmed,108,0.0,0.0
-8670,2004,September,North Carolina,Private Home/Residence,Rutabaga,Pork,Salmonella enterica,Enteritidis,Confirmed,30,14.0,0.0
-8772,2004,November,Arkansas,Restaurant; Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Heidelberg,Confirmed,15,5.0,0.0
-8781,2004,November,California,Restaurant,"Chicken, Other",Chicken,Salmonella enterica,Thompson,Confirmed,100,0.0,0.0
-8789,2004,November,California,Private Home/Residence,"Turkey, Unspecified",Turkey,Salmonella enterica,Typhimurium,Confirmed,23,8.0,0.0
-8790,2004,November,California,Grocery Store,"Queso Fresco, Unpasteurized",Milk,Salmonella enterica,Typhimurium,Confirmed,12,1.0,1.0
-8828,2004,November,Minnesota,Restaurant,Turkey And Gravy,Turkey,Salmonella enterica,Newport,Confirmed,49,8.0,0.0
-8835,2004,November,New York,Private Home/Residence,"Beef, Other",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,2.0,1.0
-9045,2005,January,Arkansas,Private Home/Residence,"Beef, Jerky",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,3,3.0,0.0
-9058,2005,January,Connecticut,Private Home/Residence,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,7,3.0,0.0
-9069,2005,January,Florida,Restaurant,"Eggs, Unspecified; French-Toast, Unspecified",Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,7,1.0,0.0
-9107,2005,January,New York,Private Home/Residence,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,2.0,0.0
-9197,2005,March,Arkansas,Private Home/Residence,"Bread, Cornbread Dressing; Chicken, Baked",Bread; Chicken,Salmonella enterica,Heidelberg,Confirmed,7,4.0,0.0
-9205,2005,March,California,Restaurant,"Pudding, Chocolate",Egg,Salmonella enterica,Heidelberg,Confirmed,6,1.0,0.0
-9278,2005,March,Virginia,Prison/Jail,"Eggs, Other",Egg,Salmonella enterica,Enteritidis,Confirmed,27,1.0,0.0
-9374,2005,May,Arkansas,Restaurant,"Chicken, Grilled",Chicken,Salmonella enterica,Enteritidis,Confirmed,8,0.0,0.0
-9405,2005,May,Georgia,Private Home/Residence,"Beef, Stew",Beef,Salmonella enterica,Agama,Confirmed,3,0.0,0.0
-9446,2005,May,New York,Restaurant; Private Home/Residence,Potato Salad,Root (Eg. Potato),Salmonella enterica; Clostridium perfringens; Salmonella enterica,Infantis; ; London,Confirmed; Confirmed; Confirmed,35,0.0,0.0
-9491,2005,June,California,Prison/Jail,"Spread/Filling, Other",Egg,Salmonella enterica; Salmonella enterica; Salmonella enterica,Heidelberg; Saintpaul; Brandenburg,Confirmed; Confirmed; Confirmed,157,1.0,0.0
-9506,2005,June,Georgia,Catering Service,"Stuffing/Dressing; Gravy, Chicken; Chicken, Other",Chicken,Salmonella enterica,Enteritidis,Confirmed,61,7.0,0.0
-9556,2005,June,Pennsylvania,Restaurant,"Sandwich, Chicken; Green Salad",Leafy Green; Vine-Stalk Eg. Tomato; Leafy Green; Vine-Stalk Eg. Tomato,Salmonella enterica,Muenchen,Confirmed,9,3.0,0.0
-9560,2005,June,Virginia,Religious Facility,"Sandwich, Beef",Ground Beef,Salmonella enterica,Hartford,Confirmed,40,1.0,0.0
-9572,2005,July,California,Private Home/Residence,"Chicken, Unspecified",Chicken,Salmonella enterica,Group D1,Suspected,6,1.0,0.0
-9609,2005,July,Multistate,Restaurant,"Tomato, Beefsteak",Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,Confirmed,72,8.0,0.0
-9610,2005,July,Multistate,Restaurant; Private Home/Residence,"Mayonnaise, Homemade; Cake, Tiramisu; Eggs, Other; Crab Cakes",Egg; Egg; Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,23,5.0,0.0
-9618,2005,July,New York,Restaurant; Private Home/Residence; Fair/Festival; Grocery Store; School/College/University,"Onion, Unspecified; Tomato, Unspecified",Root (Eg. Potato); Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,Confirmed,27,2.0,0.0
-9620,2005,July,New York,Private Home/Residence,"Ground Beef, Hamburger",Beef,Salmonella enterica,Typhimurium,Confirmed,3,1.0,0.0
-9680,2005,August,Georgia,Private Home/Residence,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,6,1.0,0.0
-9725,2005,August,Utah,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,Suspected,7,0.0,0.0
-9804,2005,October,California,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,6,0.0,0.0
-9837,2005,October,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,3,0.0,0.0
-9854,2005,October,Pennsylvania,Restaurant,"Beef, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,11,0.0,0.0
-9870,2005,November,California,Private Home/Residence,"Turkey, Unspecified",Turkey,Salmonella enterica,Group B,Confirmed,6,0.0,0.0
-9904,2005,November,Multistate,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica; Salmonella enterica; Salmonella enterica,Enteritidis; Typhimurium; Kentucky,Confirmed; Confirmed; Confirmed,44,2.0,0.0
-9905,2005,November,Multistate,Restaurant,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica,Braenderup,Confirmed,84,8.0,0.0
-9949,2005,December,Georgia,Restaurant,Hollandaise Sauce,Butter; Egg,Salmonella enterica,Heidelberg,Confirmed,34,7.0,0.0
-10070,2006,January,New York,Restaurant; Private Home/Residence,"Ground Beef, Unspecified",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,2.0,0.0
-10080,2006,January,Ohio,Restaurant,"Oil, Unspecified; Liver, Chicken",Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,113,23.0,0.0
-10097,2006,February,Arkansas,Restaurant,"Chicken, Teriyaki; Sushi, Unspecified",Chicken,Salmonella enterica,Typhimurium,Confirmed,161,7.0,0.0
-10163,2006,February,Oregon,Restaurant,Bean Sprouts,Sprouts,Salmonella enterica,Braenderup,Confirmed,4,0.0,0.0
-10179,2006,March,California,Restaurant,"Burrito, Unspecified","Fruit, Unspecified; Sauces/ Dressings",Salmonella enterica,Heidelberg,Confirmed,3,1.0,0.0
-10234,2006,March,New York,Restaurant; Private Home/Residence,"Ground Beef, Unspecified",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,6,4.0,0.0
-10328,2006,April,Minnesota,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica,Typhimurium,Confirmed,3,2.0,0.0
-10352,2006,April,Oregon,Catering Service,"Chicken, Baked",Chicken,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,7,0.0,0.0
-10673,2006,July,Minnesota,Private Home/Residence; Religious Facility,"Potato Salad; Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,17,9.0,1.0
-10731,2006,August,California,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Agona,Confirmed,40,0.0,0.0
-10751,2006,August,Georgia,Restaurant,"Sandwich, Roast Beef",Beef,Salmonella enterica,Montevideo,Confirmed,72,19.0,0.0
-10777,2006,August,New York,Restaurant,Watermelon,"Fruit, Unspecified",Salmonella enterica,Newport,Confirmed,20,2.0,0.0
-10805,2006,August,Pennsylvania,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Muenster,Confirmed,60,2.0,0.0
-11148,2006,December,Iowa,Restaurant,"Ham, Other",Leafy Green; Pork; Wraps/Tortillas,Norovirus genogroup II,Unknown,Confirmed,32,1.0,0.0
-11339,2007,January,Multistate,Private Home/Residence,"Eggs, Scrambled",Egg,Salmonella enterica,Enteritidis,Confirmed,81,9.0,0.0
-11433,2007,February,Multistate,Restaurant; Banquet Facility,Oysters,Oysters,Norovirus genogroup I,Unknown,Confirmed,40,0.0,0.0
-11434,2007,February,Multistate,Private Home/Residence; Grocery Store,"Lettuce, Unspecified; Spinach",Leafy Green; Leafy Green,Salmonella enterica,Typhimurium,Confirmed,76,4.0,0.0
-11507,2007,March,Kentucky,Catering Service,"Sandwich, Wrap",Leafy Green,Norovirus genogroup II,Unknown,Confirmed,27,0.0,0.0
-11523,2007,March,Multistate,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,17,6.0,0.0
-11603,2007,April,Maryland,Private Home/Residence,"Lemonade, Unspecified; Turkey Salad; Ice","Fruit, Unspecified; Water; Turkey; Water",Norovirus genogroup II,Unknown,Confirmed,10,0.0,0.0
-11673,2007,May,Connecticut,Restaurant,Tap Water,Water,Norovirus genogroup I,Unknown,Confirmed,7,0.0,0.0
-11682,2007,May,Georgia,Private Home/Residence,Strawberries,"Fruit, Unspecified",Norovirus genogroup I,Unknown,Confirmed,10,0.0,0.0
-11710,2007,May,New York,Restaurant,"Chicken Dishes, Unspecified",Chicken,Salmonella enterica,Enteritidis,Confirmed,6,1.0,0.0
-11736,2007,May,Virginia,Restaurant,Crispy Pork,Pork,Salmonella enterica; Salmonella enterica,London; Typhimurium,Confirmed; Confirmed,28,0.0,0.0
-11803,2007,June,Multistate,Restaurant; Private Home/Residence,"Tomato, Beefsteak",Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,Confirmed,65,11.0,0.0
-11869,2007,July,Colorado,Prison/Jail,"American Cheese, Pasteurized; Margarine",Cheese,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",O121; O26; O84,Confirmed; Confirmed; Confirmed,135,10.0,0.0
-11920,2007,July,New York,Unknown,"Tomato, Unspecified",Tomato,Salmonella enterica,Newport,Confirmed,10,4.0,1.0
-11921,2007,July,New York,Private Home/Residence,"Ground Beef, Unspecified",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,3,2.0,0.0
-11922,2007,July,New York,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,2.0,0.0
-11998,2007,August,New York,Restaurant,Caesar Salad,Egg,Salmonella enterica,Enteritidis,Suspected,5,0.0,0.0
-12038,2007,September,Colorado,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,0.0,0.0
-12128,2007,October,Georgia,Catering Service; Fair/Festival,"Pork, Bbq",Pork,Salmonella enterica,Newport,Confirmed,67,5.0,0.0
-12136,2007,October,Iowa,Private Home/Residence,"Chicken, Baked; Chicken, Grilled",Chicken; Chicken,Salmonella enterica,Typhimurium,Confirmed,3,1.0,0.0
-12183,2007,November,California,Restaurant; Private Home/Residence; Fair/Festival,Mutiple Mexican Foods,Beef; Leafy Green; Wraps/Tortillas,Norovirus genogroup II,Unknown,Confirmed,50,0.0,0.0
-12239,2007,November,New York,Private Home/Residence,"Turkey, Baked",Turkey,Salmonella enterica,Hadar,Confirmed,6,1.0,0.0
-12248,2007,November,Oregon,Catering Service,"Sandwich, Turkey; Sandwich, Beef; Sandwich, Ham; Sandwich, Tuna Fish",Leafy Green; Leafy Green; Leafy Green; Leafy Green,Norovirus genogroup I,GI_1,Suspected,25,1.0,0.0
-12285,2007,December,Colorado,Private Home/Residence,"Multiple Cheeses, Pasteurized",Cheese,Salmonella enterica,Montevideo,Confirmed,6,2.0,0.0
-12339,2007,December,Virginia,Private Home/Residence,"Lasagna, Beef",Egg,Salmonella enterica,Enteritidis,Confirmed,9,2.0,0.0
-12356,2008,January,California,Restaurant,House Salad,Leafy Green,Norovirus genogroup II,Unknown,Confirmed,51,0.0,0.0
-12426,2008,January,South Carolina,Private Home/Residence,Macaroni And Cheese,Egg,Salmonella enterica,Enteritidis,Confirmed,12,6.0,0.0
-12443,2008,February,California,Private Home/Residence,Raw Cookie Dough,Egg,Salmonella enterica,Enteritidis,Confirmed,4,2.0,0.0
-12844,2008,June,Connecticut,Private Home/Residence,Raw Milk,Milk,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,14,5.0,0.0
-12856,2008,June,Georgia,Restaurant,"Beef, Other",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,12,10.0,0.0
-12885,2008,June,Minnesota,Private Home/Residence,"Turkey, Unspecified",Turkey,Salmonella enterica,Hadar,Confirmed,6,3.0,0.0
-12920,2008,July,California,Private Home/Residence,Mole; Pasta With Tomato Sauce,Vine-Stalk Eg. Tomato; Pasta,Salmonella enterica,Blockley,Confirmed,9,0.0,0.0
-12921,2008,July,California,Restaurant,"Peppers, Jalapeno",Vine-Stalk Eg. Tomato,Salmonella enterica,Braenderup,Confirmed,17,0.0,0.0
-12963,2008,July,New York,Private Home/Residence,Fruit Salad,"Fruit, Unspecified",Salmonella enterica,Panama,Confirmed,17,1.0,0.0
-12965,2008,July,New York,Restaurant; Private Home/Residence,"Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,8,8.0,0.0
-12984,2008,July,Virginia,Restaurant,Omelette,Cheese; Leafy Green,Salmonella enterica,Heidelberg,Confirmed,17,2.0,0.0
-12985,2008,July,Virginia,Camp,"Ground Beef, Other",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,59,9.0,0.0
-13043,2008,August,New York,Restaurant,Turkey,Turkey,Salmonella enterica,Hadar,Confirmed,50,15.0,0.0
-13069,2008,August,Virginia,Catering Service,Hybrid Striped Bass,Fin Fish,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla,Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed,45,1.0,0.0
-13082,2008,September,California,Restaurant,Tri-Tip,Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,27,5.0,0.0
-13087,2008,September,Colorado,Restaurant; Catering Service,"Alfalfa Sprouts; Iceberg Lettuce, Unspecified",Sprouts; Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,21,2.0,0.0
-13116,2008,September,New York,Private Home/Residence,"Ground Beef, Hamburger; Steak, Other; Sandwich, Beef",Beef; Beef; Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,8,5.0,0.0
-13144,2008,October,California,Restaurant,"Chicken, Roasted",Chicken,Salmonella enterica,Typhimurium,Confirmed,4,0.0,0.0
-13169,2008,October,New York,Restaurant; Banquet Facility,"Steak, Prime Rib",Beef,Salmonella enterica,Enteritidis,Confirmed,16,0.0,0.0
-13222,2008,November,Florida,Restaurant; School/College/University,Ice Tea; Ice,Water Based (Eg. Drink Mix); Water,Norovirus genogroup II,Unknown,Confirmed,33,0.0,0.0
-13249,2008,November,New York,Religious Facility,Specialty/Ethnic Dishes,Chicken,Salmonella enterica,Enteritidis,Confirmed,66,16.0,0.0
-13293,2008,December,California,Restaurant,Macaroni And Cheese,Egg,Salmonella enterica,Heidelberg,Confirmed,16,2.0,0.0
-13329,2008,December,Massachusetts,Private Home/Residence,"Eggnog, Homemade",Egg,Salmonella enterica,Enteritidis,Confirmed,18,10.0,0.0
-13365,2008,December,Pennsylvania,Private Home/Residence,Other Food,Egg,Salmonella enterica,Enteritidis,Confirmed,14,3.0,0.0
-13571,2009,March,Oregon,Restaurant; Private Home/Residence,Chicken,Chicken,Salmonella enterica,Heidelberg,Confirmed,26,8.0,0.0
-13744,2009,June,North Dakota,Private Home/Residence; Banquet Facility,Taco Meat,Beef,Salmonella enterica,Montevideo,Confirmed,36,2.0,0.0
-13745,2009,June,North Dakota,Private Home/Residence; Banquet Facility,Roast Beef,Beef,Salmonella enterica,Montevideo,Confirmed,88,0.0,0.0
-13800,2009,July,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,0.0,0.0
-13802,2009,July,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,3,1.0,0.0
-13811,2009,July,Oregon,Camp,Scrambled Eggs,Egg,Salmonella enterica,Enteritidis,Confirmed,59,0.0,0.0
-13819,2009,July,Virginia,Restaurant,Lasagna,Egg,Salmonella enterica,Enteritidis,Confirmed,19,2.0,0.0
-13839,2009,August,Colorado,Catering Service,"Iceberg Lettuce, Unspecified",Lettuce,Salmonella enterica,Typhimurium,Confirmed,27,1.0,0.0
-13866,2009,August,New York,Camp,Beef,Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,1.0,0.0
-13912,2009,September,Pennsylvania,Restaurant,Hollandaise Sauce,Egg,Salmonella enterica,Enteritidis,Confirmed,12,0.0,0.0
-13935,2009,October,Multistate,Restaurant,Needle Tenderized Steak,"Steak, Sirloin","Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,25,9.0,1.0
-13939,2009,October,New York,Restaurant,Caesar Dressing,Egg,Salmonella enterica,Enteritidis,Confirmed,5,0.0,0.0
-13950,2009,November,California,Restaurant,"Mayonnaise, Homemade; Homemade Tartar Sauce; Vegetable-Based Salads",Egg; Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,4,1.0,0.0
-14135,2010,February,California,Fast Food Restaurant,"Carnitas, Unspecified",Pork,Salmonella enterica,Give,Confirmed,50,2.0,0.0
-14182,2010,February,Oregon,Restaurant; Private Home/Residence,Oysters,Oysters,Norovirus genogroup I,GI_2,Confirmed,16,0.0,0.0
-14183,2010,February,Oregon,Restaurant,Lettuce,Leaf Lettuce,Norovirus genogroup II,GII_12,Confirmed,23,0.0,0.0
-14217,2010,March,California,Restaurant,Carne Asada,Beef,Salmonella enterica,Typhimurium,Confirmed,22,2.0,0.0
-14306,2010,April,Florida,Private Home/Residence; Banquet Facility,"Pork; Chicken, Bbq",Pork; Chicken,Salmonella enterica,Anatum,Confirmed,37,1.0,0.0
-14328,2010,April,Multistate,Fast Food Restaurant; Fair/Festival; School/College/University,"Romaine Lettuce, Unspecified",Romaine Lettuce,"Escherichia coli, Shiga toxin-producing",O145,Confirmed,31,14.0,0.0
-14329,2010,April,Multistate,Restaurant; Private Home/Residence; Grocery Store,Mamey Shake,Mamey Fruit,Salmonella enterica,Typhi,Confirmed,12,9.0,0.0
-14332,2010,April,Multistate,Private Home/Residence,"Ground Turkey, Unspecified",Turkey,Salmonella enterica,Berta,Confirmed,35,2.0,0.0
-14434,2010,May,Pennsylvania,Restaurant; Banquet Facility,"Lasagna, Beef; Soup, Speciality, Other",Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,37,5.0,0.0
-14472,2010,June,Florida,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica,Newport,Confirmed,6,0.0,0.0
-14540,2010,July,Colorado,Restaurant,Rattlesnake Cake,Egg,Salmonella enterica,Enteritidis,Confirmed,29,4.0,0.0
-14542,2010,July,Colorado,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,Confirmed,2,0.0,0.0
-14598,2010,August,Alaska,Restaurant,Hollandaise Sauce,Egg,Salmonella enterica,Thompson,Confirmed,7,2.0,0.0
-14632,2010,August,Michigan,Nursing Home/Assisted Living Facility,Potato Salad,Yellow Onion,Salmonella enterica,Javiana,Confirmed,41,5.0,0.0
-14748,2010,October,Iowa,Private Home/Residence,"Carnitas, Unspecified",Pork,Salmonella enterica,Infantis,Confirmed,6,6.0,0.0
-14761,2010,October,Multistate,Grocery Store,Gouda Cheese (Unpasteurized Milk),"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,38,15.0,0.0
-14806,2010,November,Minnesota,School/College/University,Venison,Venison,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",O103:H2; O145:NM,Confirmed; Confirmed,29,2.0,0.0
-14915,2011,January,Maryland,Catering Service,"Salad, Unspecified; Lettuce",Leaf Lettuce,Norovirus genogroup II,GII_4 Untypeable,Confirmed,93,0.0,0.0
-14924,2011,January,Multistate,Grocery Store,"Deli Meat, Bologna",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,14,3.0,0.0
-14927,2011,January,New York,Private Home/Residence,Venison,Venison,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,1.0,0.0
-14979,2011,February,Minnesota,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,3,0.0,0.0
-14987,2011,February,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,0.0,0.0
-15020,2011,March,Georgia,Fast Food Restaurant; Restaurant; Restaurant; Private Home/Residence,"Cucumber; Tomato, Unspecified",Cucumber; Tomato,Salmonella enterica,Saintpaul,Confirmed,14,2.0,0.0
-15030,2011,March,Maryland,Religious Facility,"Sausage, Pork",Pork,Salmonella enterica,Infantis,Confirmed,18,5.0,0.0
-15041,2011,March,New York,Private Home/Residence,Venison,Venison,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,2.0,0.0
-15093,2011,April,Michigan,Fast Food Restaurant,Clover Sprouts,Clover Sprouts,Salmonella enterica,Muenchen,Confirmed,7,4.0,0.0
-15100,2011,April,Multistate,Private Home/Residence; Grocery Store; Nursing Home/Assisted Living Facility; School/College/University,"Liver, Chicken","Liver, Chicken",Salmonella enterica,Heidelberg,Confirmed,190,30.0,0.0
-15155,2011,May,Florida,Private Home/Residence,"Avocado, Unspecified",Avocado,Salmonella enterica,Braenderup,Confirmed,3,0.0,0.0
-15178,2011,May,Minnesota,Private Home/Residence,Pork,Pork,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,14,4.0,0.0
-15245,2011,June,Missouri,Private Home/Residence; Catering Service,Smoked Whole Hog,Pork,Salmonella enterica; Salmonella enterica,Agona; Derby,Confirmed; Confirmed,13,0.0,0.0
-15323,2011,July,Michigan,Restaurant; Private Home/Residence; Camp,Ground Beef,Beef,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,12,8.0,0.0
-15326,2011,July,Minnesota,Private Home/Residence,Fruit,Strawberries; Watermelon,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,6,1.0,0.0
-15335,2011,July,New York,Private Home/Residence,"Turkey, Roasted",Turkey,Salmonella enterica,Typhimurium,Confirmed,21,2.0,0.0
-15339,2011,July,New York,Unknown,Tomatoes,Tomato,Salmonella enterica,Newport,Confirmed,10,3.0,0.0
-15374,2011,August,Kansas,Unknown,Sprouts,Sprouts,Salmonella enterica,Agona,Confirmed,7,1.0,0.0
-15383,2011,August,Minnesota,Private Home/Residence,Watermelon,Watermelon,Salmonella enterica,Typhimurium,Confirmed,15,2.0,0.0
-15386,2011,August,Minnesota,Private Home/Residence,"Eggs, Other",Egg,Salmonella enterica,Enteritidis,Confirmed,8,3.0,0.0
-15429,2011,September,Illinois,Private Home/Residence; Grocery Store,"Carnitas, Unspecified",Pork,Salmonella enterica,Typhimurium,Confirmed,12,3.0,0.0
-15430,2011,September,Illinois,Restaurant,Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,8,0.0,0.0
-15446,2011,September,Michigan,Catering Service,Pulled Pork,Pork,Salmonella enterica,Derby,Confirmed,35,6.0,0.0
-15451,2011,September,Multistate,Restaurant,Hummus,Tahini,Salmonella enterica,Bovismorbificans,Confirmed,23,0.0,0.0
-15469,2011,September,Ohio,Private Home/Residence,"Ground Beef, Meatballs",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,4,1.0,0.0
-15476,2011,September,South Carolina,Religious Facility,"Pork, Bbq",Pork,Salmonella enterica; Staphylococcus aureus; Bacillus cereus,Typhimurium var Cope,Confirmed; Confirmed; Confirmed,68,1.0,0.0
-15518,2011,October,Multistate,Private Home/Residence,Ground Beef,Ground Beef,Salmonella enterica,Typhimurium var Cope,Confirmed,20,8.0,0.0
-15641,2011,December,Michigan,Restaurant,"Pizza, Tostada; Sandwich, Submarine",Lettuce; Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,22,4.0,0.0
-15662,2011,December,New York,Fast Food Restaurant,Roast Beef; Lettuce,Roast Beef; Lettuce,Salmonella enterica,Hartford,Confirmed,5,5.0,0.0
-15730,2012,January,Maryland,Restaurant,"Pie, Merengue",Egg,Salmonella enterica,Enteritidis,Confirmed,8,7.0,0.0
-15740,2012,January,Minnesota,Restaurant,Swiss Meringue Butter Cream,Egg,Salmonella enterica,Enteritidis,Confirmed,7,0.0,0.0
-15742,2012,January,Multistate,Fast Food Restaurant; Restaurant; School/College/University,Tuna Sushi,Tuna,Salmonella enterica; Salmonella enterica,Bareilly; Nchanga,Confirmed; Confirmed,425,55.0,0.0
-15764,2012,January,Ohio,Catering Service,Fruit Salad,Blueberries; Grapes; Pineapple; Strawberries,Norovirus genogroup II,GII_4 New Orleans (2009),Suspected,6,0.0,0.0
-15804,2012,February,Florida,Fair/Festival,Chicken,Chicken,Salmonella enterica,Newport,Confirmed,8,3.0,0.0
-15838,2012,February,Ohio,Restaurant,Ice,Water,Norovirus genogroup II,GII_4 New Orleans (2009),Confirmed,29,1.0,0.0
-15898,2012,March,Missouri,Private Home/Residence,"Milk, Whole Milk Unpasteurized; Ground Beef","Milk, Whole Milk Unpasteurized; Ground Beef","Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,19,5.0,0.0
-15937,2012,April,California,Restaurant,Vegetable-Based Salads Unspecified,Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,12,1.0,0.0
-15957,2012,April,Maryland,Restaurant,Crab Cakes,Egg,Salmonella enterica,Enteritidis,Confirmed,4,0.0,0.0
-15968,2012,April,Minnesota,Restaurant,Hollandaise Sauce,Egg,Salmonella enterica,Enteritidis,Confirmed,4,0.0,0.0
-15979,2012,April,Ohio,Catering Service,Mesclun Mix And Spinach,Lettuce; Mesclun Mix; Spinach,Norovirus genogroup I,GI_7,Confirmed,29,0.0,0.0
-16010,2012,May,California,Private Home/Residence,"Fajita, Chicken",Chicken,Salmonella enterica,Enteritidis,Confirmed,38,1.0,0.0
-16064,2012,May,Wisconsin,Private Home/Residence,"Beef, Laab Raw; Beef, Intestine Soup With Vegetables; Beef, Laab Cooked","Beef, Raw; Beef; Beef",Salmonella enterica; Campylobacter jejuni,Dublin,Confirmed; Suspected,21,5.0,0.0
-16074,2012,June,California,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica; Salmonella enterica,Agona; Infantis; Derby,Suspected; Confirmed; Confirmed,23,2.0,0.0
-16142,2012,July,Colorado,Private Home/Residence,Raw Milk,Milk,"Escherichia coli, Shiga toxin-producing",O111:NM,Confirmed,2,0.0,0.0
-16154,2012,July,Minnesota,Restaurant,Eggs,Egg,Salmonella enterica,Enteritidis,Confirmed,2,0.0,0.0
-16161,2012,July,Multistate,Private Home/Residence,Sprouts,Sprouts,Salmonella enterica,Cubana,Confirmed,19,0.0,0.0
-16220,2012,August,Minnesota,Private Home/Residence,"Beef, Raw",Ground Beef,Salmonella enterica,Enteritidis,Confirmed,24,2.0,0.0
-16230,2012,August,Pennsylvania,Private Home/Residence,"Ground Beef, Meatballs",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,3,0.0,0.0
-16274,2012,September,Ohio,Banquet Facility,"Iceberg Lettuce, Unspecified",Lettuce,Norovirus genogroup II,GII_1,Confirmed,37,2.0,0.0
-16283,2012,September,Pennsylvania,Restaurant,Salads,Romaine Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,9,7.0,0.0
-16300,2012,October,Florida,Restaurant,"Fish, White",Chicken,Salmonella enterica,Anatum,Suspected,2,1.0,0.0
-16320,2012,October,Michigan,Private Home/Residence,"Apple Cider, Unpasteurized",Apple,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),Confirmed,3,0.0,0.0
-16328,2012,October,Multistate,Private Home/Residence,Prepackaged Leafy Greens,Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,33,13.0,0.0
-16350,2012,October,South Carolina,Religious Facility,Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,33,1.0,0.0
-16380,2012,November,California,Restaurant,"Pork, Carnitas",Pork,Salmonella enterica,Unknown,Confirmed,4,3.0,0.0
-16391,2012,November,Florida,Restaurant,"Iceberg Lettuce, Unspecified",Lettuce,Norovirus genogroup I,GI_9,Confirmed,21,0.0,0.0
-16414,2012,November,Minnesota,Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Saintpaul,Confirmed,2,0.0,0.0
-16525,2012,December,Wisconsin,Grocery Store,"Ground Beef, Raw",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,17,0.0,0.0
-16552,2013,January,Michigan,Restaurant,"Sandwich, Unspecified; Salad, Unspecified",Tomato; Tomato,Salmonella enterica,Newport,Confirmed,14,1.0,0.0
-16568,2013,January,Ohio,Restaurant,"Refried Beans, Unspecified; Rice",Beans; Rice,Norovirus genogroup II,GII_4 Sydney (2012),Confirmed,10,0.0,0.0
-16604,2013,February,Michigan,School/College/University,Cucumber,Cucumber,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,12,1.0,0.0
-16607,2013,February,Multistate,Private Home/Residence,Tahini,Tahini,Salmonella enterica; Salmonella enterica,Montevideo; Mbandaka,Confirmed; Confirmed,17,1.0,1.0
-16659,2013,March,Georgia,School/College/University,"Chicken, Bbq",Chicken,Salmonella enterica,Montevideo,Confirmed,5,0.0,0.0
-16678,2013,March,Minnesota,Private Home/Residence,"Queso Fresco, Unpasteurized","Milk, Whole Milk Unpasteurized",Salmonella enterica,Typhimurium,Confirmed,26,15.0,0.0
-16702,2013,March,Oregon,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Heidelberg,Confirmed,17,5.0,0.0
-16765,2013,April,Michigan,Catering Service,"Salad, Unspecified",Tomato,"Escherichia coli, Shiga toxin-producing",O157:H7,Suspected,20,7.0,0.0
-16787,2013,April,Pennsylvania,Catering Service,Ham,Ham,Salmonella enterica,Enteritidis,Confirmed,35,1.0,0.0
-16810,2013,May,California,School/College/University,"Tomatoes, Raw",Tomato,Salmonella enterica,Enteritidis,Confirmed,27,2.0,0.0
-16816,2013,May,California,Private Home/Residence,"Beef(Fresly Killed Cow), Raw And/Or Undercooked; Beef(Fresly Killed Cow), Raw And/Or Undercooked; Beef(Fresly Killed Cow), Raw And/Or Undercooked",Beef; Beef; Beef,Salmonella enterica,Newport,Confirmed,137,6.0,0.0
-16851,2013,May,Minnesota,Banquet Facility,"Bread, Wheat; Swiss Cheese, Pasteurized","Bread, Wheat; Swiss Cheese",Norovirus genogroup II,GII_5,Suspected,7,0.0,0.0
-16899,2013,May,Wisconsin,Religious Facility,"Beef, Laab Raw; Boiled Beef",Beef,Salmonella enterica,Uganda,Confirmed,25,2.0,0.0
-16921,2013,June,Florida,Restaurant,"Pork, Smoked",Pork,Salmonella enterica,Enteritidis,Confirmed,6,4.0,0.0
-16922,2013,June,Florida,Restaurant,"Oysters, Raw",Oysters,Vibrio cholerae,Other,Suspected,2,1.0,0.0
-16937,2013,June,Maryland,Restaurant,Goat,Goat,Salmonella enterica,Typhimurium,Confirmed,9,1.0,0.0
-16943,2013,June,Massachusetts,Fast Food Restaurant; Restaurant; Fair/Festival,Falafel,Chick Peas; Egg; Eggplant,Salmonella enterica,Javiana,Confirmed,30,0.0,0.0
-16957,2013,June,Multistate,Private Home/Residence,Papaya,Papaya,Salmonella enterica,Thompson,Confirmed,13,6.0,1.0
-16977,2013,June,Tennessee,Restaurant,Lamb Curry,Lamb,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,7,3.0,0.0
-16991,2013,July,Arizona,Fast Food Restaurant,Lettuce,Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,94,22.0,0.0
-16998,2013,July,California,Restaurant,"Oysters, Raw",Oysters,Vibrio parahaemolyticus,Unknown,Confirmed,3,0.0,0.0
-16999,2013,July,California,Private Home/Residence; Unknown,Green Leaf Lettuce,Green Leaf Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,5,5.0,0.0
-17011,2013,July,Massachusetts,Restaurant,Eggs,Egg,Salmonella enterica,Typhimurium,Confirmed,13,2.0,0.0
-17016,2013,July,Minnesota,Private Home/Residence,"Goat, Unspecified",Goat,Salmonella enterica,Livingstone,Confirmed,4,1.0,0.0
-17020,2013,July,Nebraska,Restaurant,"Sushi, Unspecified",Rice; Salmon Heads; Tuna,Salmonella enterica,Newport,Confirmed,10,0.0,0.0
-17041,2013,July,Rhode Island,Fair/Festival,"Pork, Other",Pork,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,16,3.0,0.0
-17045,2013,July,Washington,Restaurant,"Oysters, Raw",Oysters,Vibrio parahaemolyticus,Unknown,Suspected,5,0.0,0.0
-17080,2013,August,Minnesota,Fair/Festival,"Pork; Tripe; Potato, Unspecified; Rice, Unspecified; Corn; Guinea Pig",Pork; Pork; Potato; Rice; Corn; Guinea Pig,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,"Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum",Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected,119,11.0,0.0
-17112,2013,August,South Carolina,Restaurant,Chicken,Chicken,Salmonella enterica,Javiana,Confirmed,2,1.0,0.0
-17114,2013,August,Tennessee,Restaurant,"Fajita, Beef",Beef,Salmonella enterica,Javiana,Confirmed,7,0.0,0.0
-17115,2013,August,Tennessee,School/College/University,Ground Chicken,Chicken,Salmonella enterica; Campylobacter jejuni,Enteritidis,Confirmed; Confirmed,24,1.0,0.0
-17120,2013,August,Virginia,Restaurant,"Crab; Soup, Gazpacho",Crab; Tomato; Crab; Tomato,Salmonella enterica,Newport,Confirmed,9,0.0,0.0
-17135,2013,September,Florida,Grocery Store,Kale,Kale,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,7,5.0,0.0
-17140,2013,September,Kentucky,Restaurant,"Chicken; Fajita, Beef",Chicken; Steak,Salmonella enterica,Typhimurium,Confirmed,14,6.0,1.0
-17142,2013,September,Massachusetts,Fair/Festival,Turkey Leg,Turkey,Salmonella enterica,Braenderup,Confirmed,4,0.0,0.0
-17146,2013,September,Missouri,Private Home/Residence,Turkey,Turkey,Salmonella enterica,Muenchen,Confirmed,14,1.0,0.0
-17173,2013,September,South Carolina,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Typhimurium,Confirmed,11,1.0,0.0
-17194,2013,October,Colorado,Fast Food Restaurant,"Sandwich, Cucumber",Cucumber,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,9,1.0,0.0
-17217,2013,October,Ohio,Restaurant,"Ground Beef, Hamburger; Caesar Dressing",Ground Beef; Egg,Salmonella enterica,Lomalinda,Confirmed,2,0.0,0.0
-17227,2013,October,Tennessee,Restaurant,Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,3,0.0,0.0
-17254,2013,November,Michigan,Restaurant,"Thai Chicken Lettuce Wrap; Salad, Unspecified; Chicken, Grilled",Egg; Egg; Egg,Salmonella enterica,Enteritidis,Confirmed,62,2.0,0.0
-17259,2013,November,Missouri,Private Home/Residence,Chicken Mole,Chicken,Salmonella enterica,Heidelberg,Confirmed,7,3.0,0.0
-17276,2013,November,Tennessee,Prison/Jail,Chicken,Chicken,Salmonella enterica,Heidelberg,Confirmed,24,3.0,0.0
-17343,2013,December,Utah,Fast Food Restaurant,Alfalfa Sprouts,Alfalfa Sprouts,Salmonella enterica,Enteritidis,Confirmed,3,0.0,0.0
-17378,2014,January,Massachusetts,Private Home/Residence,"Chicken, Casserole",Chicken,Salmonella enterica,Enteritidis,Confirmed,20,0.0,0.0
-17406,2014,February,Alaska,Restaurant,Goat,Goat,Salmonella enterica,Stanley,Confirmed,3,0.0,0.0
-17419,2014,February,Connecticut,Fast Food Restaurant,Pork,Pork,Salmonella enterica,Infantis,Confirmed,10,5.0,0.0
-17452,2014,February,Virginia,Restaurant,"Salad, Unspecified","Carrots; Cucumber; Peppers, Green; Tomato",Norovirus genogroup II,Other,Confirmed,44,0.0,0.0
-17501,2014,March,Michigan,Private Home/Residence,Raw Milk,"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,2,0.0,0.0
-17594,2014,April,Minnesota,School/College/University,"Romaine Lettuce, Unspecified",Romaine Lettuce,"Escherichia coli, Enteroaggregative",O126,Confirmed,4,0.0,0.0
-17597,2014,April,Multistate,Restaurant,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,12,7.0,0.0
-17598,2014,April,Multistate,Fast Food Restaurant,Spinach,Spinach,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,4,1.0,0.0
-17658,2014,May,Connecticut,Restaurant,Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,8,3.0,0.0
-17696,2014,May,Multistate,Fast Food Restaurant; Restaurant,Clover Sprouts,Clover Sprouts,"Escherichia coli, Shiga toxin-producing",O121,Confirmed,19,5.0,0.0
-17697,2014,May,Multistate,Private Home/Residence,"Mango, Unspecified",Mango,Salmonella enterica,Minnesota,Confirmed,4,1.0,0.0
-17700,2014,May,Multistate,Restaurant; Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,12,4.0,0.0
-17713,2014,May,Oklahoma,Catering Service,"Chicken, Smoked",Chicken,Salmonella enterica,Heidelberg,Confirmed,19,1.0,0.0
-17727,2014,May,Virginia,Grocery Store,"Ground Beef, Hamburger; Chips; Lemonade, Unspecified",Ground Beef,Salmonella enterica,Typhimurium,Confirmed,4,0.0,0.0
-17760,2014,June,Florida,Prison/Jail,Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,4,4.0,0.0
-17775,2014,June,Kentucky,Restaurant,"Chicken, Fried; Dressing; Ham; Turkey; Bread, Crumbs",Chicken; Ham; Turkey,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,19,3.0,0.0
-17782,2014,June,Massachusetts,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,4,2.0,1.0
-17788,2014,June,Minnesota,Restaurant,Cabbage,Cabbage,"Escherichia coli, Shiga toxin-producing",O111,Confirmed,15,4.0,0.0
-17809,2014,June,Ohio,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica,"I 4,[5],12:i:-; I 4,[5],12:i:-",Confirmed; Suspected,18,2.0,0.0
-17856,2014,July,Maryland,Restaurant,Eggs,Egg,Salmonella enterica,Enteritidis,Confirmed,18,3.0,0.0
-17861,2014,July,Minnesota,Catering Service,"Potato Salad; Celery, Unspecified",Celery; Celery,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,57,9.0,0.0
-17864,2014,July,Minnesota,Fast Food Restaurant,"Romaine Lettuce, Unspecified",Romaine Lettuce,Salmonella enterica,Miami,Confirmed,7,1.0,0.0
-17867,2014,July,Mississippi,Fast Food Restaurant,"Crawfish/Crayfish, Unspecified",Crawfish/Crayfish,Salmonella enterica,Paratyphi B,Confirmed,11,2.0,0.0
-17908,2014,August,California,Private Home/Residence; Catering Service,Chicken,Chicken,Salmonella enterica,Carmel,Confirmed,33,1.0,0.0
-17944,2014,August,Massachusetts,Restaurant,Chicken Liver Pate,"Liver, Chicken",Campylobacter jejuni; Salmonella enterica,Enteritidis,Confirmed; Confirmed,5,0.0,0.0
-17952,2014,August,Minnesota,Private Home/Residence,"Chicken, Kiev",Chicken,Salmonella enterica,Enteritidis,Confirmed,8,1.0,0.0
-17969,2014,August,Virginia,Private Home/Residence; Catering Service,"Sandwich, Chicken",Chicken,Salmonella enterica,Thompson,Confirmed,37,3.0,0.0
-17988,2014,September,Kentucky,Private Home/Residence,"Milk, Unpasteurized","Milk, Whole Milk Unpasteurized","Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,4,4.0,0.0
-17991,2014,September,Michigan,Private Home/Residence,"Salmon, Smoked","Fish, Salmon",Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-17996,2014,September,Minnesota,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Infantis,Confirmed,2,1.0,0.0
-18012,2014,September,South Carolina,Private Home/Residence,Turkey,Turkey,Salmonella enterica,Enteritidis,Confirmed,7,2.0,0.0
-18028,2014,September,Wisconsin,Private Home/Residence,Kale,Kale,Cryptosporidium parvum,Other,Confirmed,8,0.0,0.0
-18098,2014,November,Florida,Restaurant,Buffet,Buffet,Norovirus genogroup II,Unknown,Confirmed,7,0.0,0.0
-18099,2014,November,Florida,Grocery Store,"Taco, Beef",Lettuce,"Escherichia coli, Shiga toxin-producing",Unknown,Suspected,2,0.0,0.0
-18102,2014,November,Illinois,Restaurant,Chilaquiles,Egg,Salmonella enterica,Enteritidis,Confirmed,4,0.0,0.0
-18119,2014,November,Multistate,Fast Food Restaurant,Salad,Leaf Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,11,2.0,0.0
-18173,2014,December,Florida,Catering Service,"Ice; Green Beans; Chicken, Marsala",Ice; Green Beans; Chicken; Mushrooms,Norovirus genogroup II,GII_4 Sydney (2012),Confirmed,31,0.0,0.0
-18176,2014,December,Georgia,Catering Service,"Chicken, Smoked",Chicken,Salmonella enterica,Thompson,Confirmed,56,4.0,0.0
-18188,2014,December,Massachusetts,Fast Food Restaurant,Bacalhau A Gomes De Sa,"Fish, Codfish",Salmonella enterica,Typhimurium,Confirmed,57,6.0,0.0
-18252,2015,January,Minnesota,Restaurant Buffet,"Chicken; Banana, Unspecified",Chicken; Banana,Norovirus genogroup II,GII_6,Confirmed,4,0.0,0.0
-18290,2015,February,California,Restaurant,"Oysters, Raw",Oysters,Norovirus unknown; Salmonella enterica,Enteritidis,Confirmed; Suspected,21,0.0,0.0
-18352,2015,March,Arizona,Banquet Facility,Bruschetta,Basil; Bread; Oil; Tomato,Salmonella enterica,Enteritidis,Confirmed,38,1.0,0.0
-18393,2015,March,Michigan,Restaurant,Chicken; Salad; Eggs,Chicken; Lettuce; Tomato; Egg,Salmonella enterica,Braenderup,Confirmed,6,3.0,0.0
-18448,2015,March,Wisconsin,Restaurant,"Oysters, Raw","Oysters, Raw",Norovirus genogroup I,GI_2,Confirmed,6,0.0,0.0
-18450,2015,March,Wisconsin,Fast Food Restaurant,Sushi,Tuna Steak,Salmonella enterica,Weltevreden,Confirmed,4,1.0,0.0
-18499,2015,April,Missouri,Restaurant; Private Home/Residence; Grocery Store,Eggs,Egg,Salmonella enterica; Salmonella enterica,Oranienburg; Oranienburg,Confirmed; Confirmed,46,13.0,0.0
-18503,2015,April,Multistate,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,15,4.0,0.0
-18508,2015,April,New York,Restaurant,Chicken And Waffles,"Liver, Chicken",Salmonella enterica,Enteritidis,Confirmed,7,1.0,0.0
-18549,2015,May,Florida,Catering Service,Fettucine Alfredo,Cream; Parmesan Cheese; Pasta,Salmonella enterica,Enteritidis,Confirmed,14,0.0,0.0
-18556,2015,May,Kansas,Restaurant,"Tomatoes, Raw; Ground Beef",Tomato; Ground Beef,Salmonella enterica,Typhimurium,Confirmed,10,1.0,0.0
-18576,2015,May,Minnesota,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica,Enteritidis,Confirmed,5,2.0,0.0
-18596,2015,May,Ohio,Banquet Facility,Salad,Lettuce,Norovirus genogroup II,GII_4 Sydney (2012),Confirmed,48,1.0,0.0
-18597,2015,May,Ohio,Banquet Facility,"Salad, Unspecified",Lettuce,Norovirus genogroup II,GII_4 Sydney (2012),Confirmed,4,0.0,0.0
-18619,2015,May,Wisconsin,Grocery Store,"Pork, Carnitas",Pork,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,73,7.0,0.0
-18663,2015,June,Minnesota,Private Home/Residence,Pork,Pork,Salmonella enterica,Agona,Confirmed,10,0.0,0.0
-18674,2015,June,North Carolina,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Typhimurium,Confirmed,283,27.0,1.0
-18683,2015,June,Oregon,Restaurant; Private Home/Residence,Pork,Pork,Salmonella enterica,"I 4,[5],12:i:-",Confirmed,3,0.0,0.0
-18717,2015,July,Connecticut,Nursing Home/Assisted Living Facility,Chicken Tenders,Chicken,Salmonella enterica,Enteritidis,Confirmed,3,1.0,0.0
-18721,2015,July,Florida,Restaurant,"Salad, Unspecified",Salad,Norovirus genogroup II,GII_4 Sydney (2012),Confirmed,12,1.0,0.0
-18731,2015,July,Illinois,Catering Service,Chicken Breast,Chicken,"Shigella; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Salmonella enterica; Salmonella enterica",O157:H7; Typhimurium; Enteritidis,Suspected; Suspected; Confirmed; Suspected; Suspected; Confirmed,10,1.0,0.0
-18736,2015,July,Maryland,Restaurant,"Crab, Unspecified",Crab,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,9,6.0,0.0
-18799,2015,August,Hawaii,Fast Food Restaurant,Chicken Katsu Plate; Korean Chicken,Chicken; Chicken,Salmonella enterica,Muenchen,Confirmed,3,0.0,0.0
-18814,2015,August,Multistate,Fast Food Restaurant,Salsa,Tomato,Salmonella enterica,Newport,Confirmed,119,17.0,0.0
-18825,2015,August,Ohio,Restaurant,"Pastry, Custard-Filled",Egg,Salmonella enterica,Enteritidis,Confirmed,9,1.0,0.0
-18828,2015,August,Rhode Island,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica,Typhimurium; Typhimurium,Confirmed; Confirmed,20,0.0,0.0
-18850,2015,September,Arizona,Prison/Jail,Tossed Salad,Cabbage; Iceberg Lettuce,Salmonella enterica,Enteritidis,Confirmed,252,0.0,0.0
-18862,2015,September,Hawaii,Restaurant,"Oysters, Raw","Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II,Unknown; Unknown,Confirmed; Confirmed,10,0.0,0.0
-18915,2015,October,Florida,Restaurant,"Chicken, Confit",Chicken; Chili Sauce; Onion; Tomato,Salmonella enterica,Enteritidis,Confirmed,2,0.0,0.0
-18933,2015,October,Minnesota,Private Home/Residence,Beef,Beef,"Escherichia coli, Shiga toxin-producing",O157,Confirmed,3,0.0,0.0
-18937,2015,October,Multistate,Grocery Store,Chicken Salad,Celery; Onion,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,19,3.0,0.0
-18957,2015,October,Virginia,Restaurant,"Chicken, Grilled; Chicken, Blackened",Chicken; Chicken,Salmonella enterica,Enteritidis,Confirmed,10,1.0,0.0
-18981,2015,November,Georgia,Grocery Store,"Pork, Carnitas",Pork,Salmonella enterica,Mbandaka,Confirmed,17,0.0,0.0
-18983,2015,November,Hawaii,Restaurant,"Oysters, Raw","Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II,Unknown; Unknown,Confirmed; Confirmed,3,0.0,0.0
-19012,2015,November,Tennessee,Restaurant,Hamburger,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,Confirmed,13,0.0,0.0
-19014,2015,November,Utah,Catering Service,"Eggs, Scrambled",Egg,Salmonella enterica,Enteritidis,Confirmed,3,0.0,0.0
-19045,2015,December,Connecticut,Restaurant,Cucumbers,Cucumber,Salmonella enterica,Thompson,Confirmed,3,0.0,0.0
-19068,2015,December,Michigan,Private Home/Residence,Cake,Frosting/Icing,Norovirus genogroup II,GII_17 Kawasaki (2014),Confirmed,73,0.0,0.0
-19081,2015,December,Multistate,Private Home/Residence,Powder Meal Replacement,Moringa Leaf Powder,Salmonella enterica,Virchow,Confirmed,35,6.0,0.0
+638,1998,6,New York,Private Home/Residence,"Chicken, Unspecified",Chicken,Salmonella enterica,Typhimurium,1,4,3.0,0.0
+669,1998,7,Arizona,Restaurant,Chile Rellenos,Egg,Salmonella enterica,Enteritidis,1,58,11.0,0.0
+955,1998,9,Maryland,Restaurant,"Multiple Cheeses, Unspecified",Cheese,Norovirus genogroup II,Unknown,1,258,4.0,0.0
+1319,1999,1,California,Restaurant,Eggs Benedict,Egg,Salmonella enterica,Enteritidis,1,3,0.0,0.0
+1321,1999,1,California,Restaurant,"Chile Relleno, Unspecified; Rice, Yellow",Egg; Egg,Salmonella enterica,Enteritidis,1,31,6.0,0.0
+1455,1999,2,Nebraska,Restaurant,Lettuce-Based Salads Unspecified,Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,1,65,8.0,0.0
+1471,1999,2,Pennsylvania,Catering Service,"Chicken, Baked",Chicken,Salmonella enterica,Hadar,1,104,5.0,0.0
+1624,1999,4,Maryland,Restaurant; Catering Service,"Chicken Salad; Ham, Unspecified",Chicken; Pork,Salmonella enterica,Enteritidis,1,65,3.0,0.0
+1788,1999,5,Missouri,Religious Facility,"Pie, Merengue",Cream Filling,Salmonella enterica,Enteritidis,1,39,2.0,0.0
+1826,1999,5,Virginia,Restaurant,"French Toast, Unspecified; Pork, Bacon; Ham, Unspecified",Egg,Salmonella enterica,Enteritidis,1,177,8.0,0.0
+1861,1999,6,Florida,Religious Facility,"Roast Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,17,7.0,0.0
+1953,1999,6,Utah,Catering Service,"Ice Cream, Unspecified",Egg,Salmonella enterica,Enteritidis,1,256,0.0,0.0
+2066,1999,7,Texas,Restaurant,"Chicken, Unspecified",Chicken,Salmonella enterica,Javiana,1,7,7.0,0.0
+2075,1999,7,Wisconsin,Nursing Home/Assisted Living Facility,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,4,0.0,0.0
+2076,1999,7,Wisconsin,Nursing Home/Assisted Living Facility,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,5,3.0,0.0
+2152,1999,8,Multistate,Restaurant; Grocery Store,"Romaine Lettuce, Unspecified",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,1,14,6.0,0.0
+2157,1999,8,Multistate,Restaurant,Alfalfa Sprouts,Sprouts,Salmonella enterica,Muenchen,1,157,16.0,0.0
+2229,1999,9,Georgia,Restaurant,"Burrito, Chicken; Taco, Chicken; Chicken, Nuggets/Fingers",Chicken; Chicken; Chicken,Salmonella enterica,Typhimurium,1,8,1.0,0.0
+2291,1999,9,West Virginia,Restaurant,"Chile Relleno, Unspecified",Beef,Salmonella enterica,Enteritidis,1,12,5.0,0.0
+2320,1999,10,Florida,Restaurant,"Chicken, Unspecified",Chicken,Salmonella enterica,Enteritidis,0,6,0.0,0.0
+2372,1999,10,Multistate,Restaurant; Nursing Home/Assisted Living Facility,"Romaine Lettuce, Unspecified; Caesar Salad",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,1,45,0.0,0.0
+2384,1999,10,Ohio,Restaurant,"Salad, Unspecified",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,1,47,23.0,0.0
+2408,1999,11,California,Restaurant; Private Home/Residence,"Chicken, Unspecified",Chicken,Salmonella enterica,Enteritidis,1,7,0.0,0.0
+2481,1999,11,Multistate,Restaurant,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,14,4.0,0.0
+2506,1999,11,Utah,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,1,4,0.0,0.0
+2524,1999,12,California,Restaurant,"Chicken, Unspecified; Mung Bean Sprouts",Chicken,Salmonella enterica,Enteritidis,1,108,13.0,0.0
+2532,1999,12,California,Restaurant; Private Home/Residence,"Lasagna, Beef; Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,10,0.0,0.0
+2591,1999,12,Massachusetts,Restaurant,"Lasagna, Unspecified",Egg,Salmonella enterica,Enteritidis,1,15,1.0,0.0
+2643,1999,12,Utah,Private Home/Residence,"Ice Cream, Unspecified",Egg,Salmonella enterica,Enteritidis,1,3,0.0,0.0
+2697,2000,1,Maryland,Restaurant,Crab Cakes,Egg,Salmonella enterica,Enteritidis,1,5,0.0,0.0
+2968,2000,3,Michigan,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,11,0.0,0.0
+2973,2000,3,Minnesota,School/College/University,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,0,18,2.0,0.0
+3039,2000,4,Florida,Private Home/Residence; Religious Facility,"Chicken, Bbq",Chicken,Salmonella enterica,Group C1,1,17,3.0,0.0
+3089,2000,4,Michigan,Restaurant; Private Home/Residence,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,4,3.0,0.0
+3140,2000,4,Virginia,Private Home/Residence,Macaroni And Cheese,Egg,Salmonella enterica,Enteritidis,1,106,14.0,0.0
+3153,2000,5,Arkansas,Restaurant,"Chicken, Unspecified",Chicken,"Escherichia coli, Shiga toxin-producing",O157:H7,1,36,14.0,0.0
+3155,2000,5,California,Restaurant,"Carne Asada; Pork, Other",Beef; Pork,Salmonella enterica,Heidelberg,1,17,6.0,0.0
+3224,2000,5,Maine,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,2,1.0,0.0
+3244,2000,5,Michigan,Restaurant,"Salad, Unspecified; Salad Dressing, Unspecified",Leafy Green; Sauces/ Dressings,Salmonella enterica,Braenderup,0,75,2.0,0.0
+3269,2000,5,Pennsylvania,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,1,9,0.0,0.0
+3288,2000,6,Arkansas,Restaurant,Pico De Gallo,Root (Eg. Potato),Salmonella enterica,Newport,1,96,6.0,0.0
+3335,2000,6,Georgia,Restaurant,"Shell Eggs, Scrambled Hard",Egg,Salmonella enterica,Enteritidis,1,26,0.0,0.0
+3352,2000,6,Maine,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,2,0.0,0.0
+3355,2000,6,Maryland,Restaurant,Crab Cakes,Egg,Salmonella enterica,Enteritidis,1,18,2.0,0.0
+3373,2000,6,Minnesota,Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Typhimurium,0,12,1.0,0.0
+3463,2000,7,Minnesota,Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Heidelberg,1,14,0.0,0.0
+3468,2000,7,Multistate,Camp,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,15,0.0,0.0
+3497,2000,7,Washington,Restaurant,"Chile Relleno, Unspecified",Egg,Salmonella enterica,Enteritidis,1,3,1.0,0.0
+3507,2000,8,Alabama,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Mbandaka,1,50,5.0,0.0
+3593,2000,8,Ohio,Restaurant,"Shell Egg, Other",Egg,Salmonella enterica,Enteritidis,1,41,11.0,0.0
+3594,2000,8,Oklahoma,Restaurant,"Chicken, Fried",Chicken,Salmonella enterica,Newport,1,8,0.0,0.0
+3597,2000,8,Pennsylvania,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,1,5,2.0,0.0
+3642,2000,9,Florida,Private Home/Residence,"Potato, Mashed",Root (Eg. Potato),Salmonella enterica,Javiana,0,4,2.0,1.0
+3689,2000,9,Pennsylvania,Restaurant,"Fish, Stuffed Flounder",Egg,Salmonella enterica,Enteritidis,1,6,0.0,0.0
+3716,2000,10,California,Grocery Store,"Grapes, Red","Fruit, Unspecified","Escherichia coli, Shiga toxin-producing",O157:H7,1,14,8.0,0.0
+3888,2000,11,Multistate,Private Home/Residence; Grocery Store,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,50,30.0,0.0
+3908,2000,11,Tennessee,Restaurant,"Gravy, Chicken; Stuffing, Unspecified",Egg; Chicken,Salmonella enterica,Typhimurium,1,26,19.0,0.0
+3935,2000,12,California,Restaurant,"Chile Relleno, Unspecified",Egg,Salmonella enterica,Enteritidis,1,4,0.0,0.0
+4020,2000,12,Ohio,Restaurant,"Tomato, Unspecified",Vine-Stalk Eg. Tomato,Norovirus genogroup II,Unknown,1,31,0.0,0.0
+4100,2001,1,Hawaii,School/College/University,Mung Bean Sprouts,Sprouts,Salmonella enterica,Enteritidis,1,22,3.0,0.0
+4310,2001,3,Multistate,Private Home/Residence,"Mango, Unspecified","Fruit, Unspecified",Salmonella enterica,Saintpaul,1,26,1.0,0.0
+4420,2001,4,Maryland,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,1,3,1.0,0.0
+4421,2001,4,Maryland,Private Home/Residence,"Chicken, Fried",Chicken,Salmonella enterica,Newport,1,9,1.0,0.0
+4439,2001,4,Multistate,Restaurant,"Multiple Cheeses, Unpasteurized",Milk,Salmonella enterica,Newport,1,27,12.0,0.0
+4447,2001,4,Ohio,Private Home/Residence,"Ham, Other",Pork,Norovirus genogroup II,Unknown,1,16,0.0,0.0
+4485,2001,5,California,Restaurant; Private Home/Residence,"Cilantro, Unspecified",Spices,Salmonella enterica,Newport,1,8,3.0,0.0
+4548,2001,5,Iowa,Private Home/Residence,Speciality Salads Unspecified,Chicken,Salmonella enterica,Typhimurium,1,21,3.0,0.0
+4567,2001,5,Minnesota,Restaurant,Eggs Benedict,Egg,Salmonella enterica,Enteritidis,1,54,2.0,0.0
+4675,2001,6,Idaho,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,1,12,4.0,0.0
+4706,2001,6,Minnesota,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,16,4.0,0.0
+5470,2002,2,Michigan,Restaurant,"Cake, Cassata; Cannelloni",Egg; Egg,Salmonella enterica,Enteritidis,1,196,24.0,0.0
+5552,2002,3,Iowa,School/College/University,"Sandwich, Chicken",Bread,Norovirus genogroup I,GI_1,1,116,0.0,0.0
+5602,2002,4,California,Fair/Festival,"Beef, Bbq",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,26,5.0,0.0
+5604,2002,4,California,Restaurant,"Beef, Unspecified",Beef,Salmonella enterica,Newport,1,21,2.0,0.0
+5675,2002,4,Maryland,Restaurant,Caesar Salad,Leafy Green,Salmonella enterica,Unknown,0,2,1.0,0.0
+5711,2002,4,Pennsylvania,Restaurant,"Ground Beef, Meatballs; Lasagna, Mixed Meat",Beef,Salmonella enterica,Enteritidis,1,3,1.0,0.0
+5844,2002,6,California,Private Home/Residence,"Taco, Beef",Beef,Salmonella enterica,Heidelberg,1,17,0.0,0.0
+5938,2002,6,Pennsylvania,Restaurant,"Chicken, Unspecified; Ham, Unspecified",Chicken; Pork,Salmonella enterica,Enteritidis,1,15,0.0,0.0
+6060,2002,7,Pennsylvania,Restaurant; Catering Service; Fair/Festival,Crab Cakes,Egg; Stuffing,Salmonella enterica,Enteritidis,1,8,1.0,0.0
+6139,2002,8,Kansas,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Typhimurium,1,10,1.0,0.0
+6280,2002,10,Arkansas,Camp,"Beans, Baked",Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,1,7,4.0,0.0
+6467,2002,11,Multistate,Restaurant,"Iceberg Lettuce, Unspecified",Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,1,16,5.0,0.0
+6483,2002,11,Ohio,Restaurant,"Stuffing, Unspecified",Egg,Salmonella enterica,Enteritidis,1,34,6.0,0.0
+6487,2002,11,Ohio,Restaurant,"Other Milk, Unpasteurized",Milk,Salmonella enterica,Typhimurium,1,107,6.0,0.0
+6620,2002,12,Washington,Restaurant; Private Home/Residence,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,40,2.0,0.0
+6806,2003,3,California,Restaurant,"Eggs, Other; Omelette; Eggs Benedict",Egg,Salmonella enterica,Enteritidis,1,7,0.0,0.0
+6887,2003,3,Pennsylvania,Private Home/Residence,"Shell Eggs, Fried Soft",Egg,Salmonella enterica,Enteritidis,1,3,1.0,0.0
+7033,2003,5,Minnesota,Restaurant,"Shell Egg, Other",Egg,Salmonella enterica,Enteritidis,1,4,1.0,0.0
+7154,2003,6,Ohio,Restaurant,"Pie, Merengue",Egg,Salmonella enterica,Enteritidis,1,17,7.0,0.0
+7218,2003,7,Georgia,Grocery Store,"Carnitas, Unspecified",Pork,Salmonella enterica,Uganda,1,11,1.0,0.0
+7244,2003,7,North Carolina,Private Home/Residence,"Tortilla, Unspecified",Egg,Salmonella enterica,Heidelberg,1,13,0.0,0.0
+7254,2003,7,Pennsylvania,Restaurant,"Pie, Merengue",Egg,Salmonella enterica,Enteritidis,1,9,0.0,0.0
+7291,2003,8,California,Grocery Store,"Queso Fresco, Unpasteurized",Cheese,Salmonella enterica,Typhimurium,1,50,7.0,0.0
+7323,2003,8,Maryland,Religious Facility,Crab Cakes,Egg,Salmonella enterica,Enteritidis,1,104,12.0,0.0
+7357,2003,8,Texas,Restaurant,"Oysters, Raw","Oysters, Raw",Salmonella enterica,Typhi,1,6,4.0,0.0
+7413,2003,9,Maryland,Restaurant,"Pie, Coconut Cream",Egg,Salmonella enterica,Enteritidis,1,3,1.0,0.0
+7419,2003,9,Minnesota,Private Home/Residence,"Candy, Toffee; Cake, Unspecified; Cake, Brownie",Egg; Egg; Egg,Salmonella enterica,Saintpaul,1,5,0.0,0.0
+7509,2003,10,Minnesota,Restaurant,"French Toast, Unspecified",Egg,Salmonella enterica,Enteritidis,1,30,10.0,0.0
+7837,2004,2,California,Restaurant,"Sandwich, Turkey",Turkey,Salmonella enterica,Heidelberg,1,78,2.0,0.0
+7839,2004,2,California,Restaurant,"Chicken, Bbq",Chicken,Salmonella enterica,Unknown,0,25,0.0,0.0
+7983,2004,3,California,Grocery Store,"Salad, Unspecified",Chicken; Root (Eg. Potato),Salmonella enterica,Infantis,1,12,1.0,0.0
+8051,2004,3,New Hampshire,Private Home/Residence,Raw Cake/Cookie Dough,Egg,Salmonella enterica,Group B,1,3,0.0,0.0
+8151,2004,4,Iowa,Restaurant,"Chicken, Grilled",Chicken,Salmonella enterica,Typhimurium var Cope,1,20,2.0,0.0
+8409,2004,6,Multistate,Restaurant; Private Home/Residence,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica,Braenderup,1,137,25.0,0.0
+8414,2004,6,New York,Restaurant; Catering Service,"Chicken, Baked",Chicken,Salmonella enterica,Hadar,1,42,14.0,0.0
+8489,2004,7,Minnesota,Religious Facility,"Spaghetti, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,70,1.0,0.0
+8492,2004,7,Multistate,Restaurant,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Javiana; Typhimurium; Thompson; Muenchen; Unknown; Anatum,Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed,429,129.0,0.0
+8493,2004,7,Multistate,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,5,1.0,0.0
+8498,2004,7,New York,Restaurant; Catering Service,"Shell Eggs, Scrambled Hard; French Toast, Unspecified",Egg; Egg,Salmonella enterica,Enteritidis,1,13,0.0,0.0
+8510,2004,7,Oklahoma,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Typhimurium,1,13,2.0,0.0
+8573,2004,8,Minnesota,Private Home/Residence,Egg Baked/Casserole,Egg,Salmonella enterica,Heidelberg,1,5,1.0,0.0
+8598,2004,8,Vermont,Restaurant,"Chicken, Curry",Chicken,Salmonella enterica,Group D1,1,2,1.0,0.0
+8662,2004,9,New York,Fair/Festival,"Roast Beef, Other",Beef,Salmonella enterica,Anatum,1,108,0.0,0.0
+8670,2004,9,North Carolina,Private Home/Residence,Rutabaga,Pork,Salmonella enterica,Enteritidis,1,30,14.0,0.0
+8772,2004,11,Arkansas,Restaurant; Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Heidelberg,1,15,5.0,0.0
+8781,2004,11,California,Restaurant,"Chicken, Other",Chicken,Salmonella enterica,Thompson,1,100,0.0,0.0
+8789,2004,11,California,Private Home/Residence,"Turkey, Unspecified",Turkey,Salmonella enterica,Typhimurium,1,23,8.0,0.0
+8790,2004,11,California,Grocery Store,"Queso Fresco, Unpasteurized",Milk,Salmonella enterica,Typhimurium,1,12,1.0,1.0
+8828,2004,11,Minnesota,Restaurant,Turkey And Gravy,Turkey,Salmonella enterica,Newport,1,49,8.0,0.0
+8835,2004,11,New York,Private Home/Residence,"Beef, Other",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,2.0,1.0
+9045,2005,1,Arkansas,Private Home/Residence,"Beef, Jerky",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,3,3.0,0.0
+9058,2005,1,Connecticut,Private Home/Residence,"Ground Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,7,3.0,0.0
+9069,2005,1,Florida,Restaurant,"Eggs, Unspecified; French-Toast, Unspecified",Egg; Egg,Salmonella enterica,Enteritidis,1,7,1.0,0.0
+9107,2005,1,New York,Private Home/Residence,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,2.0,0.0
+9197,2005,3,Arkansas,Private Home/Residence,"Bread, Cornbread Dressing; Chicken, Baked",Bread; Chicken,Salmonella enterica,Heidelberg,1,7,4.0,0.0
+9205,2005,3,California,Restaurant,"Pudding, Chocolate",Egg,Salmonella enterica,Heidelberg,1,6,1.0,0.0
+9278,2005,3,Virginia,Prison/Jail,"Eggs, Other",Egg,Salmonella enterica,Enteritidis,1,27,1.0,0.0
+9374,2005,5,Arkansas,Restaurant,"Chicken, Grilled",Chicken,Salmonella enterica,Enteritidis,1,8,0.0,0.0
+9405,2005,5,Georgia,Private Home/Residence,"Beef, Stew",Beef,Salmonella enterica,Agama,1,3,0.0,0.0
+9446,2005,5,New York,Restaurant; Private Home/Residence,Potato Salad,Root (Eg. Potato),Salmonella enterica; Clostridium perfringens; Salmonella enterica,Infantis; ; London,Confirmed; Confirmed; Confirmed,35,0.0,0.0
+9491,2005,6,California,Prison/Jail,"Spread/Filling, Other",Egg,Salmonella enterica; Salmonella enterica; Salmonella enterica,Heidelberg; Saintpaul; Brandenburg,Confirmed; Confirmed; Confirmed,157,1.0,0.0
+9506,2005,6,Georgia,Catering Service,"Stuffing/Dressing; Gravy, Chicken; Chicken, Other",Chicken,Salmonella enterica,Enteritidis,1,61,7.0,0.0
+9556,2005,6,Pennsylvania,Restaurant,"Sandwich, Chicken; Green Salad",Leafy Green; Vine-Stalk Eg. Tomato; Leafy Green; Vine-Stalk Eg. Tomato,Salmonella enterica,Muenchen,1,9,3.0,0.0
+9560,2005,6,Virginia,Religious Facility,"Sandwich, Beef",Ground Beef,Salmonella enterica,Hartford,1,40,1.0,0.0
+9572,2005,7,California,Private Home/Residence,"Chicken, Unspecified",Chicken,Salmonella enterica,Group D1,0,6,1.0,0.0
+9609,2005,7,Multistate,Restaurant,"Tomato, Beefsteak",Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,1,72,8.0,0.0
+9610,2005,7,Multistate,Restaurant; Private Home/Residence,"Mayonnaise, Homemade; Cake, Tiramisu; Eggs, Other; Crab Cakes",Egg; Egg; Egg; Egg,Salmonella enterica,Enteritidis,1,23,5.0,0.0
+9618,2005,7,New York,Restaurant; Private Home/Residence; Fair/Festival; Grocery Store; School/College/University,"Onion, Unspecified; Tomato, Unspecified",Root (Eg. Potato); Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,1,27,2.0,0.0
+9620,2005,7,New York,Private Home/Residence,"Ground Beef, Hamburger",Beef,Salmonella enterica,Typhimurium,1,3,1.0,0.0
+9680,2005,8,Georgia,Private Home/Residence,"Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,6,1.0,0.0
+9725,2005,8,Utah,Private Home/Residence,"Ice Cream, Homemade",Egg,Salmonella enterica,Enteritidis,0,7,0.0,0.0
+9804,2005,10,California,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,6,0.0,0.0
+9837,2005,10,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,3,0.0,0.0
+9854,2005,10,Pennsylvania,Restaurant,"Beef, Unspecified",Egg,Salmonella enterica,Enteritidis,1,11,0.0,0.0
+9870,2005,11,California,Private Home/Residence,"Turkey, Unspecified",Turkey,Salmonella enterica,Group B,1,6,0.0,0.0
+9904,2005,11,Multistate,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica; Salmonella enterica; Salmonella enterica,Enteritidis; Typhimurium; Kentucky,Confirmed; Confirmed; Confirmed,44,2.0,0.0
+9905,2005,11,Multistate,Restaurant,Roma Tomato,Vine-Stalk Eg. Tomato,Salmonella enterica,Braenderup,1,84,8.0,0.0
+9949,2005,12,Georgia,Restaurant,Hollandaise Sauce,Butter; Egg,Salmonella enterica,Heidelberg,1,34,7.0,0.0
+10070,2006,1,New York,Restaurant; Private Home/Residence,"Ground Beef, Unspecified",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,2.0,0.0
+10080,2006,1,Ohio,Restaurant,"Oil, Unspecified; Liver, Chicken",Egg; Egg,Salmonella enterica,Enteritidis,1,113,23.0,0.0
+10097,2006,2,Arkansas,Restaurant,"Chicken, Teriyaki; Sushi, Unspecified",Chicken,Salmonella enterica,Typhimurium,1,161,7.0,0.0
+10163,2006,2,Oregon,Restaurant,Bean Sprouts,Sprouts,Salmonella enterica,Braenderup,1,4,0.0,0.0
+10179,2006,3,California,Restaurant,"Burrito, Unspecified","Fruit, Unspecified; Sauces/ Dressings",Salmonella enterica,Heidelberg,1,3,1.0,0.0
+10234,2006,3,New York,Restaurant; Private Home/Residence,"Ground Beef, Unspecified",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,6,4.0,0.0
+10328,2006,4,Minnesota,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica,Typhimurium,1,3,2.0,0.0
+10352,2006,4,Oregon,Catering Service,"Chicken, Baked",Chicken,Salmonella enterica,"I 4,[5],12:i:-",1,7,0.0,0.0
+10673,2006,7,Minnesota,Private Home/Residence; Religious Facility,"Potato Salad; Ground Beef, Hamburger",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,17,9.0,1.0
+10731,2006,8,California,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Agona,1,40,0.0,0.0
+10751,2006,8,Georgia,Restaurant,"Sandwich, Roast Beef",Beef,Salmonella enterica,Montevideo,1,72,19.0,0.0
+10777,2006,8,New York,Restaurant,Watermelon,"Fruit, Unspecified",Salmonella enterica,Newport,1,20,2.0,0.0
+10805,2006,8,Pennsylvania,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Muenster,1,60,2.0,0.0
+11148,2006,12,Iowa,Restaurant,"Ham, Other",Leafy Green; Pork; Wraps/Tortillas,Norovirus genogroup II,Unknown,1,32,1.0,0.0
+11339,2007,1,Multistate,Private Home/Residence,"Eggs, Scrambled",Egg,Salmonella enterica,Enteritidis,1,81,9.0,0.0
+11433,2007,2,Multistate,Restaurant; Banquet Facility,Oysters,Oysters,Norovirus genogroup I,Unknown,1,40,0.0,0.0
+11434,2007,2,Multistate,Private Home/Residence; Grocery Store,"Lettuce, Unspecified; Spinach",Leafy Green; Leafy Green,Salmonella enterica,Typhimurium,1,76,4.0,0.0
+11507,2007,3,Kentucky,Catering Service,"Sandwich, Wrap",Leafy Green,Norovirus genogroup II,Unknown,1,27,0.0,0.0
+11523,2007,3,Multistate,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,17,6.0,0.0
+11603,2007,4,Maryland,Private Home/Residence,"Lemonade, Unspecified; Turkey Salad; Ice","Fruit, Unspecified; Water; Turkey; Water",Norovirus genogroup II,Unknown,1,10,0.0,0.0
+11673,2007,5,Connecticut,Restaurant,Tap Water,Water,Norovirus genogroup I,Unknown,1,7,0.0,0.0
+11682,2007,5,Georgia,Private Home/Residence,Strawberries,"Fruit, Unspecified",Norovirus genogroup I,Unknown,1,10,0.0,0.0
+11710,2007,5,New York,Restaurant,"Chicken Dishes, Unspecified",Chicken,Salmonella enterica,Enteritidis,1,6,1.0,0.0
+11736,2007,5,Virginia,Restaurant,Crispy Pork,Pork,Salmonella enterica; Salmonella enterica,London; Typhimurium,Confirmed; Confirmed,28,0.0,0.0
+11803,2007,6,Multistate,Restaurant; Private Home/Residence,"Tomato, Beefsteak",Vine-Stalk Eg. Tomato,Salmonella enterica,Newport,1,65,11.0,0.0
+11869,2007,7,Colorado,Prison/Jail,"American Cheese, Pasteurized; Margarine",Cheese,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",O121; O26; O84,Confirmed; Confirmed; Confirmed,135,10.0,0.0
+11920,2007,7,New York,Unknown,"Tomato, Unspecified",Tomato,Salmonella enterica,Newport,1,10,4.0,1.0
+11921,2007,7,New York,Private Home/Residence,"Ground Beef, Unspecified",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,3,2.0,0.0
+11922,2007,7,New York,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,2.0,0.0
+11998,2007,8,New York,Restaurant,Caesar Salad,Egg,Salmonella enterica,Enteritidis,0,5,0.0,0.0
+12038,2007,9,Colorado,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,0.0,0.0
+12128,2007,10,Georgia,Catering Service; Fair/Festival,"Pork, Bbq",Pork,Salmonella enterica,Newport,1,67,5.0,0.0
+12136,2007,10,Iowa,Private Home/Residence,"Chicken, Baked; Chicken, Grilled",Chicken; Chicken,Salmonella enterica,Typhimurium,1,3,1.0,0.0
+12183,2007,11,California,Restaurant; Private Home/Residence; Fair/Festival,Mutiple Mexican Foods,Beef; Leafy Green; Wraps/Tortillas,Norovirus genogroup II,Unknown,1,50,0.0,0.0
+12239,2007,11,New York,Private Home/Residence,"Turkey, Baked",Turkey,Salmonella enterica,Hadar,1,6,1.0,0.0
+12248,2007,11,Oregon,Catering Service,"Sandwich, Turkey; Sandwich, Beef; Sandwich, Ham; Sandwich, Tuna Fish",Leafy Green; Leafy Green; Leafy Green; Leafy Green,Norovirus genogroup I,GI_1,0,25,1.0,0.0
+12285,2007,12,Colorado,Private Home/Residence,"Multiple Cheeses, Pasteurized",Cheese,Salmonella enterica,Montevideo,1,6,2.0,0.0
+12339,2007,12,Virginia,Private Home/Residence,"Lasagna, Beef",Egg,Salmonella enterica,Enteritidis,1,9,2.0,0.0
+12356,2008,1,California,Restaurant,House Salad,Leafy Green,Norovirus genogroup II,Unknown,1,51,0.0,0.0
+12426,2008,1,South Carolina,Private Home/Residence,Macaroni And Cheese,Egg,Salmonella enterica,Enteritidis,1,12,6.0,0.0
+12443,2008,2,California,Private Home/Residence,Raw Cookie Dough,Egg,Salmonella enterica,Enteritidis,1,4,2.0,0.0
+12844,2008,6,Connecticut,Private Home/Residence,Raw Milk,Milk,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),1,14,5.0,0.0
+12856,2008,6,Georgia,Restaurant,"Beef, Other",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,12,10.0,0.0
+12885,2008,6,Minnesota,Private Home/Residence,"Turkey, Unspecified",Turkey,Salmonella enterica,Hadar,1,6,3.0,0.0
+12920,2008,7,California,Private Home/Residence,Mole; Pasta With Tomato Sauce,Vine-Stalk Eg. Tomato; Pasta,Salmonella enterica,Blockley,1,9,0.0,0.0
+12921,2008,7,California,Restaurant,"Peppers, Jalapeno",Vine-Stalk Eg. Tomato,Salmonella enterica,Braenderup,1,17,0.0,0.0
+12963,2008,7,New York,Private Home/Residence,Fruit Salad,"Fruit, Unspecified",Salmonella enterica,Panama,1,17,1.0,0.0
+12965,2008,7,New York,Restaurant; Private Home/Residence,"Beef, Unspecified",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,8,8.0,0.0
+12984,2008,7,Virginia,Restaurant,Omelette,Cheese; Leafy Green,Salmonella enterica,Heidelberg,1,17,2.0,0.0
+12985,2008,7,Virginia,Camp,"Ground Beef, Other",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,59,9.0,0.0
+13043,2008,8,New York,Restaurant,Turkey,Turkey,Salmonella enterica,Hadar,1,50,15.0,0.0
+13069,2008,8,Virginia,Catering Service,Hybrid Striped Bass,Fin Fish,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla,Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed,45,1.0,0.0
+13082,2008,9,California,Restaurant,Tri-Tip,Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,27,5.0,0.0
+13087,2008,9,Colorado,Restaurant; Catering Service,"Alfalfa Sprouts; Iceberg Lettuce, Unspecified",Sprouts; Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),1,21,2.0,0.0
+13116,2008,9,New York,Private Home/Residence,"Ground Beef, Hamburger; Steak, Other; Sandwich, Beef",Beef; Beef; Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,8,5.0,0.0
+13144,2008,10,California,Restaurant,"Chicken, Roasted",Chicken,Salmonella enterica,Typhimurium,1,4,0.0,0.0
+13169,2008,10,New York,Restaurant; Banquet Facility,"Steak, Prime Rib",Beef,Salmonella enterica,Enteritidis,1,16,0.0,0.0
+13222,2008,11,Florida,Restaurant; School/College/University,Ice Tea; Ice,Water Based (Eg. Drink Mix); Water,Norovirus genogroup II,Unknown,1,33,0.0,0.0
+13249,2008,11,New York,Religious Facility,Specialty/Ethnic Dishes,Chicken,Salmonella enterica,Enteritidis,1,66,16.0,0.0
+13293,2008,12,California,Restaurant,Macaroni And Cheese,Egg,Salmonella enterica,Heidelberg,1,16,2.0,0.0
+13329,2008,12,Massachusetts,Private Home/Residence,"Eggnog, Homemade",Egg,Salmonella enterica,Enteritidis,1,18,10.0,0.0
+13365,2008,12,Pennsylvania,Private Home/Residence,Other Food,Egg,Salmonella enterica,Enteritidis,1,14,3.0,0.0
+13571,2009,3,Oregon,Restaurant; Private Home/Residence,Chicken,Chicken,Salmonella enterica,Heidelberg,1,26,8.0,0.0
+13744,2009,6,North Dakota,Private Home/Residence; Banquet Facility,Taco Meat,Beef,Salmonella enterica,Montevideo,1,36,2.0,0.0
+13745,2009,6,North Dakota,Private Home/Residence; Banquet Facility,Roast Beef,Beef,Salmonella enterica,Montevideo,1,88,0.0,0.0
+13800,2009,7,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,0.0,0.0
+13802,2009,7,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,3,1.0,0.0
+13811,2009,7,Oregon,Camp,Scrambled Eggs,Egg,Salmonella enterica,Enteritidis,1,59,0.0,0.0
+13819,2009,7,Virginia,Restaurant,Lasagna,Egg,Salmonella enterica,Enteritidis,1,19,2.0,0.0
+13839,2009,8,Colorado,Catering Service,"Iceberg Lettuce, Unspecified",Lettuce,Salmonella enterica,Typhimurium,1,27,1.0,0.0
+13866,2009,8,New York,Camp,Beef,Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,1.0,0.0
+13912,2009,9,Pennsylvania,Restaurant,Hollandaise Sauce,Egg,Salmonella enterica,Enteritidis,1,12,0.0,0.0
+13935,2009,10,Multistate,Restaurant,Needle Tenderized Steak,"Steak, Sirloin","Escherichia coli, Shiga toxin-producing",O157:H7,1,25,9.0,1.0
+13939,2009,10,New York,Restaurant,Caesar Dressing,Egg,Salmonella enterica,Enteritidis,1,5,0.0,0.0
+13950,2009,11,California,Restaurant,"Mayonnaise, Homemade; Homemade Tartar Sauce; Vegetable-Based Salads",Egg; Egg; Egg,Salmonella enterica,Enteritidis,1,4,1.0,0.0
+14135,2010,2,California,Fast Food Restaurant,"Carnitas, Unspecified",Pork,Salmonella enterica,Give,1,50,2.0,0.0
+14182,2010,2,Oregon,Restaurant; Private Home/Residence,Oysters,Oysters,Norovirus genogroup I,GI_2,1,16,0.0,0.0
+14183,2010,2,Oregon,Restaurant,Lettuce,Leaf Lettuce,Norovirus genogroup II,GII_12,1,23,0.0,0.0
+14217,2010,3,California,Restaurant,Carne Asada,Beef,Salmonella enterica,Typhimurium,1,22,2.0,0.0
+14306,2010,4,Florida,Private Home/Residence; Banquet Facility,"Pork; Chicken, Bbq",Pork; Chicken,Salmonella enterica,Anatum,1,37,1.0,0.0
+14328,2010,4,Multistate,Fast Food Restaurant; Fair/Festival; School/College/University,"Romaine Lettuce, Unspecified",Romaine Lettuce,"Escherichia coli, Shiga toxin-producing",O145,1,31,14.0,0.0
+14329,2010,4,Multistate,Restaurant; Private Home/Residence; Grocery Store,Mamey Shake,Mamey Fruit,Salmonella enterica,Typhi,1,12,9.0,0.0
+14332,2010,4,Multistate,Private Home/Residence,"Ground Turkey, Unspecified",Turkey,Salmonella enterica,Berta,1,35,2.0,0.0
+14434,2010,5,Pennsylvania,Restaurant; Banquet Facility,"Lasagna, Beef; Soup, Speciality, Other",Egg; Egg,Salmonella enterica,Enteritidis,1,37,5.0,0.0
+14472,2010,6,Florida,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica,Newport,1,6,0.0,0.0
+14540,2010,7,Colorado,Restaurant,Rattlesnake Cake,Egg,Salmonella enterica,Enteritidis,1,29,4.0,0.0
+14542,2010,7,Colorado,Restaurant,"Eggs, Unspecified",Egg,Salmonella enterica,Enteritidis,1,2,0.0,0.0
+14598,2010,8,Alaska,Restaurant,Hollandaise Sauce,Egg,Salmonella enterica,Thompson,1,7,2.0,0.0
+14632,2010,8,Michigan,Nursing Home/Assisted Living Facility,Potato Salad,Yellow Onion,Salmonella enterica,Javiana,1,41,5.0,0.0
+14748,2010,10,Iowa,Private Home/Residence,"Carnitas, Unspecified",Pork,Salmonella enterica,Infantis,1,6,6.0,0.0
+14761,2010,10,Multistate,Grocery Store,Gouda Cheese (Unpasteurized Milk),"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing",O157:H7,1,38,15.0,0.0
+14806,2010,11,Minnesota,School/College/University,Venison,Venison,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",O103:H2; O145:NM,Confirmed; Confirmed,29,2.0,0.0
+14915,2011,1,Maryland,Catering Service,"Salad, Unspecified; Lettuce",Leaf Lettuce,Norovirus genogroup II,GII_4 Untypeable,1,93,0.0,0.0
+14924,2011,1,Multistate,Grocery Store,"Deli Meat, Bologna",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,14,3.0,0.0
+14927,2011,1,New York,Private Home/Residence,Venison,Venison,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,1.0,0.0
+14979,2011,2,Minnesota,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Enteritidis,1,3,0.0,0.0
+14987,2011,2,New York,Private Home/Residence,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,0.0,0.0
+15020,2011,3,Georgia,Fast Food Restaurant; Restaurant; Restaurant; Private Home/Residence,"Cucumber; Tomato, Unspecified",Cucumber; Tomato,Salmonella enterica,Saintpaul,1,14,2.0,0.0
+15030,2011,3,Maryland,Religious Facility,"Sausage, Pork",Pork,Salmonella enterica,Infantis,1,18,5.0,0.0
+15041,2011,3,New York,Private Home/Residence,Venison,Venison,"Escherichia coli, Shiga toxin-producing",O157:H7,1,2,2.0,0.0
+15093,2011,4,Michigan,Fast Food Restaurant,Clover Sprouts,Clover Sprouts,Salmonella enterica,Muenchen,1,7,4.0,0.0
+15100,2011,4,Multistate,Private Home/Residence; Grocery Store; Nursing Home/Assisted Living Facility; School/College/University,"Liver, Chicken","Liver, Chicken",Salmonella enterica,Heidelberg,1,190,30.0,0.0
+15155,2011,5,Florida,Private Home/Residence,"Avocado, Unspecified",Avocado,Salmonella enterica,Braenderup,1,3,0.0,0.0
+15178,2011,5,Minnesota,Private Home/Residence,Pork,Pork,Salmonella enterica,"I 4,[5],12:i:-",1,14,4.0,0.0
+15245,2011,6,Missouri,Private Home/Residence; Catering Service,Smoked Whole Hog,Pork,Salmonella enterica; Salmonella enterica,Agona; Derby,Confirmed; Confirmed,13,0.0,0.0
+15323,2011,7,Michigan,Restaurant; Private Home/Residence; Camp,Ground Beef,Beef,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),1,12,8.0,0.0
+15326,2011,7,Minnesota,Private Home/Residence,Fruit,Strawberries; Watermelon,"Escherichia coli, Shiga toxin-producing",O157:H7,1,6,1.0,0.0
+15335,2011,7,New York,Private Home/Residence,"Turkey, Roasted",Turkey,Salmonella enterica,Typhimurium,1,21,2.0,0.0
+15339,2011,7,New York,Unknown,Tomatoes,Tomato,Salmonella enterica,Newport,1,10,3.0,0.0
+15374,2011,8,Kansas,Unknown,Sprouts,Sprouts,Salmonella enterica,Agona,1,7,1.0,0.0
+15383,2011,8,Minnesota,Private Home/Residence,Watermelon,Watermelon,Salmonella enterica,Typhimurium,1,15,2.0,0.0
+15386,2011,8,Minnesota,Private Home/Residence,"Eggs, Other",Egg,Salmonella enterica,Enteritidis,1,8,3.0,0.0
+15429,2011,9,Illinois,Private Home/Residence; Grocery Store,"Carnitas, Unspecified",Pork,Salmonella enterica,Typhimurium,1,12,3.0,0.0
+15430,2011,9,Illinois,Restaurant,Chicken,Chicken,Salmonella enterica,Enteritidis,1,8,0.0,0.0
+15446,2011,9,Michigan,Catering Service,Pulled Pork,Pork,Salmonella enterica,Derby,1,35,6.0,0.0
+15451,2011,9,Multistate,Restaurant,Hummus,Tahini,Salmonella enterica,Bovismorbificans,1,23,0.0,0.0
+15469,2011,9,Ohio,Private Home/Residence,"Ground Beef, Meatballs",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,4,1.0,0.0
+15476,2011,9,South Carolina,Religious Facility,"Pork, Bbq",Pork,Salmonella enterica; Staphylococcus aureus; Bacillus cereus,Typhimurium var Cope,Confirmed; Confirmed; Confirmed,68,1.0,0.0
+15518,2011,10,Multistate,Private Home/Residence,Ground Beef,Ground Beef,Salmonella enterica,Typhimurium var Cope,1,20,8.0,0.0
+15641,2011,12,Michigan,Restaurant,"Pizza, Tostada; Sandwich, Submarine",Lettuce; Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,1,22,4.0,0.0
+15662,2011,12,New York,Fast Food Restaurant,Roast Beef; Lettuce,Roast Beef; Lettuce,Salmonella enterica,Hartford,1,5,5.0,0.0
+15730,2012,1,Maryland,Restaurant,"Pie, Merengue",Egg,Salmonella enterica,Enteritidis,1,8,7.0,0.0
+15740,2012,1,Minnesota,Restaurant,Swiss Meringue Butter Cream,Egg,Salmonella enterica,Enteritidis,1,7,0.0,0.0
+15742,2012,1,Multistate,Fast Food Restaurant; Restaurant; School/College/University,Tuna Sushi,Tuna,Salmonella enterica; Salmonella enterica,Bareilly; Nchanga,Confirmed; Confirmed,425,55.0,0.0
+15764,2012,1,Ohio,Catering Service,Fruit Salad,Blueberries; Grapes; Pineapple; Strawberries,Norovirus genogroup II,GII_4 New Orleans (2009),0,6,0.0,0.0
+15804,2012,2,Florida,Fair/Festival,Chicken,Chicken,Salmonella enterica,Newport,1,8,3.0,0.0
+15838,2012,2,Ohio,Restaurant,Ice,Water,Norovirus genogroup II,GII_4 New Orleans (2009),1,29,1.0,0.0
+15898,2012,3,Missouri,Private Home/Residence,"Milk, Whole Milk Unpasteurized; Ground Beef","Milk, Whole Milk Unpasteurized; Ground Beef","Escherichia coli, Shiga toxin-producing",O157:H7,1,19,5.0,0.0
+15937,2012,4,California,Restaurant,Vegetable-Based Salads Unspecified,Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,1,12,1.0,0.0
+15957,2012,4,Maryland,Restaurant,Crab Cakes,Egg,Salmonella enterica,Enteritidis,1,4,0.0,0.0
+15968,2012,4,Minnesota,Restaurant,Hollandaise Sauce,Egg,Salmonella enterica,Enteritidis,1,4,0.0,0.0
+15979,2012,4,Ohio,Catering Service,Mesclun Mix And Spinach,Lettuce; Mesclun Mix; Spinach,Norovirus genogroup I,GI_7,1,29,0.0,0.0
+16010,2012,5,California,Private Home/Residence,"Fajita, Chicken",Chicken,Salmonella enterica,Enteritidis,1,38,1.0,0.0
+16064,2012,5,Wisconsin,Private Home/Residence,"Beef, Laab Raw; Beef, Intestine Soup With Vegetables; Beef, Laab Cooked","Beef, Raw; Beef; Beef",Salmonella enterica; Campylobacter jejuni,Dublin,Confirmed; Suspected,21,5.0,0.0
+16074,2012,6,California,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica; Salmonella enterica,Agona; Infantis; Derby,Suspected; Confirmed; Confirmed,23,2.0,0.0
+16142,2012,7,Colorado,Private Home/Residence,Raw Milk,Milk,"Escherichia coli, Shiga toxin-producing",O111:NM,1,2,0.0,0.0
+16154,2012,7,Minnesota,Restaurant,Eggs,Egg,Salmonella enterica,Enteritidis,1,2,0.0,0.0
+16161,2012,7,Multistate,Private Home/Residence,Sprouts,Sprouts,Salmonella enterica,Cubana,1,19,0.0,0.0
+16220,2012,8,Minnesota,Private Home/Residence,"Beef, Raw",Ground Beef,Salmonella enterica,Enteritidis,1,24,2.0,0.0
+16230,2012,8,Pennsylvania,Private Home/Residence,"Ground Beef, Meatballs",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,3,0.0,0.0
+16274,2012,9,Ohio,Banquet Facility,"Iceberg Lettuce, Unspecified",Lettuce,Norovirus genogroup II,GII_1,1,37,2.0,0.0
+16283,2012,9,Pennsylvania,Restaurant,Salads,Romaine Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,1,9,7.0,0.0
+16300,2012,10,Florida,Restaurant,"Fish, White",Chicken,Salmonella enterica,Anatum,0,2,1.0,0.0
+16320,2012,10,Michigan,Private Home/Residence,"Apple Cider, Unpasteurized",Apple,"Escherichia coli, Shiga toxin-producing",O157:NM (H-),1,3,0.0,0.0
+16328,2012,10,Multistate,Private Home/Residence,Prepackaged Leafy Greens,Leafy Green,"Escherichia coli, Shiga toxin-producing",O157:H7,1,33,13.0,0.0
+16350,2012,10,South Carolina,Religious Facility,Chicken,Chicken,Salmonella enterica,Enteritidis,1,33,1.0,0.0
+16380,2012,11,California,Restaurant,"Pork, Carnitas",Pork,Salmonella enterica,Unknown,1,4,3.0,0.0
+16391,2012,11,Florida,Restaurant,"Iceberg Lettuce, Unspecified",Lettuce,Norovirus genogroup I,GI_9,1,21,0.0,0.0
+16414,2012,11,Minnesota,Private Home/Residence,"Turkey, Smoked",Turkey,Salmonella enterica,Saintpaul,1,2,0.0,0.0
+16525,2012,12,Wisconsin,Grocery Store,"Ground Beef, Raw",Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,17,0.0,0.0
+16552,2013,1,Michigan,Restaurant,"Sandwich, Unspecified; Salad, Unspecified",Tomato; Tomato,Salmonella enterica,Newport,1,14,1.0,0.0
+16568,2013,1,Ohio,Restaurant,"Refried Beans, Unspecified; Rice",Beans; Rice,Norovirus genogroup II,GII_4 Sydney (2012),1,10,0.0,0.0
+16604,2013,2,Michigan,School/College/University,Cucumber,Cucumber,Salmonella enterica,"I 4,[5],12:i:-",1,12,1.0,0.0
+16607,2013,2,Multistate,Private Home/Residence,Tahini,Tahini,Salmonella enterica; Salmonella enterica,Montevideo; Mbandaka,Confirmed; Confirmed,17,1.0,1.0
+16659,2013,3,Georgia,School/College/University,"Chicken, Bbq",Chicken,Salmonella enterica,Montevideo,1,5,0.0,0.0
+16678,2013,3,Minnesota,Private Home/Residence,"Queso Fresco, Unpasteurized","Milk, Whole Milk Unpasteurized",Salmonella enterica,Typhimurium,1,26,15.0,0.0
+16702,2013,3,Oregon,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Heidelberg,1,17,5.0,0.0
+16765,2013,4,Michigan,Catering Service,"Salad, Unspecified",Tomato,"Escherichia coli, Shiga toxin-producing",O157:H7,0,20,7.0,0.0
+16787,2013,4,Pennsylvania,Catering Service,Ham,Ham,Salmonella enterica,Enteritidis,1,35,1.0,0.0
+16810,2013,5,California,School/College/University,"Tomatoes, Raw",Tomato,Salmonella enterica,Enteritidis,1,27,2.0,0.0
+16816,2013,5,California,Private Home/Residence,"Beef(Fresly Killed Cow), Raw And/Or Undercooked; Beef(Fresly Killed Cow), Raw And/Or Undercooked; Beef(Fresly Killed Cow), Raw And/Or Undercooked",Beef; Beef; Beef,Salmonella enterica,Newport,1,137,6.0,0.0
+16851,2013,5,Minnesota,Banquet Facility,"Bread, Wheat; Swiss Cheese, Pasteurized","Bread, Wheat; Swiss Cheese",Norovirus genogroup II,GII_5,0,7,0.0,0.0
+16899,2013,5,Wisconsin,Religious Facility,"Beef, Laab Raw; Boiled Beef",Beef,Salmonella enterica,Uganda,1,25,2.0,0.0
+16921,2013,6,Florida,Restaurant,"Pork, Smoked",Pork,Salmonella enterica,Enteritidis,1,6,4.0,0.0
+16922,2013,6,Florida,Restaurant,"Oysters, Raw",Oysters,Vibrio cholerae,Other,0,2,1.0,0.0
+16937,2013,6,Maryland,Restaurant,Goat,Goat,Salmonella enterica,Typhimurium,1,9,1.0,0.0
+16943,2013,6,Massachusetts,Fast Food Restaurant; Restaurant; Fair/Festival,Falafel,Chick Peas; Egg; Eggplant,Salmonella enterica,Javiana,1,30,0.0,0.0
+16957,2013,6,Multistate,Private Home/Residence,Papaya,Papaya,Salmonella enterica,Thompson,1,13,6.0,1.0
+16977,2013,6,Tennessee,Restaurant,Lamb Curry,Lamb,"Escherichia coli, Shiga toxin-producing",O157:H7,1,7,3.0,0.0
+16991,2013,7,Arizona,Fast Food Restaurant,Lettuce,Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,1,94,22.0,0.0
+16998,2013,7,California,Restaurant,"Oysters, Raw",Oysters,Vibrio parahaemolyticus,Unknown,1,3,0.0,0.0
+16999,2013,7,California,Private Home/Residence; Unknown,Green Leaf Lettuce,Green Leaf Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,1,5,5.0,0.0
+17011,2013,7,Massachusetts,Restaurant,Eggs,Egg,Salmonella enterica,Typhimurium,1,13,2.0,0.0
+17016,2013,7,Minnesota,Private Home/Residence,"Goat, Unspecified",Goat,Salmonella enterica,Livingstone,1,4,1.0,0.0
+17020,2013,7,Nebraska,Restaurant,"Sushi, Unspecified",Rice; Salmon Heads; Tuna,Salmonella enterica,Newport,1,10,0.0,0.0
+17041,2013,7,Rhode Island,Fair/Festival,"Pork, Other",Pork,Salmonella enterica,"I 4,[5],12:i:-",1,16,3.0,0.0
+17045,2013,7,Washington,Restaurant,"Oysters, Raw",Oysters,Vibrio parahaemolyticus,Unknown,0,5,0.0,0.0
+17080,2013,8,Minnesota,Fair/Festival,"Pork; Tripe; Potato, Unspecified; Rice, Unspecified; Corn; Guinea Pig",Pork; Pork; Potato; Rice; Corn; Guinea Pig,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,"Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum",Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected,119,11.0,0.0
+17112,2013,8,South Carolina,Restaurant,Chicken,Chicken,Salmonella enterica,Javiana,1,2,1.0,0.0
+17114,2013,8,Tennessee,Restaurant,"Fajita, Beef",Beef,Salmonella enterica,Javiana,1,7,0.0,0.0
+17115,2013,8,Tennessee,School/College/University,Ground Chicken,Chicken,Salmonella enterica; Campylobacter jejuni,Enteritidis,Confirmed; Confirmed,24,1.0,0.0
+17120,2013,8,Virginia,Restaurant,"Crab; Soup, Gazpacho",Crab; Tomato; Crab; Tomato,Salmonella enterica,Newport,1,9,0.0,0.0
+17135,2013,9,Florida,Grocery Store,Kale,Kale,"Escherichia coli, Shiga toxin-producing",O157:H7,1,7,5.0,0.0
+17140,2013,9,Kentucky,Restaurant,"Chicken; Fajita, Beef",Chicken; Steak,Salmonella enterica,Typhimurium,1,14,6.0,1.0
+17142,2013,9,Massachusetts,Fair/Festival,Turkey Leg,Turkey,Salmonella enterica,Braenderup,1,4,0.0,0.0
+17146,2013,9,Missouri,Private Home/Residence,Turkey,Turkey,Salmonella enterica,Muenchen,1,14,1.0,0.0
+17173,2013,9,South Carolina,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Typhimurium,1,11,1.0,0.0
+17194,2013,10,Colorado,Fast Food Restaurant,"Sandwich, Cucumber",Cucumber,"Escherichia coli, Shiga toxin-producing",O157:H7,1,9,1.0,0.0
+17217,2013,10,Ohio,Restaurant,"Ground Beef, Hamburger; Caesar Dressing",Ground Beef; Egg,Salmonella enterica,Lomalinda,1,2,0.0,0.0
+17227,2013,10,Tennessee,Restaurant,Chicken,Chicken,Salmonella enterica,Enteritidis,1,3,0.0,0.0
+17254,2013,11,Michigan,Restaurant,"Thai Chicken Lettuce Wrap; Salad, Unspecified; Chicken, Grilled",Egg; Egg; Egg,Salmonella enterica,Enteritidis,1,62,2.0,0.0
+17259,2013,11,Missouri,Private Home/Residence,Chicken Mole,Chicken,Salmonella enterica,Heidelberg,1,7,3.0,0.0
+17276,2013,11,Tennessee,Prison/Jail,Chicken,Chicken,Salmonella enterica,Heidelberg,1,24,3.0,0.0
+17343,2013,12,Utah,Fast Food Restaurant,Alfalfa Sprouts,Alfalfa Sprouts,Salmonella enterica,Enteritidis,1,3,0.0,0.0
+17378,2014,1,Massachusetts,Private Home/Residence,"Chicken, Casserole",Chicken,Salmonella enterica,Enteritidis,1,20,0.0,0.0
+17406,2014,2,Alaska,Restaurant,Goat,Goat,Salmonella enterica,Stanley,1,3,0.0,0.0
+17419,2014,2,Connecticut,Fast Food Restaurant,Pork,Pork,Salmonella enterica,Infantis,1,10,5.0,0.0
+17452,2014,2,Virginia,Restaurant,"Salad, Unspecified","Carrots; Cucumber; Peppers, Green; Tomato",Norovirus genogroup II,Other,1,44,0.0,0.0
+17501,2014,3,Michigan,Private Home/Residence,Raw Milk,"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing",O157:H7,1,2,0.0,0.0
+17594,2014,4,Minnesota,School/College/University,"Romaine Lettuce, Unspecified",Romaine Lettuce,"Escherichia coli, Enteroaggregative",O126,1,4,0.0,0.0
+17597,2014,4,Multistate,Restaurant,"Ground Beef, Hamburger",Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,12,7.0,0.0
+17598,2014,4,Multistate,Fast Food Restaurant,Spinach,Spinach,"Escherichia coli, Shiga toxin-producing",O157:H7,1,4,1.0,0.0
+17658,2014,5,Connecticut,Restaurant,Chicken,Chicken,Salmonella enterica,Enteritidis,1,8,3.0,0.0
+17696,2014,5,Multistate,Fast Food Restaurant; Restaurant,Clover Sprouts,Clover Sprouts,"Escherichia coli, Shiga toxin-producing",O121,1,19,5.0,0.0
+17697,2014,5,Multistate,Private Home/Residence,"Mango, Unspecified",Mango,Salmonella enterica,Minnesota,1,4,1.0,0.0
+17700,2014,5,Multistate,Restaurant; Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,12,4.0,0.0
+17713,2014,5,Oklahoma,Catering Service,"Chicken, Smoked",Chicken,Salmonella enterica,Heidelberg,1,19,1.0,0.0
+17727,2014,5,Virginia,Grocery Store,"Ground Beef, Hamburger; Chips; Lemonade, Unspecified",Ground Beef,Salmonella enterica,Typhimurium,1,4,0.0,0.0
+17760,2014,6,Florida,Prison/Jail,Chicken,Chicken,Salmonella enterica,Enteritidis,1,4,4.0,0.0
+17775,2014,6,Kentucky,Restaurant,"Chicken, Fried; Dressing; Ham; Turkey; Bread, Crumbs",Chicken; Ham; Turkey,Salmonella enterica,"I 4,[5],12:i:-",1,19,3.0,0.0
+17782,2014,6,Massachusetts,Private Home/Residence,Ground Beef,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,4,2.0,1.0
+17788,2014,6,Minnesota,Restaurant,Cabbage,Cabbage,"Escherichia coli, Shiga toxin-producing",O111,1,15,4.0,0.0
+17809,2014,6,Ohio,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica,"I 4,[5],12:i:-; I 4,[5],12:i:-",Confirmed; Suspected,18,2.0,0.0
+17856,2014,7,Maryland,Restaurant,Eggs,Egg,Salmonella enterica,Enteritidis,1,18,3.0,0.0
+17861,2014,7,Minnesota,Catering Service,"Potato Salad; Celery, Unspecified",Celery; Celery,"Escherichia coli, Shiga toxin-producing",O157:H7,1,57,9.0,0.0
+17864,2014,7,Minnesota,Fast Food Restaurant,"Romaine Lettuce, Unspecified",Romaine Lettuce,Salmonella enterica,Miami,1,7,1.0,0.0
+17867,2014,7,Mississippi,Fast Food Restaurant,"Crawfish/Crayfish, Unspecified",Crawfish/Crayfish,Salmonella enterica,Paratyphi B,1,11,2.0,0.0
+17908,2014,8,California,Private Home/Residence; Catering Service,Chicken,Chicken,Salmonella enterica,Carmel,1,33,1.0,0.0
+17944,2014,8,Massachusetts,Restaurant,Chicken Liver Pate,"Liver, Chicken",Campylobacter jejuni; Salmonella enterica,Enteritidis,Confirmed; Confirmed,5,0.0,0.0
+17952,2014,8,Minnesota,Private Home/Residence,"Chicken, Kiev",Chicken,Salmonella enterica,Enteritidis,1,8,1.0,0.0
+17969,2014,8,Virginia,Private Home/Residence; Catering Service,"Sandwich, Chicken",Chicken,Salmonella enterica,Thompson,1,37,3.0,0.0
+17988,2014,9,Kentucky,Private Home/Residence,"Milk, Unpasteurized","Milk, Whole Milk Unpasteurized","Escherichia coli, Shiga toxin-producing",O157:H7,1,4,4.0,0.0
+17991,2014,9,Michigan,Private Home/Residence,"Salmon, Smoked","Fish, Salmon",Salmonella enterica,Enteritidis,1,3,1.0,0.0
+17996,2014,9,Minnesota,Private Home/Residence,Chicken,Chicken,Salmonella enterica,Infantis,1,2,1.0,0.0
+18012,2014,9,South Carolina,Private Home/Residence,Turkey,Turkey,Salmonella enterica,Enteritidis,1,7,2.0,0.0
+18028,2014,9,Wisconsin,Private Home/Residence,Kale,Kale,Cryptosporidium parvum,Other,1,8,0.0,0.0
+18098,2014,11,Florida,Restaurant,Buffet,Buffet,Norovirus genogroup II,Unknown,1,7,0.0,0.0
+18099,2014,11,Florida,Grocery Store,"Taco, Beef",Lettuce,"Escherichia coli, Shiga toxin-producing",Unknown,0,2,0.0,0.0
+18102,2014,11,Illinois,Restaurant,Chilaquiles,Egg,Salmonella enterica,Enteritidis,1,4,0.0,0.0
+18119,2014,11,Multistate,Fast Food Restaurant,Salad,Leaf Lettuce,"Escherichia coli, Shiga toxin-producing",O157:H7,1,11,2.0,0.0
+18173,2014,12,Florida,Catering Service,"Ice; Green Beans; Chicken, Marsala",Ice; Green Beans; Chicken; Mushrooms,Norovirus genogroup II,GII_4 Sydney (2012),1,31,0.0,0.0
+18176,2014,12,Georgia,Catering Service,"Chicken, Smoked",Chicken,Salmonella enterica,Thompson,1,56,4.0,0.0
+18188,2014,12,Massachusetts,Fast Food Restaurant,Bacalhau A Gomes De Sa,"Fish, Codfish",Salmonella enterica,Typhimurium,1,57,6.0,0.0
+18252,2015,1,Minnesota,Restaurant Buffet,"Chicken; Banana, Unspecified",Chicken; Banana,Norovirus genogroup II,GII_6,1,4,0.0,0.0
+18290,2015,2,California,Restaurant,"Oysters, Raw",Oysters,Norovirus unknown; Salmonella enterica,Enteritidis,Confirmed; Suspected,21,0.0,0.0
+18352,2015,3,Arizona,Banquet Facility,Bruschetta,Basil; Bread; Oil; Tomato,Salmonella enterica,Enteritidis,1,38,1.0,0.0
+18393,2015,3,Michigan,Restaurant,Chicken; Salad; Eggs,Chicken; Lettuce; Tomato; Egg,Salmonella enterica,Braenderup,1,6,3.0,0.0
+18448,2015,3,Wisconsin,Restaurant,"Oysters, Raw","Oysters, Raw",Norovirus genogroup I,GI_2,1,6,0.0,0.0
+18450,2015,3,Wisconsin,Fast Food Restaurant,Sushi,Tuna Steak,Salmonella enterica,Weltevreden,1,4,1.0,0.0
+18499,2015,4,Missouri,Restaurant; Private Home/Residence; Grocery Store,Eggs,Egg,Salmonella enterica; Salmonella enterica,Oranienburg; Oranienburg,Confirmed; Confirmed,46,13.0,0.0
+18503,2015,4,Multistate,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica,Enteritidis,1,15,4.0,0.0
+18508,2015,4,New York,Restaurant,Chicken And Waffles,"Liver, Chicken",Salmonella enterica,Enteritidis,1,7,1.0,0.0
+18549,2015,5,Florida,Catering Service,Fettucine Alfredo,Cream; Parmesan Cheese; Pasta,Salmonella enterica,Enteritidis,1,14,0.0,0.0
+18556,2015,5,Kansas,Restaurant,"Tomatoes, Raw; Ground Beef",Tomato; Ground Beef,Salmonella enterica,Typhimurium,1,10,1.0,0.0
+18576,2015,5,Minnesota,Private Home/Residence,Stuffed Chicken,Chicken,Salmonella enterica,Enteritidis,1,5,2.0,0.0
+18596,2015,5,Ohio,Banquet Facility,Salad,Lettuce,Norovirus genogroup II,GII_4 Sydney (2012),1,48,1.0,0.0
+18597,2015,5,Ohio,Banquet Facility,"Salad, Unspecified",Lettuce,Norovirus genogroup II,GII_4 Sydney (2012),1,4,0.0,0.0
+18619,2015,5,Wisconsin,Grocery Store,"Pork, Carnitas",Pork,Salmonella enterica,"I 4,[5],12:i:-",1,73,7.0,0.0
+18663,2015,6,Minnesota,Private Home/Residence,Pork,Pork,Salmonella enterica,Agona,1,10,0.0,0.0
+18674,2015,6,North Carolina,Restaurant,"Pork, Bbq",Pork,Salmonella enterica,Typhimurium,1,283,27.0,1.0
+18683,2015,6,Oregon,Restaurant; Private Home/Residence,Pork,Pork,Salmonella enterica,"I 4,[5],12:i:-",1,3,0.0,0.0
+18717,2015,7,Connecticut,Nursing Home/Assisted Living Facility,Chicken Tenders,Chicken,Salmonella enterica,Enteritidis,1,3,1.0,0.0
+18721,2015,7,Florida,Restaurant,"Salad, Unspecified",Salad,Norovirus genogroup II,GII_4 Sydney (2012),1,12,1.0,0.0
+18731,2015,7,Illinois,Catering Service,Chicken Breast,Chicken,"Shigella; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Salmonella enterica; Salmonella enterica",O157:H7; Typhimurium; Enteritidis,Suspected; Suspected; Confirmed; Suspected; Suspected; Confirmed,10,1.0,0.0
+18736,2015,7,Maryland,Restaurant,"Crab, Unspecified",Crab,"Escherichia coli, Shiga toxin-producing",O157,1,9,6.0,0.0
+18799,2015,8,Hawaii,Fast Food Restaurant,Chicken Katsu Plate; Korean Chicken,Chicken; Chicken,Salmonella enterica,Muenchen,1,3,0.0,0.0
+18814,2015,8,Multistate,Fast Food Restaurant,Salsa,Tomato,Salmonella enterica,Newport,1,119,17.0,0.0
+18825,2015,8,Ohio,Restaurant,"Pastry, Custard-Filled",Egg,Salmonella enterica,Enteritidis,1,9,1.0,0.0
+18828,2015,8,Rhode Island,Private Home/Residence,"Pork, Roasted",Pork,Salmonella enterica; Salmonella enterica,Typhimurium; Typhimurium,Confirmed; Confirmed,20,0.0,0.0
+18850,2015,9,Arizona,Prison/Jail,Tossed Salad,Cabbage; Iceberg Lettuce,Salmonella enterica,Enteritidis,1,252,0.0,0.0
+18862,2015,9,Hawaii,Restaurant,"Oysters, Raw","Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II,Unknown; Unknown,Confirmed; Confirmed,10,0.0,0.0
+18915,2015,10,Florida,Restaurant,"Chicken, Confit",Chicken; Chili Sauce; Onion; Tomato,Salmonella enterica,Enteritidis,1,2,0.0,0.0
+18933,2015,10,Minnesota,Private Home/Residence,Beef,Beef,"Escherichia coli, Shiga toxin-producing",O157,1,3,0.0,0.0
+18937,2015,10,Multistate,Grocery Store,Chicken Salad,Celery; Onion,"Escherichia coli, Shiga toxin-producing",O157:H7,1,19,3.0,0.0
+18957,2015,10,Virginia,Restaurant,"Chicken, Grilled; Chicken, Blackened",Chicken; Chicken,Salmonella enterica,Enteritidis,1,10,1.0,0.0
+18981,2015,11,Georgia,Grocery Store,"Pork, Carnitas",Pork,Salmonella enterica,Mbandaka,1,17,0.0,0.0
+18983,2015,11,Hawaii,Restaurant,"Oysters, Raw","Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II,Unknown; Unknown,Confirmed; Confirmed,3,0.0,0.0
+19012,2015,11,Tennessee,Restaurant,Hamburger,Ground Beef,"Escherichia coli, Shiga toxin-producing",O157:H7,1,13,0.0,0.0
+19014,2015,11,Utah,Catering Service,"Eggs, Scrambled",Egg,Salmonella enterica,Enteritidis,1,3,0.0,0.0
+19045,2015,12,Connecticut,Restaurant,Cucumbers,Cucumber,Salmonella enterica,Thompson,1,3,0.0,0.0
+19068,2015,12,Michigan,Private Home/Residence,Cake,Frosting/Icing,Norovirus genogroup II,GII_17 Kawasaki (2014),1,73,0.0,0.0
+19081,2015,12,Multistate,Private Home/Residence,Powder Meal Replacement,Moringa Leaf Powder,Salmonella enterica,Virchow,1,35,6.0,0.0
