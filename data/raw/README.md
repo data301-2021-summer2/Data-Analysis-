@@ -1,1 +1,4 @@
-Any of my raw data and the original, unedited source file will be present here.
+## List of items present:
+
+In the following folder, all of the raw and unedited data which was acquired from kaggle is present. The data is in the form of a 
+csv file and is titled outbreaks.csv .
