@@ -2,7 +2,7 @@
 
 
 
-## Description of the Selected Dataset.
+## Description of the Selected Dataset:
 
 
 The uploaded dataset is provided by the CDC (Center for Disease Control and Prevention) which, is the national public 
@@ -16,7 +16,7 @@ working in health agencies across the US and reporting the data CDC.
 
 
 
-## Description of my interest for this particular datas set.
+## Description of my interest for this particular datas set:
 
 
 As someone who enjoys indulging in fast food, fine dining, and comfort food, I have always had this thought 
@@ -31,9 +31,13 @@ at a local chain or stalls or food trucks.
 
 
 
+
+
 ## Project Created By:
 
 - Aashish Chilwal: Third year Electrical Engineering student with a minor in Computer Science at UBC.
+
+
 
 
 ## References
