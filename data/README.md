@@ -1,2 +1,7 @@
-# Data
-All of the data which are datasets and other statistical measures will be stored here.
+##List of items present:
+
+In the following folder, two subfolders named raw and processed are present.
+<br>
+The raw sub folder contains the acquired data in an unedited form. 
+<br>
+The processed sub folder contains the data set which has been editied and processed.
