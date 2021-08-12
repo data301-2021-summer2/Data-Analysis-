@@ -1,1 +1,1 @@
-Any of the external images used for this project will be added here.
+The archives folder is used to store any redundant files or data.
