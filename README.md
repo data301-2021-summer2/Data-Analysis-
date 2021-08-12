@@ -15,7 +15,7 @@ like to inspect if any trends occur within the given data set or not. Finally, t
 working in health agencies across the US and reporting the data CDC.
 
 
-
+<br>
 ## Description of my interest for this particular datas set:
 
 
@@ -30,7 +30,7 @@ by the consumption of their prepared dishes. Lastly, it will also help me ease m
 at a local chain or stalls or food trucks.
 
 
-
+<br><br>
 
 
 ## Project Created By:
@@ -38,7 +38,7 @@ at a local chain or stalls or food trucks.
 - Aashish Chilwal: Third year Electrical Engineering student with a minor in Computer Science at UBC.
 
 
-
+<br><br>
 
 ## References
 
