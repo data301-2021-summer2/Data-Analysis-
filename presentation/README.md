@@ -1,1 +1,1 @@
-The [link](https://youtu.be/x9A41DmrHvE) to my presentation is here! Thank you very much for viewing my repository and I hope you've gained some valuable information through this.
+The [link](https://youtu.be/x9A41DmrHvE) to my presentation is here! Tableau software was used for creating the current dashboard and data analysis was used to analyse data to generate trends, facts, and some very interesting (expected) conclusions. Thank you very much for viewing my repository and I hope you've gained some valuable information through this.
