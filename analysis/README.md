@@ -1,4 +1,4 @@
-## List of items present:
+##  List of items present:
 
 <br><br>
 
