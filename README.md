@@ -1,4 +1,8 @@
-# The University of British Columbia DATA 301 - Group 32 - Food Detectives 
+# Food Detectives 
+
+<br><br>
+
+## The University of British Columbia DATA 301 - Group 32 -
 
 <br><br>
 
