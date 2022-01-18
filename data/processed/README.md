@@ -1,4 +1,4 @@
-## List of items present: 
+##  List of items present: 
 <br>
 
 In the following folder, two files are present: 'Processed_data.ipynb' and 'Processed_data.csv'. The first file contain code written in jupyter notebook
